@@ -1,0 +1,9 @@
+! wB97X-D3 def2-TZVP def2/J CPCM(benzene) RIJCOSX 
+
+%pal
+nprocs 8
+end
+
+%maxcore  1000 
+
+*[XYZFILE]
