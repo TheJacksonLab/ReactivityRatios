@@ -1,0 +1,9 @@
+! B97-3c tightSCF DEFGRID3 noautostart miniprint nopop
+
+%pal
+nprocs 4
+end
+
+%maxcore  1000 
+
+*[XYZFILE]

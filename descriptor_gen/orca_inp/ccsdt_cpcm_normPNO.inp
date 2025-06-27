@@ -1,0 +1,6 @@
+! DLPNO-CCSD(T) normalPNO RIJK cc-pVTZ cc-pVTZ/JK cc-pVTZ/C CPCM(benzene) tightSCF noautostart miniprint nopop
+%maxcore  10000
+%pal nprocs   8 end
+
+
+*[XYZFILE]
