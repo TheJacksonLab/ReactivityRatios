@@ -1,0 +1,23 @@
+{
+    "data_dir": "data/",
+    "input_file": "CKAs.csv",
+    "output_dir": "gen_xyz_CKAs_cappingC",
+    "inchikey2smiles_file": "ckas_cappingC_inchikey2smiles_dic.pkl",
+    "inchikey_reaction_file": "ckas_cappingC_inchikey_reaction_dic.pkl",
+    "skip_geometry": false,
+    "verbose": false,
+    
+    "bond_lengths": {
+        "PreTS": 2.24,
+        "PreSm": 3.0
+    },
+    
+    "column_names": [
+        "Monomer_1", "Monomer_1_smi", "active_smi1",
+        "r1", "Monomer_2", "Monomer_2_smi", "active_smi2", "r2",
+        "smarts_11", "smarts_12", "smarts_21", "smarts_22"
+    ],
+    
+    "smarts_columns": ["smarts_11", "smarts_12", "smarts_21", "smarts_22"],
+    "capping": "[*]C"
+}

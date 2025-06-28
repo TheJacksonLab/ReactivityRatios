@@ -1,0 +1,13 @@
+! wB97X-D3 def2-TZVP def2/J CPCM(benzene) RIJCOSX Opt Freq
+
+%geom
+MaxIter 200
+end
+
+%pal
+nprocs 16
+end
+
+%maxcore  2500 
+
+*[XYZFILE]

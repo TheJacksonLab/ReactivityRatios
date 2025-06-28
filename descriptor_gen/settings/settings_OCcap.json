@@ -1,0 +1,21 @@
+{
+    "data_dir": "data/",
+    "input_file": "monomer_react_ratio_smarts.csv",
+    "output_dir": "gen_xyz_cappingOC",
+    "inchikey2smiles_file": "OC_capping_inchikey2smiles_dic.pkl",
+    "inchikey_reaction_file": "OC_capping_inchikey_reaction_dic.pkl",
+    "skip_geometry": false,
+    "verbose": false,
+    
+    "bond_lengths": {
+    },
+    
+    "column_names": [
+        "Monomer_1", "Monomer_1_smi", "active_smi1",
+        "r1", "Monomer_2", "Monomer_2_smi", "active_smi2", "r2",
+        "smarts_11", "smarts_12", "smarts_21", "smarts_22"
+    ],
+    
+    "smarts_columns": ["smarts_11", "smarts_12", "smarts_21", "smarts_22"],
+    "capping": "[*]OC"
+}
