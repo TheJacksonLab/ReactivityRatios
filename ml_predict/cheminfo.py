@@ -5,8 +5,8 @@ from glob import glob
 import pickle
 import rdkit
 from rdkit import Chem
-from descriptor_list import dft_els_prop, dft_FMO, dft_surface, dft_size_shape
-from descriptor_list import rdkit_descriptors, reac_BV_descriptors
+from utils.descriptor_list import dft_els_prop, dft_FMO, dft_surface, dft_size_shape
+from utils.descriptor_list import rdkit_descriptors, reac_BV_descriptors
 import matplotlib.pyplot as plt
 
 from tqdm import tqdm
