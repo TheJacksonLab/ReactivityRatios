@@ -1,0 +1,65 @@
+{
+  "table_of_contents": [
+    {
+      "title": "TABLE 1. cont'd",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          14.7154541015625,
+          37.78765869140625
+        ],
+        [
+          82.20067167282104,
+          37.78765869140625
+        ],
+        [
+          82.20067167282104,
+          48.6717529296875
+        ],
+        [
+          14.7154541015625,
+          48.6717529296875
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          157
+        ],
+        [
+          "Line",
+          70
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 2,
+        "llm_error_count": 0,
+        "llm_tokens_used": 7071
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/Reactivity Ratio_Handbook-2"
+}
