@@ -1,7 +1,3 @@
-## **B. TABLES**
-
-## **TABLE 1. COPOLYMER REACTIVITY RATIOS**
-
 | Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Acenaphthalene | Acrylate, (-)-menthyl |  |  |  |  | Y | 645 |
@@ -64,9 +60,6 @@
 | Acrolein | Acrylate, ethyl | 1.98 | 0.44 | 1.09 | 0.25 | N | 292 |
 | Acrolein | Acrylate, methyl | -0.07 | 0.03 | 7.86 | 3.58 | N | 207 |
 | Acrolein | Acrylate, methyl | 1.41 | 0.4 | 0.83 | 0.12 | Y | 291 |
-
-## TABLE 1. cont'd
-
 | Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Acrylate, methyl | Carbazole, N-vinyl- | 0.53 | 0.13 | 0.049 | 0.029 | Y | 13 |
@@ -128,9 +121,6 @@
 | Acrylate, methyl | Pyrrolidone, 1-benzyl-3-methylene-5-methyl | 0.125 | 0.025 | 1.58 | 0.24 | Y | 633 |
 | Acrylate, methyl | Styrene | 0.24 |  | 0.82 |  |  | 139 |
 | Acrylate, methyl | Styrene | 0.8 | 0.21 | 0.192 | 0.057 | Y | 14 |
-
-TABLE 1. cont'd
-
 | Monomer 1 | Monomer 2 | r1 ±95% | r2 ±95% | Conv. | Refs. |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Vinyl ethyl oxalate | Acrylonitrile | 0 | 0.28 | 1.34 | 0.45 | Y | 124 |
@@ -197,9 +187,6 @@ TABLE 1. cont'd
 | Vinyl isobutyl sulfide | Acrylonitrile | 0.03 | 0.01 | 0.08 | 0.004 | N | 336 |
 | Vinyl isobutyl sulfide | Acrylate, ethyl | 0.05 | 0.05 | 0.32 | 0.02 | N | 336 |
 | Vinyl isobutyl ether | Fumarate, diethyl | 0 | 0.52 |  |  |  | 640 |
-
-## TABLE 1. cont'd
-
 | Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Vinyl isobutyl sulfide | Methacrylate, methyl | 0.021 | 0.034 | 0.985 | 0.077 | Y | 303 |
@@ -267,9 +254,6 @@ TABLE 1. cont'd
 | Vinyl o-cresyl ether | Methacrylate, methyl | 0.1 |  | 1.8 |  |  | 605 |
 | Vinyl o-cresyl ether | Vinyl chloride | 0.14 | 0.01 | 1.33 | 0.02 | Y | 279 |
 | Vinyl o-cresyl ether | Vinylidene chloride | 0.04 | 0.01 | 2.1 | 0.1 | Y | 279 |
-
-TABLE 1. cont'd
-
 | Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Vinyl octadecyl ether | Acrylonitrile | 0 |  | 0.85 |  |  | 373 |
@@ -336,9 +320,6 @@ TABLE 1. cont'd
 | Vinyl phenyl ketone | Methacrylate, glycidyl | 0.697 |  | 0.719 |  |  | 946 |
 | Vinyl phenyl ketone | Methacrylate, methyl | 0.59 | 1.9 | 0.71 | 0.6 | Y | 794 |
 | Vinyl phenyl ketone | Styrene | 0.465 | 0.03 | 0.21 | 0.042 | Y | 353 |
-
-## TABLE 1. cont'd
-
 | Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Vinyl phenyl ketone | Vinyl acetate | 5.81 | 0.96 | -0.06 | 0.057 | Y | 794 |
@@ -405,11 +386,6 @@ TABLE 1. cont'd
 | Vinylanthracene, 9- | Styrene | 0.25 |  | 2.12 |  |  | 123 |
 | Vinylanthracene, 9- | Styrene | 0.3 |  | 2.12 |  |  | 48 |
 | Vinylbenzoate, p-, sodium | Acrylonitrile | 0.23 | 0.34 | 0.174 | 0.04 | Y | 175 |
-
-## Previous Page
-
-## TABLE 1. cont'd
-
 | Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Vinylbenzoic acid, p- | Acrylonitrile | 1.63 | 0.42 | 0.06 | 0.009 | Y | 175 |
@@ -475,9 +451,6 @@ TABLE 1. cont'd
 | Vinylidene chloride | Acrylonitrile | 0.76 |  | 0.5 |  |  | 404 |
 | Vinylidene chloride | Acrylonitrile | 0.95 |  | 0.48 |  |  | 404 |
 | Vinylidene chloride | Acrylonitrile | 0.95 |  | 0.65 |  |  | 404 |
-
-## TABLE 1. cont'd
-
 | Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Vinylidene chloride | Acrylonitrile | 1.3 |  | 0.65 |  |  | 404 |
@@ -545,9 +518,6 @@ TABLE 1. cont'd
 | Vinylidene chloride | Vinyl acetate | 4.7 |  | 0.12 |  | Y | 812 |
 | Vinylidene chloride | Vinyl benzoate | 5.58 | 1.76 | 0.065 | 0.093 | Y | 47 |
 | Vinylidene chloride | Vinyl butyl ether | 1.75 | 0.11 | 0.004 | 0.001 | Y | 279 |
-
-## TABLE 1. cont'd
-
 | Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Vinylidene chloride | Vinyl chloride | 2.06 | 0.32 | 0.071 | 0.025 | Y | 238 |
@@ -613,9 +583,6 @@ TABLE 1. cont'd
 | Vinylphenyldimethylsilane | Styrene | 0.024 | 0.016 | 32.53 | 0.49 | Y | 482 |
 | Vinylphenylisocyanate, p- | Vinyl chloride | 11.9 |  | 0.1 |  |  | 777 |
 | Vinylphenylpropanol, 2-p- | Styrene | 0.41 | 0.4 | 0.48 | 0.3 | Y | 72 |
-
-## TABLE 1. cont'd
-
 | Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Vinylsulfonic acid | Acrylamide | 0.3 | 0.1 | 3.5 | 0.15 |  | 1066 |
@@ -632,15 +599,6 @@ TABLE 1. cont'd
 | Vinyltrimethylsilane | Styrene | 0.049 | 0.025 | 5.98 | 0.18 | Y | 73 |
 | Xanthate, S-methacryloyl O-ethyl | Methacrylate, methyl | 0.6 | 0.08 | 0.76 | 0.04 |  | 1086 |
 | Xanthate, S-methacryloyl O-ethyl | Styrene | 0.36 | 0.08 | 0.44 | 0.06 |  | 1086 |
-
-## **TABLE 2. LISTING OF QUICK BASIC (MICROSOFT) PROGRAM FOR CALCULATING REACTIVITY RATIOS***
-
-100 OPTION BASE 1 110 DIM eta(20) 120 DIM ksi(20) 130 DIM gee(20) 140 DIM ef(20) 150 DIM t(20) 151 FOR b = 1 TO 20 152 READ t(b) 153 NEXT b 170 DATA 12.71,4.3,3.18,2.78,2.57,2.45,2.37,2.31,2.26,2.23,2.2,2.18,2.16,2.14,2.13,2.12,2.11,2.1,2.09,2.09 180 DEF FNLog10(X) = LOG(X) / LOG(10#) 190 PRINT "Calculation of reactivity ratios by the method of Kelen and Tudos" 210 PRINT "Enter 0 for monomer 1 in the feed to start the calculation" 220 REM initialize all of the summing addresses 230 n = 0 231 m = 0 232 var = 0 233 sumasi = 0 234 sumi = 0 235 suma = 0 236 sumsqi = 0 237 sumnegi = 0 238 sum2i = 0 250 INPUT "Do you wish to stop (Y/N)?"; f$ 260 IF f$ = "y" THEN GO TO 1510 270 REM enter the names and molecular weights of the monomers 280 INPUT "Monomer 1 is:"; mone$ 290 INPUT "Monomer 2 is:"; mtwo$ 340 REM enter the feed, polymer and conversion values 350 PRINT "Are the feed and polymer values in mol fractions (mol), mol ratios (ratio) or weight fractions (wt)?" 370 INPUT type$ 380 IF type$ = "ratio" THEN GOTO 1210 390 IF type$ = "wt" THEN GOTO 1360 400 PRINT "Mol fraction of"; mone$; "in the feed = " 410 INPUT m10 420 IF m10 = 0 THEN GOTO 800 430 n = n + 1 440 m20 = 1 - m10 450 PRINT "Mol fraction of"; mone$; "in the polymer = " 460 INPUT p1 470 p2 = 1 - p1 480 PRINT "Conversion, weight fraction = ? (If none given enter 0)" 490 INPUT w 500 IF w = 0 THEN GOTO 680
-
-* Method of Kelen and Tudos (803,804).
-
-## TABLE 1. cont'd
-
 | Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Acrylate, methyl | Styrene | 0.168 | 0.067 | 0.722 | 0.056 | Y | 151 |
@@ -709,9 +667,6 @@ TABLE 1. cont'd
 | Acrylate, octadecyl | Vinylidene chloride | 1 | 0.14 | 0.9 | 0.037 | Y | 118 |
 | Acrylate, octyl | Acrylonitrile | 0.84 | 0.74 | 1.98 | 0.3 | Y | 118 |
 | Acrylate, octyl | Styrene | 0.01 | 0.53 | 0.39 | 0.11 |  | 806 |
-
-## TABLE 1. cont'd
-
 | Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Acrylate, octyl | Vinyl chloride | 4.8 |  | 0.12 |  |  | 518 |
@@ -793,9 +748,6 @@ TABLE 1. cont'd
 | Acrylic acid | Methacrylate, methyl | 1.73 | 0.096 | 0.418 | 0.02 | N | 964 |
 | Acrylic acid | Methacrylate, butyl | 0.24 | 0.21 | 3.53 | 0.42 | N | 187 |
 | Acrylic acid | Phosphonic acid, a-phenylvinyl- | 0.7 | 0.13 | 0.04 | 0.83 | Y | 132 |
-
-## TABLE 1. cont'd
-
 | Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Acrylic acid | Vinyl chloride | 9.28 | 0.51 | 0.03 | 0.09 | N | 229 |
@@ -863,9 +815,6 @@ TABLE 1. cont'd
 | Acrylonitrile | Acrylate, butyl | 1.679 | 0.058 | 1.06 | 0.15 | Y | 118 |
 | Acrylonitrile | Acrylate, butyl | 0.781 | 0.083 | 0.894 | 0.019 | Y | 162 |
 | Acrylonitrile | Acrylate, butyl | 1.08 | 0.08 | 0.82 | 0.13 | N | 233 |
-
-## TABLE 1. cont'd
-
 | Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Acrylonitrile | Acrylate, butyl | 1 |  | 0.9 |  |  | 513 |
@@ -931,9 +880,6 @@ TABLE 1. cont'd
 | Acrylonitrile | Butene-2, cis | 22.32 |  | 0.11 |  | Y | 211 |
 | Acrylonitrile | Butene-2, trans | 62.99 | 10.67 | 0.84 | 0.6 | Y | 211 |
 | Acrylonitrile | Carbazole, N-vinyl- | 0.39 | 0.04 | 0.09 | 0.04 | N | 269 |
-
-## TABLE 1. cont'd
-
 | Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. | Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Acrylonitrile | Cinnamate, a-cyano-, ethyl | 12.6 | 2.3 | -0.18 | 0.15 | Y | 310 | Acrylonitrile | Cinnamonitrile | 8.46 | 0.37 | 0.36 | 0.1 | Y | 310 |
@@ -969,9 +915,6 @@ TABLE 1. cont'd
 | Acrylonitrile | Methacrylate, 2-bromoethyl | 0.31 | 2.38 |  |  |  | 657 | Acrylonitrile | Methacrylate, 2-chloroethyl | 0.14 | 1.3 |  |  |  | 382 |
 | Acrylonitrile | Methacrylate, 2-hydroxyethyl | 0.2 | 1 |  |  |  | 689 | Acrylonitrile | Methacrylate, 2-naphthyl | 0.15 | 0.2 | 1.17 | 0.2 | Y | 611 |
 | Acrylonitrile | Methacrylate, 2-naphthyl | 0.094 | 0.099 | 1.02 | 0.19 | Y | 611 |  |  |  |  |  |  |  |  |
-
-## TABLE 1. cont'd
-
 | Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Acrylonitrile | Methacrylate, 2-naphthyl | 0.06 | 0.1 | 0.76 | 0.18 | Y | 611 |
@@ -1035,9 +978,6 @@ TABLE 1. cont'd
 | Acrylonitrile | Pyridine, 2-vinyl-5-ethyl- | 0.06 | 0.07 | 0.43 | 0.18 | N | 50 |
 | Acrylonitrile | Pyridine, 4-vinyl- | 0.11 |  | 0.41 |  |  | 115 |
 | Acrylonitrile | Pyridine, 4-vinyl- | 0.09 | 0.04 | 0.34 | 0.13 | N | 50 |
-
-## TABLE 1. cont'd
-
 | Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Acrylonitrile | Pyrrolidone, N-vinyl- |  |  |  |  | Y | 213 |
@@ -1102,9 +1042,6 @@ TABLE 1. cont'd
 | Acrylonitrile | Vinyl benzoate | 5.03 | 1.08 | 0.019 | 0.051 | Y | 47 |
 | Acrylonitrile Acrylonitrile | Vinyl bromide Vinyl bromide | 2.79 2.25 | 0.2 | 0.06 0.06 | 0.04 | N | 268 268 |
 | Acrylonitrile | Vinyl butyl ether |  |  |  |  | N | 345 |
-
-TABLE 1. cont'd
-
 | Monomer 1 | Monomer 2 |  | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Acrylonitrile | Vinyl butyl ether |  | 0.98 | 0.13 | -0.03 | 0.01 | N | 347 |
@@ -1168,9 +1105,6 @@ TABLE 1. cont'd
 | Acrylonitrile | Vinylidene chloride |  | 0.65 |  | 0.49 |  |  | 404 |
 | Acrylonitrile | Vinylidene chloride |  | 0.57 |  | 0.69 |  |  | 404 |
 | Acrylonitrile | Vinylidene chloride |  | 0.5 |  | 0.76 |  |  | 404 |
-
-## TABLE 1. cont'd
-
 | Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Acrylonitrile | Vinylidene chloride | 0.48 |  | 0.95 |  |  | 404 |
@@ -1238,9 +1172,6 @@ TABLE 1. cont'd
 | Allyl alcohol | Acrylonitrile | 0.05 |  | 2.6 |  |  | 108 |
 | Allyl alcohol | Acrylonitrile | 0.1 | 0.16 | 3.9 | 1.06 | N | 176 |
 | Allyl alcohol | Acrylonitrile | 0.12 | 0.37 | 1.79 | 0.11 | Y | 300 |
-
-## TABLE 1. cont'd
-
 | Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Acrolein | Acrylate, methyl | 2.54 | 0.93 | 1.08 | 0.38 | N | 292 |
@@ -1305,9 +1236,6 @@ TABLE 1. cont'd
 | Acrylamide Acrylamide | Crotonic acid Crotonic acid | 4.72 5.32 |  | 0.11 0.12 |  |  | 569 569 |
 | Acrylamide | Crotonic acid, cis- |  |  |  |  | Y | 341 |
 | Acrylamide | Crotonic acid, trans- | 7.2 | 0.33 | -0.085 | 0.024 | Y | 341 |
-
-TABLE 1. cont'd
-
 | Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Allyl alcohol | Methacrylate, ethyl | -0.02 | 1.92 | 107.4 | 5.3 | N | 210 |
@@ -1375,9 +1303,6 @@ TABLE 1. cont'd
 | p-butoxy phenyl |  |  |  |  |  |  |  |
 | Benzoate, p-(acryloyloxy)-, | Benzoate, p-(acryloyloxy)-, phenyl | 0.49 |  | 1.5 |  |  | 881 |
 | p-methoxy phenyl | p-butoxyphenyl |  |  |  |  |  |  |
-
-## TABLE 1. cont'd
-
 | Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Benzoate, p-(acryloyloxy)-, phenyl | Benzoate, p-(acryloyloxy)-, p-butoxy phenyl | 1.5 |  | 0.49 |  |  | 881 |
@@ -1425,9 +1350,6 @@ TABLE 1. cont'd
 | Butadiene | Aconitate, trimethyl | 0.4 | 0.4 | 0 | 0.22 | Y | 147 |
 | Butadiene | Acrylate, butyl | 1.04 | 0.11 | 0.074 | 0.03 | Y | 257 |
 | Butadiene | Acrylate, heptafluorobutyl | 0.359 | 0.039 | 0.073 | 0.031 | Y | 206 |
-
-## TABLE 1. cont'd
-
 | Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Butadiene | Acrylate, methyl | 1.09 | 4.53 | 0.07 | 0.87 | Y | 257 |
@@ -1492,9 +1414,6 @@ TABLE 1. cont'd
 | Butadiene, l-(diethylamino)- | Acrylonitrile | 0.426 | 0.208 | 0.481 | 0.049 | Y | 864 |
 | Butadiene, l-(diethylamino)- | Acrylonitrile | 0.425 | 0.48 | 0.208 | 0.049 | Y | 889 |
 | Butadiene, 1-acetoxy- | Acrylonitrile | 0.82 | 0.68 | -0.012 | 0.043 | Y | 91 |
-
-## TABLE 1. cont'd
-
 | Monomer 1 | Monomer 2 | T1 | ±95% | r2 | ±95% | Conv. | Refs. |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Butadiene, 1-chloro- | Styrene | 1.44 | 3.1 | 0.27 | 0.27 | Y | 695 |
@@ -1560,9 +1479,6 @@ TABLE 1. cont'd
 | 259 |  |  |  |  |  |  |  |
 | Butadiene, 2-chloro- | Methacrylate, isobutyl | 1.8 | 0.06 | 0.9 | 0.088 | N | 1057 |
 | 594 |  |  |  |  |  |  |  |
-
-TABLE 1. cont'd
-
 | Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Butadiene, hexafluoro- | Butadiene, 2-chloro- | 0.1 |  | 5.47 |  |  | 127 |
@@ -1625,9 +1541,6 @@ TABLE 1. cont'd
 | Carbamate, N-phenyl-, vinyl | Methacrylate, di-, triethylene-glycol | 0.034 | 0.504 |  |  |  | 833 |
 | Carbamate, N-vinyl-, ethyl | Acrylic acid | 0.26 |  | 4.69 |  | Y | 81 |
 | Butadiene, hexafluoro-Butadiene, 2-chloro-0.1Butadiene-1-carboxylate, ethylAcrylonitrile3.2Butene-1Vinyl acetate0.11Butene-1, 3,3-dimethyl-Vinyl chloride-0.07Butene-1, 4-(p-chlorophenyl)-Acrylonitrile-0.066Butene-2Vinyl chloride-1.79Butene-2, 2-methyl-Vinyl chloride0.3Butene-2, cis-Acrylonitrile0.11Caprolactam, N-vinyl-Crotonaldehyde0.31Caprolactam, N-vinyl-Crotonaldehyde0.31Caprolactam, N-vinyl-Vinyl acetate0.31Caprolactam, N-vinyl-Vinyl butyl ether3.1Carbamate, N,N-diethyl-, vinylStyrene-0.08Carbamate, N,N-diethyl-, vinylVinyl acetate0.130.19Carbamate, N-phenyl-, vinylMethacrylate, di-, triethylene-glycol0.0340.504 | 0.422.50.0445.225.310.0055.30.18 | 5.470.31.556.184.683.38.5222.32000.630.0329.561.7 | 0.2413.570.632.1810.540.733.590.04 | Y Y Y N N Y Y Y Y | 127791211624329329211211875907557215197197833 |  |  |
-
-## TABLE 1. cont'd
-
 | Monomer 1 |  | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Carbamate, N-vinyl-, ethyl |  | Pyrrolidone, N-vinyl- | 0.371 | 0.05 | 1.77 | 0.12 | Y | 81 |
@@ -1694,9 +1607,6 @@ TABLE 1. cont'd
 | Cinnamate, α-cyano-, methyl |  | Pyrrolidone, N-vinyl- | -0.001 | 0.001 | 0.044 | 0.008 | Y | 816 |
 | Cinnamate, α-cyano-, methyl |  | Styrene | -0.21 | 0.35 | 0.4 | 0.06 | N | 282 |
 | Cinnamate, benzyl |  | Styrene | 0.14 | 0.13 | 1.33 | 0.12 | Y | 488 |
-
-**TABLE 1.** *cont'd* 
-
 | Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Cinnamate, butyl | Styrene | 0.04 | 0.15 | 1.757 | 0.082 | Y | 488 |
@@ -1758,9 +1668,6 @@ TABLE 1. cont'd
 | Citraconimide, N-methyl | Acrylonitrile | 0.6 |  | 0.53 |  |  | 460 |
 | Citraconimide, N-methyl | Methacrylate, methyl | 0.15 |  | 3.24 |  |  | 460 |
 | Citraconimide, N-methyl | Styrene | 0.24 |  | 0.15 |  |  | 460 |
-
-## TABLE 1. cont'd
-
 | Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Citraconimide, N-methyl- | Styrene | 0.24 |  | 0.14 |  |  | 506 |
@@ -1826,9 +1733,6 @@ TABLE 1. cont'd
 | Cyclobutane, 1,2-dimethylene- | Butadiene | 5.76 | 0.36 | 0.1 | 0.05 |  | 885 |
 | Cyclobutane, 1,2-dimethylene- | Styrene | 3.6 |  | 0.26 |  |  | 854 |
 | Citraconimide, N-phenyl- | Methacrylate, methyl |  |  |  |  |  |  |
-
-TABLE 1. cont'd
-
 | Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Cyclobutane, 1,2-dimethylene- | Styrene | 3.6 | 0.16 | 0.28 | 0.05 |  | 885 |
@@ -1890,9 +1794,6 @@ TABLE 1. cont'd
 | Dithiane, 2-methylene-1,3- | Styrene | 3.35 |  | 0.03 |  |  | 1031 |
 | Divinylbenzene, m- | Styrene | 0.58 | 0.04 | 0.58 | 0.15 | N | 262 |
 | Divinylbenzene, p- | Maleic anhydride | 0.01 | 0.01 | 0.09 | 0.01 |  | 943 |
-
-## TABLE 1. cont'd
-
 | Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |  |  |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Divinylbenzene, p- | Styrene | 1.18 | 0.17 | 0.26 | 0.25 | N | 262 |  |  |  |  |  |  |  |  |
@@ -1960,9 +1861,6 @@ TABLE 1. cont'd
 | Ethylene, 1,1-diphenyl- | Methacrylonitrile | -0.45 | 0.11 | 0.48 | 0.1 | N | 143 |  |  |  |  |  |  |  |  |
 | Ethylene, 1,1-diphenyl- | Styrene | 0.01 | 0.02 | 0.33 | 0.02 | N | 189 |  |  |  |  |  |  |  |  |
 | Ethylene, 1,1-diphenyl- | Styrene | -0.02 | 0.01 | 0.34 | 0.01 | N | 281 |  |  |  |  |  |  |  |  |
-
-## TABLE 1. cont'd
-
 | Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Acrylamide | Dioxolane, 1,3,4-methylene-2-trichloro- | 8.6 |  | 0.037 |  |  | 616 |
@@ -2025,11 +1923,6 @@ TABLE 1. cont'd
 | Acrylamide, N-methylol- | Styrene | 0.4 | 0.03 | 1.55 | 0.05 |  | 891 |
 | Acrylamide, N-octadecyl- | Acrylonitrile | 1.4 | 0.17 | 1.034 | 0.02 | Y | 119 |
 | Acrylamide, N-octadecyl- | Methacrylate, methyl | 0.42 | 0.11 | 4.119 | 0.07 | Y | 290 |
-
-## Next Page
-
-## TABLE 1. cont'd
-
 | Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Ethylene, 1,1-diphenyl- | Styrene | 1.15 |  | 0.87 |  |  | 901 |
@@ -2095,9 +1988,6 @@ TABLE 1. cont'd
 | Fumarate, bis(3-[tris(trimethylsiloxy)-silyl)propyl] | Fumarate, di-tert-butyl | 0.21 |  | 0.67 |  |  | 1040 |
 | Fumarate, bis(3-[tris(trimethylsiloxy)-silyl)propyl] | Fumarate, diisopropyl | 0.07 |  | 0.87 |  |  | 1040 |
 | Fumarate, bis(3-chloro-2-butyl) | Styrene | -0.06 | 0.03 | 0.26 | 0.04 | N | 249 |
-
-## TABLE 1. cont'd
-
 | Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Fumarate, di-(2-chloroethyl) | Styrene | 0 |  | 0.18 |  |  | 1038 |
@@ -2162,9 +2052,6 @@ TABLE 1. cont'd
 | Fumarate, dipropyl | Styrene | 0.02 |  | 0.32 |  |  | 1038 |
 | Fumarate, isopropyl butyl | Styrene | 0.01 |  | 0.42 |  |  | 1056 |
 | Fumarate, isopropyl butyl | Styrene | 0.01 |  | 0.3 |  |  | 1056 |
-
-TABLE 1. cont'd
-
 | Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Fumarate, isopropyl isobutyl | Styrene | 0.01 |  | 0.46 |  |  | 1056 |
@@ -2232,9 +2119,6 @@ TABLE 1. cont'd
 | Triazole, 1-N-vinyl-1,2,4- |  |  |  |  | N | 972 |  |
 | Imidazole, 1-vinyl- | Acrylic acid | 0.32 |  | 0.002 |  |  | 955 |
 | Imidazole, 1-vinyl- | Fumarate, dipropyl | 0.009 | 0.012 | 0.163 | 0.069 | Y | 614 |
-
-## TABLE 1. cont'd
-
 | Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Imidazole, 1-vinyl- | Maleate, dibutyl | 0.486 | 0.057 | 0.093 | 0.08 | Y | 614 |
@@ -2301,9 +2185,6 @@ TABLE 1. cont'd
 | Isoprene | Pyridine, 2-vinyl- | 0.59 |  | 0.47 |  |  | 456 |
 | Isoprene | Pyridine, 2-vinyl- | 0.58 |  | 0.46 |  |  | 458 |
 | Isoprene | Pyridine, 4-vinyl- | 0.32 |  | 2.49 |  |  | 424 |
-
-## **TABLE 1.** *cont'd*
-
 | Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Isoprene | Quinoline, 2-vinyl- | 1.88 |  | 0.53 |  |  | 456 |
@@ -2361,9 +2242,6 @@ TABLE 1. cont'd
 | Itaconamate, N-(4-methoxyphenyl)-, propyl | Styrene | 0.4 |  | 0.38 |  |  | 678 |
 | Itaconamate, N-(4-methylphenyl)-, propyl | Methacrylate, methyl | 0.28 |  | 1.11 |  |  | 678 |
 | Itaconamate, N-(4-methylphenyl)-, propyl | Styrene | 0.19 |  | 0.54 |  |  | 678 |
-
-## TABLE 1. cont'd
-
 | Monomer 1 | Monomer 2 | rx | ±95% | r2 | ±95% | Conv. | Refs. |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Itaconamate, N-(4-methylphenyl)-, butyl | Styrene | 0.31 | 0.19 | 678 |  |  | 678 |
@@ -2430,9 +2308,6 @@ TABLE 1. cont'd
 | Itaconic anhydride | Acrylonitrile | 4.83 | 0.33 | 0.034 | 0.014 | Y | 365 |
 | Itaconic anhydride | Methacrylate, methyl | 1.17 | 0.33 | 0.155 | 0.024 | Y | 1010 |
 | Itaconic anhydride | Styrene | 0.405 | 0.09 | 0.004 | 0.01 | Y | 365 |
-
-TABLE 1. cont'd
-
 | Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Itaconic anhydride | Styrene | 0.456 | 0.09 | 0.086 | 0.015 | Y | 62 |
@@ -2505,9 +2380,6 @@ TABLE 1. cont'd
 | Maleate, dimethyl | Styrene | 0.15 | 0.12 | 10.65 | 2.81 | Y | 137 |
 | Maleate, dimethyl | Styrene | 0.105 | 0.058 | 0.083 | 0.015 | Y | 317 |
 | Maleate, dioctyl | Vinyl chloride | 0.608 | 0.099 | 0.05 | 0.14 | Y | 3 |
-
-## TABLE 1. cont'd
-
 | Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Maleate, dipropyl | Imidazole, 1-vinyl- | 0.053 | 0.035 | 0.314 | 0.028 | Y | 614 |
@@ -2573,9 +2445,6 @@ TABLE 1. cont'd
 | Maleic anhydride | Styrene | 0.05 |  | 0.04 |  |  | 522 |
 | Maleic anhydride | Styrene |  |  |  |  | N | 923 |
 | Maleic anhydride | Styrene, a-methyl- | 0.08 |  | 0.04 |  |  | 492 |
-
-TABLE 1. cont'd
-
 | Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Maleic anhydride | Succinimide, N-vinyl- | 0.021 | 0.027 | 0.148 | 0.073 | Y | 284 |
@@ -2634,9 +2503,6 @@ TABLE 1. cont'd
 | Maleimide, N-(4-hydroxyphenyl)- | Styrene | 0.13 | 0.1 | -0.059 | 0.041 | Y | 323 |
 | Maleimide, N-(4-hydroxyphenyl)- | Vinyl acetate | 1.75 | 0.17 | -0.011 | 0.027 | Y | 323 |
 | Maleimide, N-(4-hydroxyphenyl)- | Butadiene, 2,3-bis(diethyl-phosphono)- | 0.47 |  | 0.04 |  |  | 75 |
-
-## TABLE 1. cont'd
-
 | Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Maleimide, N-(4-methoxyphenyl)-a-chloro- | Methacrylate, methyl | 0.064 | 0.189 | 0.556 | 0.145 | Y | 973 |
@@ -2702,9 +2568,6 @@ TABLE 1. cont'd
 | Maleimide, N-phenyl- | Maleimide, N-(L-menthoxycarbonyl- | 0.798 | 0.141 | 0.79 | 0.261 | Y | 1089 |
 |  | methyl)- |  |  |  |  |  |  |
 | Maleimide, N-phenyl- | Maleimide, N-α-methylbenzyl- | 0.788 | 0.5 | 0.683 | 0.177 | Y | 1055 |
-
-**TABLE 1.** *cont'd* 
-
 | Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Acrylamide, N-octadecyl- | Styrene | 0.54 | 0.14 | 2.08 | 0.12 | Y | 290 |
@@ -2764,9 +2627,6 @@ TABLE 1. cont'd
 | Acrylate, 2-nitrobutyl | Methacrylate, methyl | 0.27 | 0.04 | 1.19 | 0.12 | N | 234 |
 | Acrylate, 2-nitrobutyl | Styrene | 0.12 | 0.01 | 0.35 | 0.03 | N | 234 |
 | Acrylate, 3,4-epoxyhexahydrobenzyl | Acrylonitrile | 0.388 | 0.074 | 0.25 | 0.13 | Y | 680 |
-
-TABLE 1. cont'd
-
 | Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Maleimide, N-phenyl- | Methacrylate, methyl | 0.3 |  | 0.98 |  |  | 323 |
@@ -2829,9 +2689,6 @@ TABLE 1. cont'd
 | Methacrylamide, N-phenyl | Methacrylate, methyl | 0.28 | 0.2 | 1.95 | 0.2 |  | 968 |
 | Methacrylamide, N-phenyl- | Acrylonitrile | 0.71 | 0.19 | 0.381 | 0.085 | Y | 352 |
 | Methacrylamide, N-phenyl- | Methacrylate, methyl | 0.56 | 0.12 | 1.42 | 0.096 | Y | 352 |
-
-## TABLE 1. cont'd
-
 | Monomer 1 | Monomer 2 | rx | ±95% | r2 | ±95% | Conv. | Refs. |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Methacrylamide, N-phenyl- | Styrene | 0.88 | 0.17 | 1.24 | 0.06 | N | 352 |
@@ -2882,9 +2739,6 @@ TABLE 1. cont'd
 | Methacrylate, 2-bromoethyl | Styrene | 0.41 |  | 0.32 |  |  | 657 |
 | Methacrylate, 2-bromoethyl | Vinyl butyl ether | 13.7 |  | 0 |  |  | 657 |
 | Methacrylate, 2-chloro-2,3,3,3-fluoropropyl | Acrylate, butyl | 0.221 | 0.636 | 0.079 | 0.304 | N | 927 |
-
-TABLE 1. cont'd
-
 | Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Methacrylate, 2-chloro-2,3,3,3-fluoro- | Methacrylate, methyl | 0.583 | 1.17 | 0.984 | 0.395 | N | 927 |
@@ -2951,9 +2805,6 @@ TABLE 1. cont'd
 | Methacrylate, 2-hydroxypropyl | Acrylate, butyl | 3.3 | 6.82 | 0.24 | 0.16 | Y | 662 |
 | Methacrylate, 2-hydroxypropyl | Acrylate, ethyl | 13.32 | 1.05 | 0.273 | 0.054 | Y | 333 |
 | Methacrylate, 2-hydroxypropyl | Acrylate, ethyl | 9.08 | 3.95 | 0.207 | 0.045 | Y | 662 |
-
-## TABLE 1. cont'd
-
 | Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Methacrylate, 2-hydroxypropyl | Acrylate, methyl | 7.335 | 0.083 | 0.013 | 0.007 | Y | 333 |
@@ -3010,9 +2861,6 @@ TABLE 1. cont'd
 | Methacrylate, N-methyl-N-phenyl- | Methacrylic acid | 0.2 | 0.01 | 2.16 | 0.18 | N | 651 |
 | Methacrylate, N-methyl-N-phenyl- | Acryloyloxy, 2-, benzoic acid | 0.22 | 0.03 | 1.82 | 0.2 | N | 651 |
 | Methacrylate, N-methyl-N-phenyl- | Methacryloyloxy, 2-, benzoate, methyl | 0.55 | 0.04 | 1.11 | 0.18 | N | 651 |
-
-TABLE 1. cont'd
-
 | Monomer 1 | Monomer 2 | rx | ±95% | r2 | ±95% | Conv. | Refs. |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Methacrylate, N-methyl-Ar-phenyl- | Methacryloyloxy, 2-,benzoic acid | 0.2 | 0.01 | 2.6 | 0.08 | N | 651 |
@@ -3075,9 +2923,6 @@ TABLE 1. cont'd
 | Methacrylate, butyl | Vinylidene chloride | 2.07 | 0.18 | 0.35 | 0.03 | Y | 3 |
 | Methacrylate, chloromethyl | Methacrylate, methyl | 1.02 | 0.16 | 0.477 | 0.029 | Y | 712 |
 | Methacrylate, chloromethyl | Styrene | 0.298 | 0.03 | 0.208 | 0.006 | Y | 712 |
-
-## TABLE 1. cont'd
-
 | Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Methacrylate, cyanomethyl | Methacrylate, methyl | 0.73 | 0.11 | 0.399 | 0.019 | Y | 625 |
@@ -3139,9 +2984,6 @@ TABLE 1. cont'd
 | Methacrylate, glycidyl | Methacrylate, butyl | 0.94 | 0.06 | 0.85 | 0.03 | N | 224 |
 | Methacrylate, glycidyl | Methacrylate, methyl | 0.934 | 0.085 | 0.726 | 0.042 | Y | 226 |
 | Methacrylate, glycidyl | Acrylate, 4-acetylphenyl | 0.644 | 0.13 | 0.292 | 0.141 | Y | 1012 |
-
-TABLE 1. cont'd
-
 | Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Methacrylate, glycidyl | Methacrylate, methyl | 1.05 |  | 0.8 |  |  | 463 |
@@ -3206,9 +3048,6 @@ TABLE 1. cont'd
 | Methacrylate, methyl | Acrylamide | 2.53 |  | 0.82 |  |  | 314 |
 | Methacrylate, methyl | Acrylamide | 3 | 0.45 | 0.9 | 1.07 | N | 691 |
 | Methacrylate, methyl | Acrylamide, 2-chloro-N,N-dimethyl- | 2.71 | 0.398 | -0.159 | 0.502 | Y | 917 |
-
-## TABLE 1. cont'd
-
 | Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Methacrylate, methyl | Acrylamide, N,N-dimethyl- | 1.65 | 0.16 | 0.41 | 0.15 | N | 170 |
@@ -3272,9 +3111,6 @@ TABLE 1. cont'd
 | Methacrylate, methyl | Acrylic acid, a-bromo- | 0.37 |  | 0.11 |  |  | 733 |
 | Methacrylate, methyl | Acrylonitrile | 1.322 | 0.05 | 0.138 | 0.037 | Y | 216 |
 | Methacrylate, methyl | Acrylonitrile, a-trifluoromethyl- | 1.11 | 0.12 | -0.016 | 0.048 | Y | 681 |
-
-TABLE 1. cont'd
-
 | Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Methacrylate, methyl | Acrylonitrile, a-perfluoropropyl- | 1.9 | 0.3 | 0 | 0.05 |  | 926 |
@@ -3342,9 +3178,6 @@ TABLE 1. cont'd
 |  | 2,6-dimethyl |  |  |  |  |  |  |
 | Methacrylate, methyl | Ditiane, 2-methylene-1,3- | 0.08 |  | 4.12 |  |  | 1031 |
 | Methacrylate, methyl | Ethylene |  |  |  |  | N | 41 |
-
-## TABLE 1. cont'd
-
 | Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Methacrylate, methyl | Ethylene, 1,1-diphenyl- | 2.1 |  | 0.09 |  |  | 65 |
@@ -3406,9 +3239,6 @@ TABLE 1. cont'd
 | Methacrylate, methyl | Maleic anhydride | 3.85 |  | 0.02 |  |  | 524 |
 | Methacrylate, methyl | Maleimide | 2.576 | 0.061 | 0.166 | 0.047 | Y | 251 |
 | Methacrylate, methyl | Maleimide | 2.5 |  | 0.17 |  |  | 992 |
-
-## TABLE 1. cont'd
-
 | Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Acrylate, 3,4-epoxyhexahydrobenzyl | Styrene | 1.97 | 0.35 | 0.27 | 0.3 | N | 680 |
@@ -3475,9 +3305,6 @@ TABLE 1. cont'd
 | Acrylate, α-fluoro-, methyl | Styrene | 0.16 | 0.11 | 0.66 | 0.17 |  | 806 |
 | Acrylate, α-hexafluoropropyloxymethyl-, | Styrene | 0.07 |  | 0.23 |  |  | 1047 |
 | methyl |  |  |  |  |  |  |  |
-
-TABLE 1. cont'd
-
 | Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Methacrylate, methyl | Maleimide, 2,3-dimethyl-N-(2-methacryloyloxyethyl)- | 0.51 | 1.66 | 1.1 | 3.58 | Y | 619 |
@@ -3538,9 +3365,6 @@ TABLE 1. cont'd
 | Methacrylate, methyl | Methacrylate, 2,3-epithiopropyl | 0.83 | 0.06 | 0.97 | 0.004 |  | 787 |
 | Methacrylate, methyl | Methacrylate, 2,6-(diphenyl)phenyl | 1.42 |  | 0.071 |  |  | 1079 |
 | Methacrylate, methyl | Methacrylate, 2-(N,N-dimethyl-carbamoyloxy)ethyl | 0.59 |  | 0.42 |  |  | 600 |
-
-## TABLE 1. cont'd
-
 | Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Methacrylate, methyl | Methacrylate, 2-bromoethyl | 0.79 |  | 1.18 |  |  | 657 |
@@ -3606,9 +3430,6 @@ TABLE 1. cont'd
 | Methacrylate, methyl | Methacrylic acid | 0.1 | 0.01 | 1.06 | 0.02 |  | 1087 |
 | Methacrylate, methyl | Methacrylic acid | 0.78 | 0.03 | 0.33 | 0.02 |  | 1087 |
 | Methacrylate, methyl | Methacrylic acid | 0.32 | 0.02 | 0.63 | 0.02 |  | 1087 |
-
-## **TABLE 1.** *cont'd*
-
 | Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Methacrylate, methyl | Methacrylic acid | 0.87 | 0.05 | 2.16 | 0.28 | N | 203 |
@@ -3675,9 +3496,6 @@ TABLE 1. cont'd
 | Methacrylate, methyl | Phosphate, 2-(acryloyloxy)ethyl diethyl | 2.37 | 0.046 | 0.486 | 0.088 | N | 971 |
 | Methacrylate, methyl | Phosphate, 2-(acryloyloxy)ethyl diethyl | 2.23 | 0.047 | 0.521 | 0.138 | N | 971 |
 | Methacrylate, methyl | Phosphate, 2-(acryloyloxy)ethyl diethyl | 1.87 | 0.086 | 0.946 | 0.436 | N | 971 |
-
-## TABLE 1. cont'd
-
 | Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Methacrylate, methyl | Phosphate, 2-(acryloyloxy)ethyl diethyl | 1.97 | 0.029 | 1.16 | 0.248 | N | 971 |
@@ -3740,9 +3558,6 @@ TABLE 1. cont'd
 | Methacrylate, methyl | Styrene | 0.44 |  | 0.5 |  |  | 531 |
 | Methacrylate, methyl | Styrene | 0.49 |  | 0.56 |  |  | 531 |
 | Methacrylate, methyl | Styrene | 0.49 |  | 0.53 |  |  | 534 |
-
-TABLE 1. cont'd
-
 | Monomer 1 Monomer 2 Conv. | r | ±95% | r2 | ±95% |  | Refs. |
 | --- | --- | --- | --- | --- | --- | --- |
 | Methacrylate, methyl Styrene | 0.409 | 0.02 | 0.485 | 0.052 | Y | 751 |
@@ -3807,9 +3622,6 @@ TABLE 1. cont'd
 | Methacrylate, methyl 4-vinyl | 0.832 | 0.022 | 0.266 |  |  |  |
 | Methacrylate, methyl Triazole, 1,2,3-, 4(5)-vinyl- | 0.839 | 0.055 | 0.27 | 0.13 | Y | 670 |
 | Methacrylate, methyl Urea, TV-vinyl-AT'-ethyl- -0.008 101 | 1.85 | 0.23 |  | 0.029 | Y |  |
-
-## TABLE 1. cont'd
-
 | Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Methacrylate, methyl | Vinyl 2-chloroethyl ether | 18.8 |  | 0 |  |  | 597 |
@@ -3878,9 +3690,6 @@ TABLE 1. cont'd
 | Methacrylate, methyl | Vinylidene chloride | 2.77 | 0.06 | 0.27 | 0.01 | N | 786 |
 | Methacrylate, methyl | Vinylidene cyanide |  | 0.012 |  | 0.013 | Y | 82 |
 | Methacrylate, methyl | Vinylisocyanate | 3.3 |  | 0.01 |  |  | 422 |
-
-TABLE 1. cont'd
-
 | Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Methacrylate, methyl | Vinylphenyldimethylsilane | 29.79 | 1.89 | -0.009 | 0.034 | Y | 482 |
@@ -3944,9 +3753,6 @@ TABLE 1. cont'd
 | Methacrylic acid | Acrylate, butyl | 1.25 | 0.31 | 0.31 | 0.1 | N | 187 |
 | Methacrylate, methyl | Vinylphenyldimethylsilane | 29.79 | 1.89 | -0.009 | 0.034 | Y | 482 |
 | Vinyltrimethylsilane |  | 35.66 | 0.85 | 0.028 | 0.016 | Y | 482 |
-
-## TABLE 1. cont'd
-
 | Monomer 1 | Monomer 2 | rx | ±95% | r2 | ±95% | Conv. | Refs. |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Methacrylic acid | Acrylate, ethyl | 1.12 | 0.132 | 0.194 | 0.027 | N | 1065 |
@@ -4009,9 +3815,6 @@ TABLE 1. cont'd
 |  | 313 |  |  |  |  |  |  |
 |  | 424 |  |  |  |  |  |  |
 | Methacrylic acid | Methacrylate, phenyl | 0.211 | 0.018 | 1.89 | 0.17 | Y | 88 |
-
-TABLE 1. cont'd
-
 | Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Methacrylic acid | Styrene | 0.56 | 0.19 | 0.2 | 0.04 | N | 313 |
@@ -4073,9 +3876,6 @@ TABLE 1. cont'd
 | Methacrylonitrile | Methacrylic acid | 0.52 | 0.32 | 0.54 | 3.71 | N | 85 219 |
 | Methacrylonitrile | Methacrylonitrile | 0.26 | 0.06 | 1.45 | 0.18 | N | 219 |
 | Methacrylonitrile | Phosphonic acid, α-phenylvinyl- | 2.24 |  |  |  |  | 590 |
-
-## **TABLE 1.** *cont'd*
-
 | Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Methacrylonitrile | Styrene | 0.41 |  | 0.37 |  |  | 311 |
@@ -4143,9 +3943,6 @@ TABLE 1. cont'd
 | N-N-Divinylaniline | Styrene | 0.033 | 0.067 | 5.38 | 0.36 | Y | 45 |
 | N-N-Divinylaniline | Styrene, p-methyl- | 0.06 | 0.03 | 6.15 | 0.16 | Y | 45 |
 | N-N-Divinylaniline | Vinyl acetate | 3.99 | 0.12 | 0.058 | 0.009 | Y | 45 |
-
-TABLE 1. cont'd
-
 | Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Acrylate, a-hydroxymethyl-, ethyl | Azlactone, 2-vinyl-4,4-dimethyl- | 0.668 | 0.12 | 0.389 | 0.229 | Y | 1011 |
@@ -4209,11 +4006,6 @@ TABLE 1. cont'd
 | Acrylate, butyl | Butadiene | 0.074 | 0.03 | 1.04 | 0.11 | Y | 257 |
 | Acrylate, butyl | Ethylene | 13.94 | 0.38 | 0.01 | 0.003 | N | 42 |
 | Acrylate, butyl | Furan, 2-vinyl-5-methyl | 0.118 | 0.019 | 0.392 | 0.051 | Y | 1105 |
-
-## Previous Page
-
-## TABLE 1. cont'd
-
 | Monomer 1 |  | Monomer 2 | rx | ±95% | r2 | ±95% | Conv. | Refs. |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | JV-Vinylimidazole |  | Acrylic acid | 0.187 | 0.025 | 1.932 | 0.077 | Y | 879 |
@@ -4277,9 +4069,6 @@ TABLE 1. cont'd
 | 4,8-dioxaspiro(2.5)- |  |  |  |  |  |  |  |  |
 | Octene-1 |  | Vinyl chloride | -0.57 | 0.85 | 3.26 | 0.45 | N | 329 |
 | Oxazinium F3CSO3, 3-methyl-2-vinyl- 5,6-dihydro-4H-1,3- |  | Methacrylate, methyl | 0.31 |  | 0.37 |  |  | 909 |
-
-## TABLE 1. cont'd
-
 | Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Oxazolidone, N-vinyl- | Methacrylate, decyl | -0.052 | 0.049 | 12.19 | 1.35 | Y | 36 |
@@ -4346,9 +4135,6 @@ TABLE 1. cont'd
 | Pentadiene, cis-1,3- | Acrylonitrile | 0.071 | 0.029 | 0.06 | 0.242 | Y | 912 |
 | Pentadiene, cis-1,3- | Acrylonitrile | 0.198 |  | 0.056 |  |  | 952 |
 | Pentadiene, cis-1,3- | Acrylonitrile | 0.188 | 0.011 | 0.033 | 0.017 | N | 997 |
-
-**TABLE 1.** cont'd
-
 | Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Pentadiene, cis-1,3- | Butadiene | 0.26 |  | 0.63 |  |  | 743 |
@@ -4419,9 +4205,6 @@ TABLE 1. cont'd
 |  | Pentenoate, 3-oxo-4-, ethyl | Styrene | 0.747 | 0.073 | 0.164 | 0.015 | N |
 |  | Pentenoate, 3-oxo-4-, ethyl | Styrene | 0.635 | 0.068 | 0.162 | 0.015 | N |
 |  | Phosphate, 2-(acryloyloxy)ethyl diethyl | Styrene | 0.168 | 0.355 | 0.597 | 0.044 | N |
-
-## TABLE 1. cont'd
-
 | Monomer 1 |  | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Phosphate, 2-(acryloyloxy)ethyl diethyl |  | Styrene | 0.108 | 0.034 | 0.599 | 0.002 | N | 971 |
@@ -4486,9 +4269,6 @@ TABLE 1. cont'd
 | Phosphonate, vinyl-, dimethyl |  | Styrene |  |  |  |  | Y | 129 |
 | Phosphonate, vinyl-, dipropyl |  | Styrene | -0.41 | 0.72 | 3.81 | 0.68 | Y | 129 |
 | Phosphonic acid, a-phenylvinyl- |  | Methacrylic acid | 0.17 | 0.3 | 1.49 | 0.16 | Y | 130 |
-
-TABLE 1. cont'd
-
 | Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Phthalide, 3-(4-vinylphenyl)- | Acrylonitrile | 0.43 | 0.19 | 0.084 | 0.053 | Y | 721 |
@@ -4555,9 +4335,6 @@ TABLE 1. cont'd
 | Pyrazole, 3-methyl-1-vinyl- | Pyrazole, 5-methyl-1-vinyl- | 0.42 |  | 1.35 |  |  | 898 |
 | Pyrazole, 5-methyl-1-vinyl- | Pyrazole, 3-methyl-1-vinyl- | 1.35 |  | 0.42 |  |  | 898 |
 | Pyrazole, N-vinyl-3,5-dimethyl- | Styrene | 0.049 | 0.011 | 8.663 | 0.196 |  | 806 |
-
-## TABLE 1. cont'd
-
 | Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Pyridazinone, 3-(2-vinyl)-6-methyl- | Acrylonitrile | 0.19 | 0.04 | 0.32 | 0.02 | N | 340 |
@@ -4622,9 +4399,6 @@ TABLE 1. cont'd
 | Pyridine, 2-vinyl- | Methacrylic acid | 1.69 | 0.71 | 0.58 | 0.21 | Y | 15 |
 | Pyridine, 2-vinyl- | Methacrylic acid | 1.38 |  | 0.44 |  |  | 498 |
 | Pyridine, 2-vinyl- | N-Vinylpyrrolidone | 12.4 | 2.3 | 0.014 | 0.002 |  | 1070 |
-
-TABLE 1. cont'd
-
 | Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Pyridine, 2-vinyl- | Oct-1-ene, 6,6-dimethyl-4,8-dioxaspiro | 2.216 | 0.062 | 0.073 | 0.04 | Y | 838 |
@@ -4691,9 +4465,6 @@ TABLE 1. cont'd
 | Pyrrolidone, N-vinyl- | Maleimide, N-(2-hydroxyethyl)- | 0.002 | 0.002 | 0.038 | 0.01 | Y | 323, 657 |
 | Pyrrolidone, N-vinyl- | Methacrylate, 2-bromoethyl | 0.02 |  | 2.44 |  |  | 657 |
 | Pyrrolidone, N-vinyl- | Methacrylate, 2-hydroxyethyl | -0.019 | 0.046 | 4.841 | 0.133 | Y | 840 |
-
-## TABLE 1. cont'd
-
 | Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Pyrrolidone, N-vinyl- | Methacrylate, ferrocenylmethyl | 0.073 | 0.096 | 2.57 | 2.77 | Y | 325 |
@@ -4757,9 +4528,6 @@ TABLE 1. cont'd
 | Styrene | 4-Pentenoate, 3-oxo-, ethyl | 0.217 | 0.009 | 0.568 | 0.035 | N | 930 |
 | Styrene | Acenaphthalene | 3.81 |  | 0.33 |  |  | 525 |
 | Styrene | Acetylene, phenyl- | 0.324 | 0.02 | 0.33 | 0.12 | Y | 357 |
-
-## TABLE 1. cont'd
-
 | Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Styrene | Aconitate, trimethyl | 1.026 | 0.091 | -0.013 | 0.009 | Y | 147 |
@@ -4824,9 +4592,6 @@ TABLE 1. cont'd
 | Styrene | Acrylate, α-hexafluoropropyloxymethyl-, methyl | 0.23 |  | 0.07 |  |  | 1047 |
 | Styrene | Acrylate, α-hydroxymethyl-, ethyl | 0.468 | 0.03 | 0.546 | 0.127 | Y | 982 |
 | Styrene | Acrylate, α-isobutyl-, methyl | 0.974 | 0.022 | 0.202 | 0.042 | Y | 49 |
-
-## TABLE 1. cont'd
-
 | Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Styrene | Acrylate, α-isopropyl-, methyl | 1.872 | 0.052 | 0.036 | 0.034 | Y | 49 |
@@ -4892,9 +4657,6 @@ TABLE 1. cont'd
 | Styrene | Acrylate, methyl | 0.722 | 0.056 | 0.168 | 0.067 | Y | 151 |
 | Styrene | Acrylate, butyl | 0.698 |  | 0.164 |  |  | 612 |
 | Styrene | Styrene |  |  |  |  |  |  |
-
-## TABLE 1. cont'd
-
 | Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Acrylate, butyl | Itaconate, bis(tri-n-butyltin) | 0.91 |  | 0.422 |  |  | 940 |
@@ -4958,9 +4720,6 @@ TABLE 1. cont'd
 | Acrylate, di-, copper | Methacrylate, di-, dicyclopentadienyl-titanium | 1.09 |  | 0.89 |  |  | 876 |
 | Acrylate, di-, copper | Styrene | 0.12 | 0.08 | 5.94 | 0.05 | N | 829 |
 | Acrylate, di-, copper | Styrene | 0.56 | 0.09 | 1.74 | 0.03 | N | 829 |
-
-## TABLE 1. cont'd
-
 | Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Styrene | Acrylate, methyl | 0.75 |  | 0.18 |  |  | 393 |
@@ -5016,9 +4775,6 @@ TABLE 1. cont'd
 | Styrene | Allyl chloride | 36.8 |  | 0.03 |  |  | 438 |
 | Styrene | Allyl glycidyl hexahydrophthalate | 34.3 |  | 0.06 |  |  | 782 |
 | Styrene | Allyl glycidyl phthalate | 34.8 |  | 0.14 |  |  | 782 |
-
-## TABLE 1. cont'd
-
 | Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Styrene | Allyl trichloroacetate | 2.32 | 0.15 | 0.81 | 0.02 |  | 913 |
@@ -5080,9 +4836,6 @@ TABLE 1. cont'd
 | Styrene | Cinnamate, butyl | 1.757 | 0.082 | 0.04 | 0.15 | Y | 488 |
 | Styrene | Cinnamate, ethyl | 1.52 | 0.31 | -0.076 | 0.054 | Y | 200 |
 | Styrene | Cinnamate, ethyl | 1.566 | 0.035 | 0.082 | 0.045 | Y | 488 |
-
-## TABLE 1. cont'd
-
 | Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Styrene | Cinnamate, methyl | 1.799 | 0.073 | 0.04 | 0.13 | Y | 488 |
@@ -5141,9 +4894,6 @@ TABLE 1. cont'd
 | Styrene | Crotonaldehyde | 14.7 |  | 0.12 |  |  | 428 |
 | Styrene | Crotonate, α-acetyl-, methyl | 2.7 |  | 0 |  |  | 785 |
 | Styrene | Crotonate, α-bromo-, ethyl | 4.42 |  | 0 |  |  | 785 |
-
-## TABLE 1. cont'd
-
 | Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Styrene | Crotonate, a-carboethoxy-, ethyl | 8.24 |  | 0 |  |  | 785 |
@@ -5209,9 +4959,6 @@ TABLE 1. cont'd
 | Styrene | Fumarate, dibutyl | 0.35 |  | 0.04 |  |  | 1038 |
 | Styrene | Fumarate, dicyclohexyl | 0.49 |  | 0.06 |  |  | 1038 |
 | Styrene | Fumarate, dicyclopentyl | 0.3 |  | 0.06 |  |  | 1038 |
-
-## TABLE 1. cont'd
-
 | Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Styrene | Fumarate, diethyl | 0.29 |  | 0.02 |  |  | 1038 |
@@ -5279,9 +5026,6 @@ TABLE 1. cont'd
 | Styrene | Isoprene | 0.48 |  | 1.3 |  |  | 83 |
 | Styrene | Isoprene, 3-acetoxy- | 0.34 |  | 4.47 |  |  | 770 |
 | Styrene | Isopropenyl methyl ketone | 0.44 |  | 0.29 |  |  | 542 |
-
-## TABLE 1. cont'd
-
 | Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Styrene | Isopropenyl methyl ketone | 0.32 |  | 0.66 |  |  | 542 |
@@ -5334,9 +5078,6 @@ TABLE 1. cont'd
 | Styrene | Itaconimide, N-(2-chloroethyl)- | 0.069 | 0.045 | 0.162 | 0.092 | Y | 642 |
 | Styrene | Itaconimide, N-(4-acetoxyphenyl)- | 0.35 | 0.12 | 0.21 | 0.21 | Y | 729 |
 | Styrene | Itaconimide, N-(4-chlorophenyl)- | 0.159 | 0.084 | 0.2 | 0.18 | Y | 729 |
-
-## TABLE 1. cont'd
-
 | Monomer 1 | Monomer 2 | rx | ±95% | r2 | ±95% | Conv. | Refs. |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Styrene | Itaconimide, | 0.232 | 0.032 | 0.112 | 0.054 | Y | 729 |
@@ -5400,11 +5141,6 @@ TABLE 1. cont'd
 |  | α-chloro- |  |  |  |  |  |  |
 | Styrene | Maleimide, N-(4-methylphenyl)- | 0.107 | 0.048 | 0.019 | 0.078 | Y | 973 |
 | Styrene | Maleimide, N-(β-chloroethyl)-α-chloro- | 0.29 | 0.05 | 0 | 0.06 |  | 974 |
-
-References page II - 290
-
-## **TABLE 1.** *cont'd*
-
 | Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Styrene | Maleimide, N-[N'-(α-methylbenzyl)-aminocarbonylpentyl]- | 0.198 | 0.143 | 0.258 | 0.25 | Y | 1099 |
@@ -5463,9 +5199,6 @@ References page II - 290
 | Styrene | Methacrylate, 2-hydroxyethyl | 0.5 | 1.65 |  |  |  | 878 |
 | Styrene | Methacrylate, 2-hydroxyethyl | 0.59 | 0.53 |  |  |  | 878 |
 | Styrene | Methacrylate, 2-hydroxyethyl | 0.53 | 0.59 |  |  |  | 903 |
-
-## TABLE 1. cont'd
-
 | Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Styrene | Methacrylate, 2-hydroxyethyl | 0.5 |  | 1.65 |  |  | 903 |
@@ -5530,9 +5263,6 @@ References page II - 290
 | Styrene | Methacrylate, methyl | 0.58 |  | 0.48 |  |  | 21 |
 | Styrene | Methacrylate, methyl | 0.44 |  | 0.5 |  |  | 21 |
 | Styrene | Methacrylate, methyl | 0.396 | 0.048 | 0.22 | 0.13 | Y | 241 |
-
-## TABLE 1. cont'd
-
 | Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Styrene | Methacrylate, methyl | 0.42 |  | 0.32 |  |  | 241 |
@@ -5598,9 +5328,6 @@ References page II - 290
 | Styrene | Methacrylonitrile | 0.38 |  | 0.42 |  |  | 311 |
 | Styrene | Methacrylonitrile | 0.43 |  | 0.28 |  |  | 542 |
 | Styrene | Methacrylonitrile | 0.34 |  | 0.21 |  |  | 707 |
-
-**TABLE 1**. *cont'd*
-
 | Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Acrylate, di-, nickel | Methacrylate, di-, dicyclo-pentadienyltitanium | 0.95 |  | 0.65 |  |  | 876 |
@@ -5663,9 +5390,6 @@ References page II - 290
 | Acrylate, ethyl | Vinylanthracene, 9- | 3.498 | 0.041 | 0.295 | 0.056 | Y | 123 |
 | Acrylate, ethyl | Vinylidene chloride | 0.72 | 0.39 | 0.58 | 0.15 | Y | 65 |
 | Acrylate, ferrocenylmethyl | Acrylate, methyl | 0.14 |  | 4.46 |  |  | 293 |
-
-## TABLE 1. cont'd
-
 | Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Styrene | Methacrylonitrile | 0.25 |  | 0.25 |  |  | 75 |
@@ -5728,9 +5452,6 @@ References page II - 290
 | Styrene | Phosphonate, vinyl-, dimethyl | 4.61 |  | 0.4 |  |  | 129 |
 | Styrene | Phosphonate, vinyl-, dimethyl | 2.45 |  | 0.15 |  |  | 592 |
 | Styrene | Phosphonate, vinyl-, dimethyl | 2.45 |  | 0.02 |  |  | 594 |
-
-## TABLE 1. cont'd
-
 | Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Styrene | Phosphonate, vinyl-, diphenyl | 1.74 | 0.16 | -0.38 | 0.29 | Y | 129 |  |
@@ -5794,9 +5515,6 @@ References page II - 290
 | Styrene | Styrene, m-amino- | 0.786 | 0.01 | 1.18 | 0.007 | Y | 989 |  |
 | Styrene | Styrene, m-bromo- | 0.5 | 1.6 |  |  |  | 168 |  |
 | Styrene | Styrene, m-bromo- | 0.55 | 1.05 |  |  |  | 256 |  |
-
-## TABLE 1. cont'd
-
 | Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Styrene | Styrene, m-chloro- | 0.57 |  | 2.3 |  |  | 168 |
@@ -5864,9 +5582,6 @@ References page II - 290
 | Styrene | Tetrazole, 1-vinyl- | 3.85 | 0.045 | 0.184 | 0.031 | Y | 925 |
 | Styrene | Tetrazole, 2-methyl-5-(4'-vinyl)phenyl- | 0.65 |  | 1.3 |  |  | 583 |
 | Styrene | Tetrazole, 2-methyl-5-vinyl- | 1.124 | 0.081 | 0.62 | 0.21 | Y | 670 |
-
-## TABLE 1. cont'd
-
 | Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Styrene | Tetrazole, 2-phenyl-5-(4'-vinyl)phenyl- | 0.95 |  | 1.2 |  |  | 583 |
@@ -5930,9 +5645,6 @@ References page II - 290
 | Styrene | Vinyl ethyl ketone | 0.665 | 0.021 | 0.122 | 0.017 | Y | 550 |
 | Styrene | Vinyl ethyl oxalate | 5.62 | 1.06 | -0.12 | 0.19 | Y | 124 |
 | Styrene | Vinyl ethyl sulfide | 4.76 | 0.2 | 0.113 | 0.032 | Y | 303 |
-
-## TABLE 1. cont'd
-
 | Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Styrene | Vinyl ethyl sulfide | 6 | 0.25 | 0.507 |  | Y | 507 |
@@ -6000,9 +5712,6 @@ References page II - 290
 | Styrene | Vinylmethyldiethoxysilane | 5.68 | 0.1 | 0.08 | 0.14 | Y | 754 |
 | Styrene | Vinylmethyldiethoxysilane | 11.29 | 0.43 | -0.08 | 0.2 | Y | 754 |
 | Styrene | Vinylphenyldimethylsilane | 32.53 | 0.49 | 0.024 | 0.016 | Y | 482 |
-
-## TABLE 1. cont'd
-
 | Monomer 1 | Monomer 2 | rx | ±95% | r2 | ±95% | Conv. | Refs. |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Styrene | Vinylphenylpropanol, 2-p- | 0.48 | 0.3 | 0.41 | 0.4 | Y | 72 |
@@ -6070,11 +5779,6 @@ References page II - 290
 | Styrene, a-methyl- | Methacrylate, methyl | 0.27 | 0.07 | 0.48 | 0.02 | N | 265 |
 | Styrene, a-methyl- | Methacrylate, methyl | 0.51 |  | 0.55 |  |  | 265 |
 | Styrene, a-methyl- | Methacrylate, methyl | 0.6 |  | 0.55 |  |  | 265 |
-
-## Next Page
-
-## TABLE 1. cont'd
-
 | Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Styrene, a-methyl- | Methacrylate, methyl | 0.14 |  | 0.5 |  |  | 532 |
@@ -6142,9 +5846,6 @@ References page II - 290
 | Styrene, p-2-(2-hydroxypropyl)- | Styrene | 0.56 |  | 0.5 |  |  | 390 |
 | Styrene, p-2-(2-hydroxypropyl)- | Styrene | 1.25 |  | 0.79 |  |  | 547 |
 | Styrene, p-2-(2-hydroxypropyl)- | Styrene, p-chloro- | 0.53 |  | 1.24 |  |  | 547 |
-
-## TABLE 1. cont'd
-
 | Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Styrene, p-4-methoxyphenyl ketone | Styrene | 1.85 | 0.93 | 0.423 | 0.071 |  | 806 |
@@ -6212,9 +5913,6 @@ References page II - 290
 | Styrene, p-cyano- | Styrene, p-methoxy- | 0.89 | 0.03 | 0.14 | 0.05 | N | 128 |
 | Styrene, p-decyl- | Styrene | 0.26 | 1.32 | 0.88 | 0.22 |  | 806 |
 | Styrene, p-diethylaminoethyl- | Styrene | 0.59 | 0.19 | 1.12 | 0.19 |  | 806 |
-
-TABLE 1. cont'd
-
 | Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Styrene, p-dimethylamino- | Acrylate, methyl | 0.372 | 0.055 | 0.192 | 0.01 | Y | 911 |
@@ -6280,9 +5978,6 @@ TABLE 1. cont'd
 | Succinimide, N-vinyl- | Styrene | 7 | 1.6 | 0.052 | 0.32 | Y | 80 |
 | Succinimide, N-vinyl- | Vinyl acetate | 5.68 | 0.12 | 0.072 | 0.009 | Y | 104 |
 | Succinimide, N-vinyl- | Vinyl acetate | 4.49 | 9.49 | 0.18 | 0.54 | Y | 167 |
-
-## TABLE 1. cont'd
-
 | Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Succinimide, N-vinyl- | Vinyl acetate | 1.99 | 0.43 | 0.229 | 0.06 | Y | 80 |
@@ -6350,9 +6045,6 @@ TABLE 1. cont'd
 | p-aminoanilino)-6-isopropenyl- |  |  |  |  |  |  |  |
 | Triazine, 1,3,5-2-amino-4- | Styrene | 0.91 | 0.18 | 0.257 | 0.062 | Y | 364 |
 | (p-nitroanilino)-6-isopropenyl- |  |  |  |  |  |  |  |
-
-## TABLE 1. cont'd
-
 | Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Acrylate, ferrocenylmethyl | Maleic anhydride | -0.3 | 2.96 | 0.09 | 0.14 | Y | 325 |
@@ -6418,9 +6110,6 @@ TABLE 1. cont'd
 | Acrylate, methyl | Butadiene | 0.07 | 0.87 | 1.09 | 4.53 | Y | 257 |
 | Acrylate, methyl | Butadiene, 2-chloro- | 0.06 |  | 10.4 |  | Y | 61 |
 | Acrylate, methyl | Carbamate, N,N-diethyl-, vinyl | 4.78 | 0.22 | -0.027 | 0.049 | Y | 92 |
-
-TABLE 1. cont'd
-
 | Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Triazine, 2-allyloxy-4,6-dichloro- | Pyrrolidone, N-vinyl- | 0.5 |  | 0.98 |  |  | 826 |
@@ -6482,9 +6171,6 @@ TABLE 1. cont'd
 | Vinyl acetate | Acrylamide, N-octadecyl- | 0.004 | 0.011 | 8.25 | 1.46 | Y | 119 |
 | Vinyl acetate | Acrylamido, 1-, -1-deoxy-D-glucitol | 0.03 | 0.17 | 0.98 | 0.87 | N | 258 |
 | Vinyl acetate | Acrylamido, 2-, -2-methylpropane-sulfonate | 0.05 |  | 11.6 |  |  | 700 |
-
-## TABLE 1. cont'd
-
 | Monomer 1 | Monomer 2 | rx | ±95% | r2 | ±95% | Conv. | Refs. |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Vinyl acetate | Acrylamidomethylamino, p-,azobenzene | 0.126 |  | 12.98 |  |  | 858 |
@@ -6544,9 +6230,6 @@ TABLE 1. cont'd
 | Vinyl acetate | Diallyl phthalate | 0.336 | 0.049 | 2.19 | 0.34 | Y | 297 |
 | Vinyl acetate |  |  |  |  |  |  |  |
 |  | Acrylate, methyl Acrylonitrile 5,6-dicarboximide, N-benzyl Crotonic acid Crotonic acid Diallyl melamine | 0.04 -0.06 0.317 0.31 0.68 | 0.01 0.08 0.081 0.07 0.026 | 7.28 5.29 0.04 0.001 0.318 | 0.37 1.13 0.14 0.1 0.073 | Y Y N Y | 858 570 1067 489 75 3 438 47 201 |
-
-## TABLE 1. cont'd
-
 | Monomer 1 | Monomer 2 | rx | ±95% | r2 | ±95% | Conv. | Refs. | Monomer 1 | Monomer 2 | rx | ±95% | r2 | ±95% | Conv. | Refs. |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Vinyl acetate | Diallyl phthalate | 0.414 | 0.029 | 1.66 | 0.16 | Y | 297 | Vinyl acetate | Diallyl phthalate | 0.72 | 1.2 | 509 |  |  |  |  |
@@ -6581,9 +6264,6 @@ TABLE 1. cont'd
 | Vinyl acetate | Methacrylate, methyl | 0.04 | 28.6 | 383 |  |  |  | Vinyl acetate | Methacrylate, methyl | 0.07 | 22.21 | 471 |  |  |  |  |
 | Vinyl acetate | Methacrylate acid | 0.01 | 0.2 | 377 |  |  |  | Vinyl acetate | Methacrylonitrile | 0.01 | 12 | 75 |  |  |  |  |
 | Vinyl acetate | N,N-Divinylaniline | 0.058 | 0.009 | 3.99 | 0.12 | Y | 45 |  |  |  |  |  |  |  |  |  |
-
-## TABLE 1. cont'd
-
 | Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Vinyl acetate | Norbornadiene | 0.818 | 0.019 | 1.354 | 0.07 | Y | 188 |
@@ -6651,9 +6331,6 @@ TABLE 1. cont'd
 | Vinyl acetate | Vinyl bromide | 0.41 | 0.13 | 5.26 | 1.23 | Y | 158 |
 | Vinyl acetate | Vinyl bromide | 0.6 | 0.09 | 1.92 | 0.35 | N | 268 |
 | Vinyl acetate | Vinyl bromide | 0.38 |  | 3 |  |  | 268 |
-
-## TABLEI. cont'd
-
 | Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Vinyl acetate | Vinyl butyl ether | 3.72 | 0.09 | 0.01 | 0.02 | N | 345 |
@@ -6721,9 +6398,6 @@ TABLE 1. cont'd
 | Vinyl acetoxymethyl ketone | Styrene | 0.368 | 0.018 | 0.103 | 0.011 |  | 806 |
 | Vinyl benzenesulfonate | Vinyl acetate | -1.34 | 1.7 | 0.628 | 0.036 | Y | 942 |
 | Vinyl benzoate | Acrylonitrile | 0.019 | 0.051 | 5.03 | 1.08 | Y | 47 |
-
-## TABLE 1. cont'd
-
 | Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Vinyl benzoate | Allyl chloride | 0.46 |  | 0.88 |  |  | 438 |
@@ -6791,9 +6465,6 @@ TABLE 1. cont'd
 | Vinyl butyrate | Carbazole, N-vinyl- | 0.07 | 0.12 | 1.33 | 0.34 | Y | 246 |
 | Vinyl butyrate | Ethylene | 1.5 |  | 0.7 |  |  | 605 |
 | Vinyl butyrate | Methacrylate, methyl | 0.03 |  | 25 |  |  | 272 |
-
-**TABLE 1.** *cont'd*
-
 | Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Vinyl butyrate | Vinyl acetate | 0.97 |  | 1 |  |  | 272 |
@@ -6859,9 +6530,6 @@ TABLE 1. cont'd
 | Vinyl chloride | Hexene-1 | 1.54 | 0.98 | -1.72 | 9.23 | N | 329 |
 | Vinyl chloride | Imidazole, 1-vinyl-2-methyl- | 0.188 | 0.077 | 2.15 | 0.26 | Y | 154 |
 | Vinyl chloride | Isobutylene | 2.04 | 1.82 | 0.06 | 0.8 | Y | 140 |
-
-## TABLE 1. cont'd
-
 | Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Vinyl chloride | Isobutylene | 2.12 | 0.2 | -0.268 | 0.043 | Y | 155 |
@@ -6930,9 +6598,6 @@ TABLE 1. cont'd
 | Vinyl chloride | Triallyl citrate | 0.605 | 0.033 | 1.03 | 0.17 | Y | 367 |
 | Vinyl chloride | Vinyl 12-ketostearate | 0.03 |  | -0.01 |  | Y | 146 |
 | Vinyl chloride Vinyl chloride Vinyl chloride Vinyl chloride Vinyl chloride Vinyl chloride Vinyl chloride Vinyl chloride Vinyl chloride Vinyl chloride Vinyl chloride Vinyl chloride Vinyl chloride Vinyl chloride Vinyl chloride Vinyl chloride Vinyl chloride Vinyl chloride Vinyl chloride |  |  |  |  |  |  |  |
-
-## TABLE 1. cont'd
-
 | Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Vinyl chloride | Vinyl 2-chloroethyl ether | 2.46 | 0.52 | -0.07 | 0.11 | Y | 304 |
@@ -7000,9 +6665,6 @@ TABLE 1. cont'd
 | Vinyl chloride | Vinyltrimethoxysilane | 0.93 |  | 0.09 |  | Y | 237 |
 | Vinyl chloroacetate | Acrylonitrile | -0.007 | 0.016 | 4.18 | 0.33 | Y | 362 |
 | Vinyl chloroacetate | Acrylonitrile | 0.09 |  | 0.34 |  |  | 542 |
-
-## TABLE 1. cont'd
-
 | Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Vinyl chloroacetate | Phosphate, vinyl diethyl | 2.01 | 0.2 | 0.374 | 0.046 | Y | 779 |
@@ -7068,4 +6730,3 @@ TABLE 1. cont'd
 | Vinyl ethyl ketone | Styrene | 0.332 | 0.043 | 0.29 | 0.16 | Y | 353 |
 | Vinyl ethyl ketone | Styrene | 0.122 | 0.017 | 0.665 | 0.021 | Y | 550 |
 | Vinyl ethyl ketone | Vinyl acetate | 10.18 | 6.62 | -0.13 | 0.18 | Y | 794 |
-

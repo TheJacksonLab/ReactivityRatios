@@ -1,0 +1,2011 @@
+| Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Acenaphthalene | Acrylate, (-)-menthyl |  |  |  |  | Y | 645 |
+| Acenaphthalene | Pyrrolidone, N-vinyl- |  |  |  |  | N | 326 |
+| Acenaphthalene | Pyrrolidone, N-vinyl- |  |  |  |  | N | 326 |
+| 2-(4-methoxy) |  |  |  |  |  |  |  |
+| Acetanilide, 4-(2-methacryloyloxy)- | Methacrylate, 2-hydroxyethyl | 0.67 |  | 1.39 |  |  | 1096 |
+| ethyloxy) |  |  |  |  |  |  |  |
+| Acetanilide, 4-(2-methacryloyloxy)- | Methacrylate, 2-hydroxyethyl | 0.87 |  | 1.19 |  |  | 1096 |
+| hexyloxy) |  |  |  |  |  |  |  |
+| Acetanilide, 4-(methacryloyloxy)- | Methacrylate, 2-hydroxyethyl | 1.94 |  | 0.78 |  |  | 1096 |
+| Acetylene, phenyl- | Pyridine, 2-vinyl- |  |  |  |  | Y | 192 |
+| Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Acrylate, methyl | Cinnamate, dibutylchlorotin | 1.65 |  | -0.2 |  |  | 659 |
+| Acrylate, methyl | Ethylene |  |  |  |  | N | 41 |
+| Acrylate, methyl | Isoprene, 3-acetoxy- | 0.27 |  | 5.71 |  |  | 770 |
+| Acrylate, methyl | Isopropenyl, 3-1-cyclohexenyl, acetate | 0.37 |  | 0.57 |  |  | 770 |
+| Acrylate, methyl | Methacrylate, ferrocenylmethyl | 1.4 | 0.35 | 0.042 | 0.085 | Y | 293 |
+| Acrylate, methylAcrylate, methyl | Methacrylate, methylMethacrylate, t-butyl dimethylsilyl | 0.40.288 | 0.120.057 | 2.151.07 | 0.040.21 | NY | 3241069 |
+|  | 4,4-dimethyl |  |  |  |  |  |  |
+| Acrylate, methyl | Oxazoline, 2-,4-acryloxy-methyl-2,4-dimethyl | 0.29 |  | 0.11 |  |  | 596 |
+| Acrylate, methyl | Oxazoline, 2-,4-methacryl-oxy-2,4-dimethyl | 0.4 |  | 0.56 |  |  | 596 |
+|  |  |  |  |  |  |  |  |
+| Acrylate, methyl | Oxazolinium, 2-, tetrafluoro-borate, 3-methyl | 0.552 | 0.043 | 0.344 | 0.105 | Y | 877 |
+| Acrylate, methyl | Propenyl, 2-chloro-, acetate | 0.7 |  | 0 |  |  | 445 |
+|  | Pyridine, 2-methyl-5-vinyl- | 0.18 | 0.05 | 1 | 0.3 | N | 232 |
+| Acrylate, methyl | Pyrrolidone, 1-benzyl-3-methylene-5-methyl | 0.125 | 0.025 | 1.58 | 0.24 | Y | 633 |
+| Monomer 1 | Monomer 2 | r1 ±95% | r2 ±95% | Conv. | Refs. |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Vinyl ethyl sulfide | Methacrylate, methyl | 0.3 | 2.7 |  |  |  | 507 |
+| Vinyl ethyl sulfide | Styrene | 0.25 | 6 |  |  |  | 507 |
+| Vinyl ethyl sulfoxide | Styrene | 0.1 | 6 |  |  |  | 286 |
+| Vinyl ethylene glycol glycidyl ether | Pyrrolidone, N-vinyl- | 0.06 | 1.4 |  |  |  | 369 |
+| Vinyl ethylene glycol glycidyl ether | Pyrrolidone, N-vinyl- | 0.06 | 1.4 |  |  |  | 818 |
+| Vinyl fluoride | Acrylate, butyl | 0.01 | 19 |  |  |  | 604 |
+| Vinyl fluoride | Acrylate, butyl | 0.01 | 19 |  |  |  | 606 |
+| Vinyl fluoride | Acrylate, methyl | 0.01 | 43 |  |  |  | 604 |
+| Vinyl fluoride | Acrylate, methyl | 0.01 | 43 |  |  |  | 606 |
+| Vinyl fluoride | Acrylonitrile | 0.005 | 44 |  |  |  | 528 |
+| Vinyl fluoride | Acrylonitrile | 1 | 24 |  |  |  | 590 |
+| Vinyl fluoride | Ethylene | 0.3 | 1.7 |  |  |  | 590 |
+| Vinyl fluoride | Ethylene, chlorotrifluoro- | 0.8 | 1.2 |  |  |  | 406 |
+| Vinyl fluoride | Vinyl acetate | 0.25 | 3.5 |  |  |  | 755 |
+| Vinyl fluoride | Vinyl chloride | 0.05 | 11 |  |  |  | 590 |
+| Vinyl fluoride | Vinyl chloride | 0.11 | 11.6 |  |  |  | 755 |
+| Vinyl fluoride | Vinylidene chloride | 0.16 | 6 |  |  |  | 607 |
+| Vinyl formate | Allyl chloride | 0.57 | 0.78 |  |  |  | 438 |
+| Vinyl formate | Vinyl acetate | 0.68 | 1.41 |  |  |  | 401 |
+| Vinyl isobutyl ether | Acrylate, 2-chloroethyl | 0 | 2.24 |  |  |  | 790 |
+| Vinyl isobutyl ether | Maleate, diethyl | 0 | 0.17 |  |  |  | 640 |
+| Vinyl isobutyl ether | Styrene | 0.01 | 50 |  |  |  | 490 |
+| Vinyl isobutyl ether | Vinylene carbonate | 0.18 | 0.16 |  |  |  | 322 |
+| Vinyl isobutyl ether | Fumarate, diethyl | 0 | 0.52 |  |  |  | 640 |
+| Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|  | 4-piperidinyl |  |  |  |  |  |  |
+| Vinyl methyl ketone | Triazine, 4,6-diamino-2-vinyl- | 0.17 | 0.11 | 1.35 | 0.68 | Y | 243 |
+| Vinyl methyl ketone | Vinyl acetate |  |  |  |  | Y | 91 |
+| Vinyl methyl sulfide | Vinylene carbonate | 7.72 | 1.68 | -0.08 | 0.17 | Y | 120 |
+| Vinyl mono-ethyleneglycol ether | Methacrylate, glycidyl | 0 |  | 4.41 |  |  | 780 |
+| Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Vinyl p-benzylethylcarbinol | Acrylate, butyl | 0.4 |  | 0.17 |  |  | 591 |
+| Vinyl p-benzylethylcarbinol | Acrylate, methyl | 0.48 |  | 0.18 |  |  | 591 |
+| Vinyl p-benzylethylcarbinol | Acrylonitrile | 0.31 |  | 0.04 |  |  | 591 |
+| Vinyl p-benzylmethylcarbinol | Acrylonitrile | 0.54 | 0.2 | 0.11 | 0.17 | N | 48 |
+| Vinyl p-benzylmethylcarbinol | Methacrylate, methyl | 0.98 | 0.28 | 0.24 | 0.26 | Y | 48 |
+| Vinyl p-benzylmethylcarbinol | Styrene | 0.94 | 0.15 | 0.98 | 0.32 | Y | 48 |
+| Vinyl p-benzylmethylcarbinol | Styrene, p-chloro- | 1 |  | 1 |  | Y | 48 |
+| Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Vinyl propionate | Butadiene, 2-chloro- |  |  |  |  | N | 247 |
+| Vinyl thiolacetate | Vinylene carbonate | 13.57 | 1.04 | 0.041 | 0.01 | Y | 186 |
+| Vinyl trimethylammonioethyl ether iodide | N-Vinylpyrrolidone | 0 | 0.02 | 11.6 | 0.03 |  | 1037 |
+| Vinyl, 2-, 2-methyl-4,4,6,6-tetraphenyl-cyclotrisiloxane | Styrene | 0.8 |  | 0.11 |  |  | 626 |
+| Vinylanthracene, 9- | Acrylate, butyl | 0.126 | 0.054 | 3.717 | 0.046 | Y | 123 |
+| Vinylanthracene, 9- | Acrylate, ethyl | 0.295 | 0.056 | 3.498 | 0.041 | Y | 123 |
+| Vinylanthracene, 9- | Acrylate, methyl | 0.08 | 0.092 | 2.998 | 0.067 | Y | 123 |
+| Vinylanthracene, 9- | Methacrylate, methyl | 0.117 | 0.043 | 4.068 | 0.04 | Y | 123 |
+| Vinylanthracene, 9- | Styrene | 0.25 |  | 2.12 |  |  | 123 |
+| Vinylanthracene, 9- | Styrene | 0.3 |  | 2.12 |  |  | 48 |
+| Vinylbenzoate, p-, sodium | Acrylonitrile | 0.23 | 0.34 | 0.174 | 0.04 | Y | 175 |
+| Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Vinylbenzoic acid, p- | Acrylonitrile | 1.63 | 0.42 | 0.06 | 0.009 | Y | 175 |
+| Vinylbenzoic acid, p- | Methacrylate, methyl | 1.16 | 0.3 | 0.398 | 0.097 | Y | 266 |
+| Vinylbenzoic acid, p- | Styrene | 1.029 | 0.06 | 0.282 | 0.011 | Y | 266 |
+| Vinylene carbonate | Acrylamide | 0.05 |  | 13.8 |  |  | 387 |
+| Vinylene carbonate | Acrylonitrile | 0.08 |  | 14.9 |  |  | 579 |
+| Vinylene carbonate | Methacrylate, methyl | -0.04 | 0.85 | 126 | 298 | Y | 103 |
+| Vinylene carbonate | Pyrrolidone, N-vinyl- | 0.056 | 0.059 | 1.08 | 0.11 | Y | 103 |
+| Vinylene carbonate | Styrene | 3.16 |  | 411 |  | Y | 103 |
+| Vinylene carbonate | Styrene | -0.73 | 0.98 | 21.03 | 23.45 | Y | 120 |
+| Vinylene carbonate | Vinyl acetate | 0.3 | 0.3 | 3.2 | 0.62 | Y | 103 |
+| Vinylene carbonate | Vinyl acetate | 0.27 |  | 3 |  |  | 103 |
+| Vinylene carbonate | Vinyl acetate | 0.05 | 0.16 | 7.16 | 0.64 | Y | 120 |
+| Vinylene carbonate | Vinyl acetate | 0.13 |  | 7.3 |  |  | 120 |
+| Vinylene carbonate | Vinyl acetate | 0.044 | 0.039 | 3.83 | 0.18 | Y | 144 |
+| Vinylene carbonate | Vinyl acetate | 0.08 | 0.11 | 3.92 | 0.32 | Y | 90 |
+| Vinylene carbonate | Vinyl chloride | 0.03 | 0.12 | 4.82 | 0.49 | Y | 103 |
+| Vinylene carbonate | Vinyl chloride | 0.069 | 0.068 | 15.38 | 1.44 | Y | 319 |
+| Vinylene carbonate | Vinyl chloride | 0 | 0.22 | 17.81 | 7.84 | Y | 319 |
+| Vinylene carbonate | Vinyl isobutyl ether | 0.16 |  | 0.18 |  |  | 322 |
+| Vinylene carbonate | Vinyl 1-menthyl ether | 0.14 | 1.91 | 0.25 | 3.32 | Y | 750 |
+| Vinylene carbonate | Vinyl methyl sulfide | -0.08 | 0.17 | 7.72 | 1.68 | Y | 120 |
+| Vinylene carbonate | Vinyl thiolacetate | 0.041 | 0.01 | 13.57 | 1.04 | Y | 186 |
+| Vinylethynyl-4-piperidinol, 1,2,5-trimethyl-4- | Acrylonitrile | 0.38 |  | 0.08 |  |  | 783 |
+| Vinylethynyl-4-piperidinol, 1,2,5-trimethyl-4- | Methacrylic acid | 0.05 |  | 0.4 |  |  | 734 |
+| Vinylferrocene | Acrylonitrile | 0.15 |  | 0.16 |  |  |  |
+| Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Vinylidene chloride | Allylstearamide, N- | 5.22 | 0.15 | -0.24 | 0.19 | Y | 119 |
+| Vinylidene chloride | Crotonaldehyde |  |  | 0 |  |  | 405 |
+| Vinylidene chloride | Maleate, diethyl | 12.5 |  |  |  |  | 3 |
+| Vinylidene chloride | Propenyl 2-methyl, acetate | 2.4 |  | 0 |  |  | 470 |
+| Vinylidene chloride | Tetrazole, 2-methyl-5-(4'-vinyl)phenyl- | 0.13 |  | 1.9 |  |  | 583 |
+| Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Vinylidene cyanide | Butadiene, 2-chloro- |  |  |  |  | Y | 82 |
+| Vinylidene cyanide | Ethylene, dichloro-, cis- |  |  |  |  | Y | 82 |
+| Vinylidene cyanide | Ethylene, dichloro-, cis- |  |  |  |  | Y | 82 |
+| Vinylidene cyanide | Maleic anhydride |  |  |  |  | Y | 82 |
+| Vinylmethylphenylsulfonium tetrafluoroborate | Acrylamide | 0.1 |  | 3.4 |  |  | 793 |
+| Vinylmethylphenylsulfonium tetrafluoroborate | Acrylonitrile | 0.1 |  | 2.2 |  |  | 793 |
+| Vinylphenylisocyanate, p- | Vinyl chloride | 11.9 |  | 0.1 |  |  | 777 |
+| Vinylphenylpropanol, 2-p- | Styrene | 0.41 | 0.4 | 0.48 | 0.3 | Y | 72 |
+| Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Vinyltrimethylsilane | Styrene |  |  |  |  | Y | 482 |
+| Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Acrylate, methyl | Styrene, p-1-(2-hydroxybutyl)- | 0.18 |  | 0.48 |  |  | 548 |
+| Acrylate, methyl | Vinyl butylsulfonate | 4.14 |  |  |  |  | 185 |
+| Acrylate, methyl | Vinyl cymantrene | 0.46 | 0.14 | 0.211 | 0.067 | Y | 354 |
+| Acrylate, methyl | Vinyl, 2-bromo-, ethyl ether | 16.83 | 2.34 | -0.79 | 0.32 | Y | 194 |
+| Acrylate, methyl | Vinyl, p-, benzylethylcarbinol | 0.18 |  | 0.48 |  |  | 591 |
+| Acrylate, methyl | Vinylanthracene, 9- | 2.998 | 0.067 | 0.08 | 0.092 | Y | 123 |
+| Acrylate, octadecyl | Styrene | 0.18 |  | 0.44 |  |  |  |
+|  |  |  |  |  |  |  | 290 |
+| Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Acrylate, sodium | Vinyl acetate |  |  |  |  | Y | 37 |
+| Acrylate, thio- butyl | Styrene | 0.421 | 0.17 | 0.439 | 0.14 |  | 806 |
+| Acrylate, thio-, ethyl | Styrene | 0.291 | 0.075 | 0.18 | 0.038 |  | 806 |
+| Acrylate, thio-, tert-butyl | Styrene | 0.368 | 0.055 | 0.157 | 0.034 |  | 806 |
+| Acrylate, trifluoro-, methyl | Vinyl acetate | 0 |  | 0.24 |  |  |  |
+| Acrylic acid | Acrylic acid, N-acetyl-a-amino- | 1.41 |  | 0.49 |  |  | 661 |
+| Acrylic acid | Propenyl, 2-chloro-, acetate | 1 |  | 0 |  |  | 445 |
+| Acrylic acid | Propylene |  |  |  |  | Y | 183 |
+| Acrylate, p-bromophenyl; Methacrylate, methyl; Acrylate, trifluoro-, methyl; Vinyl acetate; Acrylic acid; Acrylamide; Acrylic acid; Acrylamide; Acrylic acid; Acrylate, pentachlorophenyl; Acrylic acid; N-Vinylimidazole | 0.191; 0; 1.644; 0.29; 0.82; 1.932 | 0.014; 0; 0.069; 0.077 | 0.926; 0.24; 0.445; 1.06; 1.12; 0.187 | 0.056; 0.075; 0.025 | Y; Y; Y | 1074; 595; 598; 278; 869; 900; 879 |  |
+| Acrylic acid | Vinyl chloride | 6.69 |  |  |  |  |  |
+| Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Acrylic acid, N-acetyl-a-amino | Acrylic acid | 0.49 |  | 1.41 |  |  | 661 |
+| Acrylic acid, N-acetyl-a-amino- | Styrene | 0.44 |  | 0.91 |  |  | 661 |
+| Acrylonitrile | Acrylate, 2-nitrobutyl | 0.67 | 0.25 | 1.76 | 0.69 | N | 234 |
+| Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Acrylonitrile | Acrylate, cis-(3-cyano-, methyl |  |  |  |  | N | 1034 |
+| Acrylonitrile Acrylonitrile | Allyl acetate Allyl alcohol | 6.57 | 2.11 | -0.09 | 0.12 | Y N | 108 108 |
+| Acrylonitrile | Allylstearamide, N- | 3.79 | 0.28 | 0.03 | 0.27 | Y | 119 |
+| Acrylonitrile Acrylonitrile | Butadiene Butadiene | 0.06 0.03 | 0.02 | 0.1 0.2 | 0.01 | N | 501 66 |
+| Acrylonitrile | Butene-1, 4-cyclohexyl- | 5.03 | 0.76 | 0.014 | 0.055 | Y | 24 |
+| Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. | Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Acrylonitrile | Cinnamate, a-cyano-, ethyl | 12.6 | 2.3 | -0.18 | 0.15 | Y | 310 | Acrylonitrile | Cinnamonitrile | 8.46 | 0.37 | 0.36 | 0.1 | Y | 310 |
+| Acrylonitrile | Cinnamonitrile, a-cyano- | 8.53 |  | 0.6 |  | Y | 310 | Acrylonitrile | Citraconimide, N-methyl- | 0.53 | 0.6 |  |  |  | 460 |
+| Acrylonitrile | Crotonaldehyde | 8 | 0 |  |  |  | 429 | Acrylonitrile | Crotonaldehyde | 25 | 0.01 |  |  |  | 504 |
+| Acrylonitrile | Crotonate, a-chloro-, ethyl | 9.53 | 0 |  |  |  | 785 | Acrylonitrile | Crotonate, a-cyano-, ethyl | 11.4 | 0.06 |  |  |  | 785 |
+| Acrylonitrile | Crotonate, a-methoxy-, methyl | 1 | 0 |  |  |  | 785 | Acrylonitrile | Crotonate, a-methyl-, methyl | 2.97 | 0 |  |  |  | 785 |
+| Acrylonitrile | Crotonate, a-acetyl-, methyl | 8.68 | 0 |  |  |  | 785 | Acrylonitrile | Crotonate, a-carboethoxy-, ethyl | 18.7 | 0 |  |  |  | 785 |
+| Acrylonitrile | Crotonate, ethyl | 25.2 | 0 |  |  |  | 785 | Acrylonitrile | Crotonic acid | 21 | 0 |  |  |  | 402 |
+| Acrylonitrile | Cyclopentene, 4-, -1,3-dione | 3.02 | 0.71 | 0.04 | 0.058 | Y | 95 | Acrylonitrile | Cyclopropene, 3,3-dimethoxy- | 1.424 | 0.038 | 0.245 | 0.037 | Y | 838 |
+| Acrylonitrile | Diallyl phthalate | 4.23 | 0.15 | 0.04 | 0.012 | Y | 153 | Acrylonitrile | Diallyl phthalate | 2.78 | 0.52 | 0.037 | 0.031 | Y | 153 |
+| Acrylonitrile | Ethylene | 7 | 0 |  |  |  | 415 | Acrylonitrile | Ethylene, 1,1-diphenyl- | 0.05 | 0.01 | -0.02 | 0.01 | N | 143 |
+| Acrylonitrile | Ethylene, tetrachloro- | 456 | 0 |  |  |  | 571 | Acrylonitrile | Ethylene, tetrachloro- | 470 | 0 |  |  |  | 59 |
+| Acrylonitrile | Ethylene, trichloro- | 67 | 0 |  |  |  | 470 | Acrylonitrile | Ethylene, trichloro- | 62.1 | 0 |  |  |  | 572 |
+| Acrylonitrile | Fumarate, diisopropyl | 16 | 0.2 |  |  |  | 1038 | Acrylonitrile | Fumarate, diethyl | 8 | 0 |  |  |  | 470 |
+| Acrylonitrile | Fumarate, diethyl | 10 | 0.1 |  |  |  | 640 | Acrylonitrile | Hexatriene, tetrachloro- | 0.234 | 0.05 | 4.01 | 1.25 | Y | 640 |
+| Acrylonitrile | Hexene-1 | 2.07 | -1.08 |  |  | Y | 60 | Acrylonitrile | Indene | 0.281 | 0.05 | 0.09 | 0.25 | Y | 360 |
+| Acrylonitrile | Indene | 0.29 | 0.12 | 0.07 | 0.24 | Y | 360 | Acrylonitrile | Isobutylene | 1.295 | 0.008 | 0 | 0.002 | Y | 21 |
+| Acrylonitrile | Isobutylene | 0.98 | 0.25 | 0.02 | 0.38 | Y | 211 | Acrylonitrile | Isobutylene | 1.02 | 0 |  |  |  | 484 |
+| Acrylonitrile | Isoprene | 0.03 | 0.45 |  |  |  | 417 | Acrylonitrile | Isopropenyl methyl ketone | 0.3 | 1.2 |  |  |  | 490 |
+| Acrylonitrile | Isopropenyl methyl ketone | 0.36 | 0.7 |  |  |  | 542 | Acrylonitrile | Isopropenylisocyanate | 0.24 | 0.1 |  |  |  | 434 |
+| Acrylonitrile | Itaconic acid | 0.59 | 0.34 | 0.86 | 0.74 | Y | 164 | Acrylonitrile | Itaconic anhydride | 0.034 | 0.014 | 4.83 | 0.33 | Y | 365 |
+| Acrylonitrile | Maleate, diethyl | 12 | 0 |  |  |  | 470 | Acrylonitrile | Maleate, diethyl | 20 | 0 |  |  |  | 640 |
+| Acrylonitrile | Maleic anhydride | 6 | 0 |  |  |  | 470 | Acrylonitrile | Maleimide, N-(2-bromophenyl)- | 2.029 | 0.214 | 0.338 | 0.045 | Y | 863 |
+| Acrylonitrile | Maleimide, N-(2-chlorophenyl)- | 0.956 | 0.095 | 1.078 | 0.048 | Y | 863 | Acrylonitrile | Maleimide, N-(4-chlorophenyl)- | 0.972 | 0.112 | 0.743 | 0.048 | Y | 863 |
+| Acrylonitrile | Maleimide, N-2-bromophenyl- | 2.02 | 0.205 | 0.348 | 0.044 | Y | 915 | Acrylonitrile | Maleimide, N-2-chlorophenyl- | 0.955 | 0.095 | 1.08 | 0.048 | Y | 915 |
+| Acrylonitrile | Maleimide, N-4-chlorophenyl- | 0.972 | 0.112 | 0.743 | 0.048 | Y | 915 | Acrylonitrile | Maleimide, N-octadecyl- | 2.482 | 0.119 | 0.389 | 0.023 | Y | 863 |
+| Acrylonitrile | Maleimide, N-octadecyl- | 2.46 | 0.115 | 0.39 | 0.023 | Y | 915 | Acrylonitrile | Methacrylamide, N-(p-chlorophenyl)- | 0.399 | 0.019 | 0.627 | 0.051 | Y | 352 |
+| Acrylonitrile | Methacrylamide, N-(p-methoxyphenyl)- | 0.337 | 0.019 | 0.559 | 0.048 | Y | 352 | Acrylonitrile | Methacrylamide, N-(p-methylphenyl)- | 0.336 | 0.026 | 0.549 | 0.06 | Y | 352 |
+| Acrylonitrile | Methacrylamide, N-(p-nitrophenyl)- | 0.37 | 0.14 | 2.34 | 1.07 | Y | 352 | Acrylonitrile | Methacrylamide, N-phenyl- | 0.381 | 0.085 | 0.71 | 0.19 | Y | 352 |
+| Acrylonitrile | Methacrylate, 2,2,6,6-tetramethyl- | 0.02 | 14 |  |  |  | 664 | 4-piperidinyl |  |  |  |  |  |  |  |
+| Acrylonitrile | Methacrylate, | 0.38 | 1.89 |  |  |  | 600 | 2-(N,N-dimethylcarbamoyloxy)ethyl |  |  |  |  |  |  |  |
+| Acrylonitrile | Methacrylate, 2-bromoethyl | 0.31 | 2.38 |  |  |  | 657 | Acrylonitrile | Methacrylate, 2-chloroethyl | 0.14 | 1.3 |  |  |  | 382 |
+| Acrylonitrile | Methacrylate, 2-hydroxyethyl | 0.2 | 1 |  |  |  | 689 | Acrylonitrile | Methacrylate, 2-naphthyl | 0.15 | 0.2 | 1.17 | 0.2 | Y | 611 |
+| Acrylonitrile | Methacrylate, 2-naphthyl | 0.094 | 0.099 | 1.02 | 0.19 | Y | 611 |  |  |  |  |  |  |  |  |
+| Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Acrylonitrile | Methacrylate, ferrocenylmethyl | 0.15 | 0.04 | 0.82 | 0.42 | Y | 325 |
+| Acrylonitrile | Methacrylate, potassium 18-crown-6-ether | 0.07 | 0.006 | 0.175 | 0.018 | Y | 808 |
+|  |  |  |  |  |  |  |  |
+| Acrylonitrile Acrylonitrile | Methacryloyl chloride Methacryloyl acetone | 0.35 0.01 | 0.004 | 2.8 3.74 | 0.22 | Y | 580 339 |
+| Acrylonitrile Acrylonitrile | Norbornadiene Norbornadiene | 0.48 0.66 | 0.27 0.01 | 0.05 0.44 | 0.23 0.05 | N N | 267 69 |
+| Acrylonitrile | Oct-1-ene, 6,6-dimethyl-4,8-dioxaspiro | 0.985 | 0.675 | 1.484 | 1.078 | Y | 838 |
+| Acrylonitrile | Oxazoline, 2-,2-isopropenyl-,4-dimethyl | 0.24 |  | 1.83 |  |  | 596 |
+|  |  |  |  |  |  |  |  |
+| Acrylonitrile | Oxazoline, 2-,4-methacryloxy-2,4-dimethyl | 0.11 |  | 0.89 |  |  | 596 |
+| Acrylonitrile Acrylonitrile | Phthalimide, N-vinyl- Phthalimide, N-(methacryloyloxy)- | 0.43 0.204 | 0.01 0.016 | 0.24 1.45 | 0.02 0.072 | Y | 1046 979 |
+| Acrylonitrile | Pyridazinone, 3-(2-vinyl)-6-methyl- | 0.32 | 0.02 | 0.19 | 0.04 | N | 340 |
+| Acrylonitrile | Pyridazinone, 3-(2-vinyl)-6-methyl-4,5- | 0.74 | 0.02 | 0.02 | 0.02 | N | 340 |
+| Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Acrylonitrile | Pyrrolidone, N-vinyl- |  |  |  |  | Y | 213 |
+| Acrylonitrile Acrylonitrile | Styrene, 4-methyl- Styrene, α-(trimethylsilyloxy)- | 0.079 0.05 | 0.005 | 0.227 0 | 0.021 | Y | 929 970 |
+| Acrylonitrile Acrylonitrile | Styrene, m-methyl- Styrene, p-1-(2-hydroxy-butyl)- | 0.07 0.04 |  | 0.43 0.31 |  |  | 378 548 |
+| Acrylonitrile | Styrene, p-1-(2-hydroxy-propyl)- | 0.1 |  | 0.53 |  |  | 380 |
+| Acrylonitrile | Styrene, p-2-(2-hydroxy-propyl)- | 0.05 |  | 0.41 |  |  | 547 |
+| Acrylonitrile | Tetrazole, 2-methyl-5-(4'-vinyl)phenyl- | 0.42 |  | 1.1 |  |  | 583 |
+| Acrylonitrile | Toluenesulfonamide, N,N-methyl-vinyl- | 0.42 | 0.12 | 0.04 | 1.04 | Y | 80 |
+| Acrylonitrile | 3,4,9,10-tetracarboxylic acid |  |  |  |  |  |  |
+|  | Vinyl 3,3-bis(ethoxycarbonyl)propyl |  |  |  |  |  |  |
+|  | ether |  |  |  |  |  |  |
+| Acrylonitrile | Vinyl acetate |  |  |  |  | N | 235 |
+| Acrylonitrile Acrylonitrile | Vinyl bromide Vinyl bromide | 2.79 2.25 | 0.2 | 0.06 0.06 | 0.04 | N | 268 268 |
+| Acrylonitrile | Vinyl butyl ether |  |  |  |  | N | 345 |
+| Monomer 1 | Monomer 2 |  | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Acrylonitrile | Vinyl butyl ether |  | 0.98 | 0.13 | -0.03 | 0.01 | N | 347 |
+| Acrylonitrile | Vinyl butyl sulfide |  | 0.086 | 0.01 | 0.041 | 0.028 | Y | 303 |
+| Acrylonitrile | Vinyl chloride |  | 3.26 | 0.34 | -0.01 | 0.037 | Y | 140 |
+| Acrylonitrile | Vinyl chloride |  | 2.55 | 0.12 | 0.07 | 0.03 | N | 202 |
+| Acrylonitrile | Vinyl chloride |  | 2.62 | 0.25 | 0.02 | 0.08 | N | 22 |
+| Acrylonitrile | Vinyl chloride |  | 3.62 | 0.21 | 0.044 | 0.002 | Y | 238 |
+| Acrylonitrile | Vinyl chloride |  | 3.65 | 0.22 | 0.052 | 0.01 | Y | 46 |
+| Acrylonitrile Acrylonitrile | Vinyl chloride Vinyl chloroacetate |  | 4 4.18 | 0.33 | 0.04 -0.007 | 0.016 | Y | 529 362 |
+| Acrylonitrile | Vinyl chloroacetate |  | 0.34 |  | 0.09 |  |  | 542 |
+| Acrylonitrile Acrylonitrile | Vinyl chloroethyl ether Vinyl chloromethyl ketone |  | 1.04 0.064 | 0.05 0.019 | -0.02 0.88 | 0.02 0.12 | N Y | 116 356 |
+| Acrylonitrile | Vinyl cymantrene |  | 0.446 | 0.048 | -0.065 | 0.093 | Y | 354 |
+| Acrylonitrile | Vinyl dichloroacetate |  | 7.45 | 0.32 | 0.044 | 0.015 | N | 362 |
+| Acrylonitrile | Vinyl dichloroacetate |  | 0.25 |  | 0.18 |  |  | 542 |
+| Acrylonitrile | Vinyl dodecyl ether |  | 0.82 |  | 0 |  |  | 373 |
+| Acrylonitrile | Vinyl ether |  | 0.94 |  | 0.02 |  |  | 386 |
+| Acrylonitrile | Vinyl ethyl ether |  | 0.69 | 0.12 | 0.06 | 0.12 | N | 194 |
+| Acrylonitrile | Vinyl ethyl oxalate |  | 1.34 | 0.45 | 0.06 | 0.03 | N | 285 |
+| Acrylonitrile | Vinyl ethyl sulfide |  | 0.09 | 0.01 | 0.06 | 0.03 | N | 285 |
+| Acrylonitrile | Vinyl ethyl sulfide |  | 0.06 | 0.01 | 0.05 | 0.03 | N | 336 |
+| Acrylonitrile | Vinyl ethyl sulfoxide |  | 1.63 | 0.16 | -0.08 | 0.14 | Y | 286 |
+| Acrylonitrile | Vinyl fluoride |  | 44 |  | 0.005 |  |  | 528 |
+| Acrylonitrile | Vinyl fluoride |  | 24 |  | 1 |  |  | 590 |
+| Acrylonitrile Acrylonitrile | Vinyl formate Vinyl hendecanoate |  | 2.54 1.88 | 1.79 0.44 | -0.004 0.09 | 0.12 0.91 | Y Y | 47 145 |
+| Acrylonitrile Acrylonitrile | Vinyl isobutyl ether Vinyl isobutyl ether |  | -0.24 -0.05 | 0.26 0.07 | 0.7 0.99 | 0.09 0.06 | N N | 322 322 |
+| Acrylonitrile | Vinyl isobutyl ether |  | 0.98 | 0.15 | -0.04 | 0.01 | N | 347 |
+| Acrylonitrile | Vinyl isobutyl ether |  | 1.26 | 0.19 | -0.04 | 0.02 | N | 347 |
+| Acrylonitrile |  | Vinyl isobutyl sulfide | 0.08 | 0.005 | 0.03 | 0.01 | N | 285 |
+| Acrylonitrile |  | Vinyl isobutyl sulfide | 0.062 | 0.004 | 0.022 | 0.038 | Y | 303 |
+| Acrylonitrile |  | Vinyl isobutyl sulfide | 0.08 | 0.004 | 0.03 | 0.01 | N | 336 |
+| Acrylonitrile |  | Vinyl isothiocyanate | 0.36 |  | 1.4 |  |  | 542 |
+| Acrylonitrile | Vinyl laurate |  | 4 |  | 0.04 |  |  | 381 |
+| Acrylonitrile |  | Vinyl methyl ketone | 0.59 | 0.13 | 1.75 | 0.11 | Y | 140 |
+| Acrylonitrile | Vinyl methyl ketone |  | 0.63 |  | 1.39 |  |  | 504 |
+| Acrylonitrile | Vinyl octadecyl ether |  | 0.85 |  | 0 |  |  | 373 |
+| Acrylonitrile | Vinyl octyl ether |  | 0.81 |  | 0 |  |  | 373 |
+| Acrylonitrile | Vinyl phenyl ether |  | 2.5 |  | 0.23 |  |  | 556 |
+| Acrylonitrile | Vinyl phenyl sulfide |  | 0.11 | 0.01 | 0.03 | 0.02 | N | 285 |
+| Acrylonitrile | Vinyl phenyl sulfide |  | 0.11 | 0.01 | 0.03 | 0.01 | N | 336 |
+| Acrylonitrile | Vinyl stearate |  | 4.639 | 0.015 | 0.078 | 0.007 | Y | 145 |
+| Acrylonitrile | Vinyl tert-butyl sulfide |  | 0.09 | 0.024 | 0 | 0.013 | Y | 303 |
+| Acrylonitrile | Vinyl trichloroacetate |  | 7.34 | 0.9 | 0.047 | 0.039 | Y | 362 |
+| Acrylonitrile | Vinyl, α-chloro-, triethoxysilane |  |  |  |  |  | Y |  |
+| Acrylonitrile | Vinyl, p-, benzylethylcarbinol |  | 0.04 |  | 0.31 |  |  | 591 |
+| Acrylonitrile | Vinyl, p-, benzylmethylcarbinol |  | 0.11 | 0.17 | 0.54 | 0.2 | N | 48 |
+| Acrylonitrile | Vinyl-tris(trimethoxysiloxy)-silane |  | 3.9 |  | 0.07 |  |  | 209 |
+| Acrylonitrile | Vinyl-tris(trimethoxysiloxy)-silane |  | 3.85 |  | 0.08 |  |  | 573 |
+| Acrylonitrile | Vinylbenzoate, p-, sodium |  | 0.174 | 0.04 | 0.23 | 0.34 | Y | 175 |
+| Acrylonitrile | Vinylbenzoic acid, p- |  | 0.06 | 0.009 | 1.63 | 0.42 | Y | 175 |
+| Acrylonitrile | Vinylene carbonate |  | 14.9 |  | 0.08 |  |  | 579 |
+| Acrylonitrile | Vinylethynyl-4-piperidinol, |  | 0.08 |  | 0.38 |  |  | 783 |
+|  | 1,2,5-trimethyl |  |  |  |  |  |  |  |
+| Acrylonitrile | Vinylferrocene |  | 0.186 | 0.025 | 0.165 | 0.092 | Y | 294 |
+| Acrylonitrile | Vinylferrocene |  | 0.16 |  | 0.15 |  |  | 294 |
+| Acrylonitrile | Vinylhydroquinone |  | 0.56 | 0.36 | 0.04 | 0.03 | N | 338 |
+| Acrylonitrile | Vinylidene chloride |  | 0.92 | 0.11 | 0.32 | 0.14 | Y | 138 |
+| Acrylonitrile | Vinylidene chloride |  | 1.04 | 0.2 | 0.28 | 0.034 | Y | 238 |
+| Acrylonitrile | Vinylidene chloride |  | 0.44 |  | 0.4 |  |  | 404 |
+| Acrylonitrile | Vinylidene chloride |  | 0.58 |  | 0.42 |  |  | 404 |
+| Acrylonitrile | Vinylidene chloride |  | 0.65 |  | 0.49 |  |  | 404 |
+| Acrylonitrile | Vinylidene chloride |  | 0.57 |  | 0.69 |  |  | 404 |
+| Acrylonitrile | Vinylidene chloride |  | 0.5 |  | 0.76 |  |  | 404 |
+| Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|  | tetrafluoroborate |  |  |  |  |  |  |
+| Acrylonitrile, 2-fluoro- | Styrene |  |  |  |  | Y | 884 |
+| Acrylonitrile, a-chloro- | Styrene | 0.03 | 0.02 | 0.13 | 0.04 |  | 806 |
+| Acrylonitrile, a-perfluoropropyl- | Methacrylate, methyl | 0 | 0.05 | 1.9 | 0.3 |  | 926 |
+|  | Methacrylate, methyl | 1.51 |  | 0.48 |  |  | 508 |
+| dinitrobenzoate |  |  |  |  |  |  |  |
+| Acryloyl-β-hydroxyethyl-3,5- | Methacrylate, N-ethyl- | 0.103 | 0.015 | 1.425 | 0.09 | Y | 701 |
+| dinitrobenzoate | 3-hydroxymethylcarbazolyl |  |  |  |  |  |  |
+| Acryloyloxy, 2-, benzoic acid | Methacrylate, N-methyl-N-phenyl- | 1.82 | 0.2 | 0.22 | 0.03 | N | 651 |
+|  | 2-amino |  |  |  |  |  |  |
+| Acryloyloxy, 2-, benzoic acid | Styrene | 0.64 | 0.02 | 0.06 | 0.02 | N | 651 |
+| Allyl acetate | Vinyl chloride | 1.2 |  |  |  |  | 470 |
+| Allyl alcohol | Acrylonitrile |  |  |  |  | N | 108 |
+| Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Acrolein | Styrenesulfonate, p-, sodium | 0.395 | 0.092 | 0.327 | 0.033 | Y | 57 |
+| Acrolein | Styrenesulfonate, p-, sodium | 0.26 | 0.16 | 0.047 | 0.071 | Y | 57 |
+| Acrolein | Styrenesulfonate, p-, sodium | 0.113 | 0.018 | 0.01 | 0.009 | Y | 57 |
+| Acrolein Acrolein diethylacetal | Vinyl chloride Acrylonitrile | 5.22 0.02 | 0.13 | 0.03 11.19 | 0.11 | N | 271 767 |
+| Acrolein, methyl- Acrolein, methyl- | Acrylonitrile Acrylonitrile | 1.7 3.8 |  | 0.15 0.15 |  |  | 455 587 |
+| Acryl-2'-ethyl-4,5,7-trinitro- | Acrylate, N-(2-hydroxyethyl)- | 0.585 | 0.028 | 0.912 | 0.079 | Y | 715 |
+| 9-flurenone-2-carboxylate | carbazolyl |  |  |  |  |  |  |
+| Acryl-2'-ethyl-4,5,7-trinitro-9-flurenone- | Methacrylate, N-(2-hydroxyethyl)- | 0.102 | 0.022 | 0.773 | 0.096 | Y | 703 |
+| 2-carboxylate | carbazolyl |  |  |  |  |  |  |
+| Acrylamide | Cinnamic acid, cis- | 3.84 | 0.68 |  | 0.28 | Y | 298 |
+| Acrylamide Acrylamide | Crotonic acid Crotonic acid | 4.72 5.32 |  | 0.11 0.12 |  |  | 569 569 |
+| Acrylamide | Crotonic acid, cis- |  |  |  |  | Y | 341 |
+| Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Allyl chloride | Acrylate, methyl |  |  |  |  | Y | 204 |
+| Allyl chloride | Methacrylate, methyl |  |  |  |  | Y | 204 |
+| Allyl chloride | Styrene |  |  |  |  |  | 204 |
+| Allylbenzene | Maleic anhydride |  |  |  |  | Y | 351 |
+| Allylstearamide, N- | Acrylonitrile | 0.03 | 0.27 | 3.79 | 0.28 | Y | 119 |
+| Allylstearamide, N- | Vinyl acetate | 0.68 | 0.26 | 0.923 | 0.092 | Y | 119 |
+| Allylstearamide, N- | Vinylidene chloride | -0.24 | 0.19 | 5.22 | 0.15 | Y | 119 |
+| Benzenesulfamide, p-methacrylamide- | Vinyl butyl ether | 3.4 | 0.1 | 0 |  |  | 1005 |
+| Benzoate, p-(acryloylethoxy)-, | Benzoate, p-(acryloyloxy)-, | 0.36 |  | 0.91 |  |  | 881 |
+| p-butoxy phenyl | p-butoxy phenyl |  |  |  |  |  |  |
+| p-butoxy phenyl |  |  |  |  |  |  |  |
+| Benzoate, p-(acryloyloxy)-, | Benzoate, p-(acryloyloxy)-, p-butoxy | 0.91 |  | 0.36 |  |  | 881 |
+| p-butoxy phenyl | phenyl |  |  |  |  |  |  |
+| p-butoxy phenyl |  |  |  |  |  |  |  |
+| p-methoxy phenyl | p-butoxyphenyl |  |  |  |  |  |  |
+| Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Benzoate, p-(acryloyloxy)-, phenyl | Benzoate, p-(acryloyloxy)-, p-butoxy phenyl | 1.5 |  | 0.49 |  |  | 881 |
+| Benzoate, p-(acryloyloxy)-, phenyl | Benzoate, p-(methacryloyloxy)-, (p-octyloxy)phenyl | 0.23 |  | 1.26 |  |  | 881 |
+| Benzoate, p-(acryloyloxy)-, p-butoxy phenyl | Benzoate, p-(acryloyloxy-ethoxy)-, p-butoxy phenyl | 0.91 |  | 0.36 |  |  | 856 |
+| Benzoate, p-(acryloyloxy)-, p-butoxy phenyl | Benzoate, p-(acryloyloxy-ethoxy)-, phenyl | 0.32 |  | 0.61 |  |  | 856 |
+| Benzoate, p-(acryloyloxy)-, phenyl | Benzoate, p-(acryloyloxy-ethoxy)-, p-methoxy phenyl | 1.5 |  | 0.49 |  |  | 856 |
+| Benzoate, p-(acryloyloxy)-, phenyl | Benzoate, p-(methacryloyloxy-ethoxy)-, p-methoxy phenyl | 0.23 |  | 1.26 |  |  | 856 |
+| Benzoate, p-(acryloyloxy-ethoxy)-, p-butoxy phenyl | Benzoate, p-(acryloyloxy)-, p-butoxy phenyl | 0.36 |  | 0.91 |  |  | 856 |
+| Benzoate, p-(acryloyloxy-ethoxy)-, p-methoxy phenyl | Benzoate, p-(acryloyloxy)-, phenyl | 0.49 |  | 1.5 |  |  | 856 |
+| Benzoate, p-(acryloyloxy-ethoxy)-,phenyl | Benzoate, p-(acryloyloxy)-, p-butoxy phenyl | 0.61 |  | 0.32 |  |  | 856 |
+| Benzoate, p-(methacryloyloxy)-, p-octyloxy phenyl | Benzoate, p-(acryloyloxy)-, phenyl | 1.26 |  | 0.23 |  |  | 881 |
+| Benzoate, p-(methacryloyloxyethoxy)-, p-octyloxy phenyl | Benzoate, p-(acryloyloxy)-, phenyl | 1.26 |  | 0.23 |  |  | 856 |
+| Benzocyclobutane, a-methylene- | Maleic anhydride | 0.002 |  | 0.025 |  |  | 1083 |
+| Benzocyclobutane, a-methylene- | Methacrylate, methyl | 0.46 |  | 0.32 |  |  | 1083 |
+| Benzocyclobutene, 4-vinyl-Benzofuran, 2-vinyl- | Methacrylate, methyl Acrylate, butyl | 1.47 7.8 | 1.36 | 0.6 0.041 | 0.043 | N | 1085 1020 |
+|  |  | 5.76 | 0.334 |  |  |  |  |
+| Benzofuran, 2-vinyl- | Acrylate, ethyl |  |  | 0.015 | 0.01 | N | 1020 |
+| Benzophenone, p-vinyl- | Styrene, p-N,N-dimethyl-aminomethyl- | 2.54 | 0.136 | 0.26 | 0.017 | Y | 86 |
+| Benzothiazole, vinylmercapto- | Fumaronitrile |  |  |  |  | Y | 763 |
+| Benzothiazole, vinylmercapto- | Maleic anhydride |  |  |  |  | Y | 763 |
+| Benzothiazolone, N-[(methacroyloxy)-methyl] | Styrene | 3.1 | 0.01 | 0.35 | 0.02 |  | 960 |
+| Bicyclo[2,2,1]hept-2-ene-5,6-dicarboximide, Methacrylate, methyl |  | 0 |  | 30.5 |  |  | 994 |
+| Bicyclo[2,2,1]hept-2-ene-5,6-dicarboximide, Methacrylate, methyl |  | 0 |  | 108 |  |  | 994 |
+| Bicyclo[2,2,1]hept-2-ene-5,6-dicarboximide, Styrene |  | 0 |  | 18.2 |  |  | 994 |
+| Bicyclo[2,2,1]hept-2-ene-5,6-dicarboximide, Styrene |  | 0 |  | 89.2 |  |  | 994 |
+| Bicyclo[2,2,1]hept-2-ene-5,6-dicarboximide, Vinyl acetate |  | 0.35 |  | 1.26 |  |  | 994 |
+| Bicyclo[2,2,1]hept-2-ene-5,6-dicarboximide, Vinyl acetate |  | 0.15 |  | 1.46 |  |  | 994 |
+| Bicyclo[2,2,1]hept-2-ene-5,6-dicarboximide, Vinyl acetate |  | 0.014 |  | 1.99 |  |  | 994 |
+| Borazine, β-vinyl | Styrene | 0.001 | 0.016 | 4.53 | 0.62 |  | 1018 |
+| Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Butadiene Butadiene | Acrylonitrile Acrylonitrile | 0.35 0.1 |  | 0.05 0.06 |  |  | 418 501 |
+| Butadiene | Butadiene, 2-phthalidomethyl | 1.014 | 0.049 | 1.35 | 0.45 | Y | 735 |
+| Butadiene | Ferrocene, ethyl-oc-cylopentadienylide | 0.02 |  | 1.51 |  |  | 699 |
+| Butadiene | Maleamic acid, N-3-dimethylamino- | 0.37 | 0.04 | -0.08 | 0.03 | N | 679 |
+|  | 6-methyl phenyl |  |  |  |  |  |  |
+| Butadiene Butadiene | Maleate, diethyl Methacrylate, 2-(AW-dimethyl- | 8.08 1.06 |  | 0.11 0.35 |  |  | 466 600 |
+|  | carbamoyloxy)ethyl |  |  |  |  |  |  |
+| Butadiene Butadiene | Methacrylonitrile Methyleneglutaronitrile, 2- | 0.39 | 0.15 | 0.053 | 0.016 | Y N | 257 196 |
+| Butadiene | Styrene |  |  |  |  | Y | 21 |
+| Butadiene, l-(2-hydroxyethylthio)- | Styrene, /?-chloro- | 3.27 |  | 0.24 |  |  | 810 |
+| Monomer 1 | Monomer 2 | T1 | ±95% | r2 | ±95% | Conv. | Refs. |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Butadiene, 2,3-dichloro- | Methacrylate, methyl Butadiene, 2,3-dichloro- Phosphonic acid, a-phenylvinyl- | 11.04 7.75 |  | 0.08 0.07 |  | Y | 61 588 |
+| Butadiene, 2,3-chloro- |  | 5.19 |  | 0.06 |  |  | 457 |
+| Butadiene, 2,3-chloro- | Acrylate, methyl Butadiene, 2,3-chloro- Acrylonitrile | 10.4 5.35 |  | 0.06 0.04 |  | Y | 61 402 |
+| Butadiene, 2,3-chloro- Butadiene, hexafluoro- |  | 5.47 |  | 0.1 |  |  | 127 |
+| Butadiene, 2,3-dichloro- | Methacrylate, methyl | 11.04 | 0.08 |  |  | Y | 61 |
+| Butadiene, 2-chloro- | Methacrylate, methyl | 6.33 |  | 0.08 |  | Y |  |
+| Butadiene, 2-chloro- | Vinyl butyrate |  |  |  |  | N | 247 |
+| Butadiene, 2-chloro- | Vinyl propionate |  |  |  |  | N | 247 |
+| Butadiene, 2-chloro- | Vinylidene cyanide |  |  |  |  | Y | 82 |
+| Butadiene, 2-phthalidomethyl- | Butadiene | 1.35 | 0.45 | 1.014 | 0.049 | Y | 735 |
+| 61 | Butadiene, 2-chloro- Methacrylic acid Butadiene, 2-chloro- Phosphonate, vinyl-,dimethyl Butadiene, 2-chloro- Phosphonic acid, a-phenylvinyl- Butadiene, 2-fluoro- Methacrylate, methyl | 2.52 7.5 7.5 1.23 | 0.2 1.77 | -0.035 0.1 0.1 0.76 | 0.058 0.77 | Y Y | 546 174 |
+| 259 |  |  |  |  |  |  |  |
+| 594 |  |  |  |  |  |  |  |
+| Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Butadiene-1-carboxylate, S-(-)-a-phenethyl- | Styrene | 6.81 | 1.68 | 0.45 | 0.13 | Y | 748 |
+| ammonium |  |  |  |  |  |  |  |
+| Butene, cis-2- | Maleimide, N-cyclohexyl- | 3 |  | 0 |  |  | 995 |
+| Butene-1 | Ethylene | 3.25 |  |  |  |  | 388 |
+| Butene-1, 4-cyclohexyl- | Acrylonitrile | 0.014 | 0.055 | 5.03 | 0.76 | Y | 24 |
+| Butene-2 | Ethylene |  |  | 7.5 |  |  | 477 |
+| Butenoate, 3-phenyl-3-, methyl | Styrene | -0.532 | 0.512 | 1.97 | 0.364 | Y | 1008 |
+| Caprolactam, N-vinyl- | Crotonaldehyde | 0.31 |  |  |  |  | 875 |
+| Carbamate, N-phenyl-, vinyl | Methacrylate, butyl | 0.329 |  |  |  |  | 833 |
+| Carbamate, N-phenyl-, vinyl | Methacrylate, di-, triethylene-glycol | 0.034 | 0.504 |  |  |  | 833 |
+| Butadiene, hexafluoro-Butadiene, 2-chloro-0.1Butadiene-1-carboxylate, ethylAcrylonitrile3.2Butene-1Vinyl acetate0.11Butene-1, 3,3-dimethyl-Vinyl chloride-0.07Butene-1, 4-(p-chlorophenyl)-Acrylonitrile-0.066Butene-2Vinyl chloride-1.79Butene-2, 2-methyl-Vinyl chloride0.3Butene-2, cis-Acrylonitrile0.11Caprolactam, N-vinyl-Crotonaldehyde0.31Caprolactam, N-vinyl-Crotonaldehyde0.31Caprolactam, N-vinyl-Vinyl acetate0.31Caprolactam, N-vinyl-Vinyl butyl ether3.1Carbamate, N,N-diethyl-, vinylStyrene-0.08Carbamate, N,N-diethyl-, vinylVinyl acetate0.130.19Carbamate, N-phenyl-, vinylMethacrylate, di-, triethylene-glycol0.0340.504 | 0.422.50.0445.225.310.0055.30.18 | 5.470.31.556.184.683.38.5222.32000.630.0329.561.7 | 0.2413.570.632.1810.540.733.590.04 | Y Y Y N N Y Y Y Y | 127791211624329329211211875907557215197197833 |  |  |
+| Monomer 1 |  | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Carbamate, N-vinyl-, ethyl |  | Pyrrolidone, N-vinyl- | 0.371 | 0.05 | 1.77 | 0.12 | Y | 81 |
+| Carbamate, N-vinyl-, ethyl |  | Vinyl acetate | 2.09 |  | 0.39 |  |  | 629 |
+| Carbamate, N-vinyl-, ethyl |  | Vinyl acetate | 0.4 | 0.26 | 0.418 | 0.063 | Y | 81 |
+| Carbamate, N-vinyl-, tert-butyl |  | Vinyl acetate | 0.46 | 0.03 | 1.12 | 0.07 | N | 827 |
+| Carbamate, N-vinyl-, tert-butyl |  | Methacrylate, methyl | 0.17 | 0.1 | 1.87 | 0.2 |  | 991 |
+| Carbamate, N-vinyl-, tert-butyl |  | N-Vinylpyrrolidone | 2.4 | 0.5 | 0.4 | 0.06 |  | 991 |
+| Carbazole, 2-butenyl- |  | Carbazole, 9-vinyl- | 0.02 | 0.003 | 2.6 | 0.5 |  | 904 |
+| Carbazole, 9-propenyl- |  | Carbazole, 9-vinyl- | 0.02 | 0.003 | 2.8 | 0.5 |  | 904 |
+| Carbazole, 9-vinyl- |  | Carbazole, 2-butenyl- | 2.6 | 0.5 | 0.02 | 0.003 |  | 904 |
+| Carbazole, 9-vinyl- |  | Carbazole, 9-propenyl- | 2.8 | 0.5 | 0.02 | 0.003 |  | 904 |
+| Carbazole, N-butenyl- |  | Carbazole, N-vinyl- | 0.02 |  | 2.6 |  |  | 871 |
+| Carbazole, N-methyl-3-vinyl |  | Styrene | 1.404 | 0.146 | 0.735 | 0.067 |  | 806 |
+| Carbazole, N-propenyl- |  | Carbazole, N-vinyl- | 0.02 |  | 2.8 |  |  | 871 |
+| Carbazole, N-vinyl- |  | Acenaphthalene | -0.03 | 0.12 | 6.62 | 1.77 | N | 331 |
+| Carbazole, N-vinyl- |  | Acrylate, ethyl | 0.27 |  | 1.1 |  |  | 757 |
+| Carbazole, N-vinyl- |  | Acrylate, methyl | 0.049 | 0.029 | 0.53 | 0.13 | Y | 13 |
+| Carbazole, N-vinyl- |  | Acrylate, methyl | 0.11 |  | 0.43 |  |  | 551 |
+| Carbazole, N-vinyl- |  | Acrylate, methyl | 0.028 | 0.045 | 0.51 | 0.073 | Y | 98 |
+| Carbazole, N-vinyl- |  | Acrylonitrile | 0.09 | 0.04 | 0.39 | 0.04 | N | 269 |
+| Carbazole, N-vinyl- |  | Carbazole, N-butenyl- | 2.6 |  | 0.02 |  |  | 871 |
+| Carbazole, N-vinyl- |  | Carbazole, N-propenyl- | 2.8 |  | 0.02 |  |  | 871 |
+| Carbazole, N-vinyl- |  | Fumarate, diisopropyl | 0 |  | 0 |  |  | 1038 |
+| Carbazole, N-vinyl- |  | Maleate, diethyl | 0.21 | 0.05 | 0 | 0.01 | N | 361 |
+| Carbazole, N-vinyl- |  | Maleate, dimethyl | 0.51 | 0.11 | 0 | 0.01 | N | 361 |
+| Carbazole, N-vinyl- |  | Methacrylate, methyl | 0.14 | 0.03 | 1.55 | 0.16 | N | 11 |
+| Carbazole, N-vinyl- |  | Methacrylate, methyl | 0.033 | 0.015 | 2.12 | 0.14 | Y | 13 |
+| Carbazole, N-vinyl- |  | Methacrylate, methyl | 0.06 |  | 1.8 |  |  | 738 |
+| Carbazole, N-vinyl- |  | Methacrylate, methyl | 0.75 |  | 0.57 |  |  | 738 |
+| Carbazole, N-vinyl- |  | Methacrylate, methyl | 0.08 | 0.05 | 1.84 | 0.26 | N | 758 |
+| Carbazole, N-vinyl- |  | Methacrylate, methyl | 0.33 | 0.18 | 0.44 | 0.22 | N | 758 |
+| Carbazole, N-vinyl- |  | Methacrylate, methyl | 0.031 | 0.022 | 2.123 | 0.048 | Y | 98 |
+| Carbazole, N-vinyl- |  | Propene, 2,3-dichloro- | 1 | 0.06 | 0 | 1.34 | N | 376 |
+| Carbazole, N-vinyl- |  | Styrene | -0.02 | 0.034 | 5.93 | 1.05 | Y | 13 |
+| Carbazole, N-vinyl- |  | Styrene | 0.032 | 0.057 | 5.72 | 0.4 | Y | 98 |
+| Carbazole, N-vinyl- |  | Styrene, p-chloro- | 0.02 |  | 7 |  |  | 551 |
+| Carbazole, N-vinyl- |  | Succinimide, N-vinyl- | 0.04 | 0.09 | 0.11 | 0.83 | Y | 284 |
+| Carbazole, N-vinyl- |  | Vinyl acetate | 2.67 | 0.13 | 0.126 | 0.023 | Y | 246 |
+| Carbazole, N-vinyl- |  | Vinyl acetate | 3.02 |  | 0.15 |  |  | 246 |
+| Carbazole, N-vinyl- |  | Vinyl acetate | 3.9 |  | 0.13 |  |  | 551 |
+| Carbazole, N-vinyl- |  | Vinyl butyrate | 1.33 | 0.34 | 0.07 | 0.12 | Y | 246 |
+| Carbazole, N-vinyl- |  | Vinyl chloride | 4.77 |  | 0.17 |  |  | 427 |
+| Carbazole, N-vinyl- |  | Vinyl formate | 4.142 | 0.011 | 0.192 | 0.001 | Y | 246 |
+| Carbazole, N-vinyl- |  | Vinyl propionate | 1.69 | 0.21 | 0.081 | 0.073 | Y | 246 |
+| Carbazole, N-vinyl- |  | Vinyl thiolacetate | 0.44 | 0.28 | 0.45 | 0.15 | N | 97 |
+| Carbazole, N-vinyl- |  | Vinylidene chloride | 3.6 | 0.12 | -0.023 | 0.068 | Y | 13 |
+| Carbazole, N-vinyl- |  | Vinylidene chloride | 3.65 | 0.3 | -0.008 | 0.018 | Y | 98 |
+| Carbon monoxide |  | Ethylene | 0.32 | 0.65 | 0.068 | 0.012 | Y | 51 |
+| Carbon monoxide |  | Ethylene | 0.004 | 0.012 | 0.025 | 0.006 | Y | 51 |
+| Carbon monoxide |  | Ethylene | -0.15 | 0.07 | 0.04 | 0.01 | N | 52 |
+| Carbon monoxide |  | Ethylene | 0 |  | 0.5 |  |  | 52 |
+| Carbon monoxide |  | Vinyl acetate | 0.33 |  | 0.24 |  |  | 474 |
+| Carbon monoxide |  | Vinyl chloride | 0.121 | 0.011 | 13.52 | 0.25 | Y | 184 |
+| Cinnamat, methyl |  | Styrene | 0.04 | 0.13 | 1.799 | 0.073 | Y | 488 |
+| Cinnamate, 2-chloroethyl |  | Styrene | 0.01 | 0.11 | 1.394 | 0.068 | Y | 488 |
+| Cinnamate, α-cyano-, 2-ethylhexyl |  | Styrene | 0.06 | 0.01 | 0.58 | 0.004 | N | 282 |
+| Cinnamate, α-cyano-, benzyl |  | Styrene | -0.16 | 0.17 | 0.4 | 0.03 | N | 282 |
+| Cinnamate, α-cyano-, butyl |  | Styrene | -0.09 | 0.08 | 0.47 | 0.03 | N | 282 |
+| Cinnamate, α-cyano-, cyclohexyl |  | Styrene | -0.24 | 0.22 | 0.37 | 0.04 | N | 282 |
+| Cinnamate, α-cyano-, ethyl |  | Acrylonitrile | -0.18 | 0.15 | 12.6 | 2.3 | Y | 310 |
+| Cinnamate, α-cyano-, ethyl |  | Styrene |  |  |  |  | Y | 134 |
+| Cinnamate, α-cyano-, hexyl |  | Styrene | -0.17 | 0.26 | 0.39 | 0.04 | N | 282 |
+| Cinnamate, α-cyano-, methyl |  | Pyrrolidone, N-vinyl- | -0.001 | 0.001 | 0.044 | 0.008 | Y | 816 |
+| Cinnamate, α-cyano-, methyl |  | Styrene | -0.21 | 0.35 | 0.4 | 0.06 | N | 282 |
+| Cinnamate, benzyl |  | Styrene | 0.14 | 0.13 | 1.33 | 0.12 | Y | 488 |
+| Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Cinnamate, dibutylchlorotin | Acrylate, methyl | -0.2 |  | 1.65 |  |  | 659 |
+| Cinnamide, N,N-diethyl- | Styrene | 0.01 |  | 4.17 |  |  | 737 |
+| Cinnamide, p-chloro-, N,N-diethyl- | Styrene | 0.01 |  | 2.99 |  |  | 737 |
+| Cinnamide, p-methyl-, N,N-diethyl- | Styrene | 0.01 |  | 4.95 |  |  | 737 |
+| Cinnamonitrile, a-cyano- | Acrylonitrile |  |  |  |  | Y | 310 |
+| Cinnamonitrile, a-cyano- | Styrene |  |  |  |  | Y | 134 |
+| Citraconimide, β-iso-, N-(4-acetylphenyl)- | Styrene | 0 |  | 0.42 |  |  | 608 |
+| Citraconimide, β-iso-, N-(4-acetylphenyl)- | Styrene | 0 |  | 0.28 |  |  | 608 |
+| Citraconimide, β-iso-, N-(4-ethoxycarbonylphenyl)- |  |  |  |  |  |  |  |
+| Citraconimide, β-iso-, N-(4-methoxyphenyl)- | Styrene | 0 |  | 0.27 |  |  | 608 |
+| Citraconimide, β-iso-, N-(p-tolyl)- | Styrene | 0 |  | 0.4 |  |  | 608 |
+| Citraconimide, β-iso-, N-phenyl- | Styrene | 0 |  | 0.39 |  |  | 608 |
+| Citraconimide, N-allyl | Styrene | 0.004 | 0.14 | 0.142 | 0.28 | Y | 959 |
+| Citraconimide, N-benzyl | Styrene | -0.066 | 0.082 | 0.19 | 0.087 | Y | 714 |
+| Citraconimide, N-butyl | Methacrylate, methyl | -0.12 | 0.36 | 2.17 | 0.56 | Y | 714 |
+| Citraconimide, N-butyl | Styrene | 0.03 | 0.045 | 0.169 | 0.028 | Y | 714 |
+| Citraconimide, N-ethyl | Methacrylate, methyl | -0.04 | 0.33 | 3.25 | 0.79 | Y | 714 |
+| Citraconimide, N-ethyl | Styrene | -0.002 | 0.05 | 0.231 | 0.044 | Y | 714 |
+| Citraconimide, N-hexyl | Methacrylate, methyl | -0.08 | 0.28 | 2.38 | 0.45 | Y | 714 |
+| Citraconimide, N-hexyl | Styrene | -0.03 | 0.11 | 0.316 | 0.086 | Y | 714 |
+| Citraconimide, N-isobutyl | Methacrylate, methyl | -0.18 | 0.42 | 1.78 | 0.85 | Y | 714 |
+| Citraconimide, N-isobutyl | Styrene | 0.07 | 0.14 | 0.326 | 0.094 | Y | 714 |
+| Citraconimide, N-isopropyl | Methacrylate, methyl | 0.09 | 0.27 | 2.7 | 0.51 | Y | 714 |
+| Citraconimide, N-isopropyl | Styrene | -0.014 | 0.063 | 0.244 | 0.055 | Y | 714 |
+| Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Citraconimide, a-iso-, N-(4-acetylphenyl)- | Styrene | 0 |  | 0.81 |  |  | 608 |
+| Citraconimide, a-iso-, N-(4-chlorophenyl)- | Styrene | 0 |  | 1.03 |  |  | 608 |
+| Citraconimide, a-iso-, N-(4-ethoxy-carbonylphenyl)- | Styrene | 0 |  | 0.96 |  |  | 608 |
+| Citraconimide, a-iso-, N-(4-methoxy-phenyl)- | Styrene | 0 |  | 0.39 |  |  | 608 |
+| Citraconimide, a-iso-, N-(p-tolyl)- | Styrene | 0 |  | 1.69 |  |  | 608 |
+| Citraconimide, a-iso-, N-phenyl- | Styrene | 0 |  | 1.76 |  |  | 608 |
+| Copper diacrylate | Titanium, dicylopentadienyl-, dimethacrylate | 1.09 |  | 0.89 |  |  | 895 |
+| Crotonaldehyde | Vinylidene chloride | 0 |  |  |  |  | 405 |
+| Crotonate, hydrocortisone 21- | N-Vinyl pyrrolidone | 0.05 | 0.05 | 0.75 | 0.02 |  | 1022 |
+| Crotonate, a-acetyl-, methyl | Styrene |  |  | 2.7 |  |  | 785 |
+| Crotonate, a-carboethoxy-, ethyl | Acrylonitrile | 0 |  | 18.7 |  |  | 785 |
+| Crotonate, a-carboethoxy-, ethyl | Styrene | 0 |  | 8.24 |  |  | 785 |
+| Crotonic acid, cis- | Acrylamide |  |  |  |  | Y | 341 |
+| Citraconimide, N-phenyl- | Methacrylate, methyl |  |  |  |  |  |  |
+| Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Cyclopentene, 4-,-1,3-dione | Styrene |  |  |  |  | Y | 263 |
+| Cyclopropane, 1,1-bis(ethoxycarbonyl)- | Methacrylate, methyl | 0.223 | 0.194 | 4.21 | 0.905 | Y | 1076 |
+| 2-vinyl- |  |  |  |  |  |  |  |
+| 2-vinyl- |  |  |  |  |  |  |  |
+| Diallyl β-cyanoethylisocyanurate | Vinyl acetate | 4.6 |  |  |  | Y | 778 |
+| Diallyl, 1,3,5-(2-hydroxy- | Vinyl acetate | 5.5 | 0.15 |  |  |  | 671 |
+| 3-phenoxypropyl)isocyanate |  |  |  |  |  |  |  |
+| 3-phenoxypropyl)isocyanate |  |  |  |  |  |  |  |
+| Diallyldimethylammonium chloride | Vinyl acetate | 1.95 |  | 0.35 |  |  | 1029 |
+| Dihydroxydiphenylsulfone diallyl ether | Styrene | 0.92 | 0.16 | 0.975 | 0.015 |  | 1016 |
+| Dimethyleneheptanedioate, 2,6-dimethyl- | Methacrylate, methyl | 0.53 | 0.02 | 2.36 | 0.25 | N | 795 |
+| Dioxolane, 1,3-,4,4-dimethyl-5-methylene- | Pyrrolidone, N-vinyl- | 0.01 |  | 3.87 |  |  | 647 |
+| 2-trichloromethyl- |  |  |  |  |  |  |  |
+| Dioxolane, 1,3-,4-methylene- | Acrylamide | 0.037 |  | 8.6 |  |  | 616 |
+| Dioxolane, 1,3-,4-methylene- | Pyrrolidone, N-vinyl- | 0.04 |  | 2.98 |  |  | 647 |
+| 2-trichloromethyl- |  |  |  |  |  |  |  |
+| Diphenylsulfone, 3,3'-bisitaconi- | Methacrylic acid | 0.015 | 0.058 | 0.564 | 0.032 | Y | 1042 |
+| mido-m,m'- |  |  |  |  |  |  |  |
+| Dithiane, 2-methylene-1,3- | Methacrylate, methyl | 4.12 |  | 0.08 |  |  | 1031 |
+| Dithiane, 2-methylene-1,3- | Styrene | 3.35 |  | 0.03 |  |  | 1031 |
+| Divinylbenzene, m- | Styrene | 0.58 | 0.04 | 0.58 | 0.15 | N | 262 |
+| Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Divinylbenzene, p- | Styrene | 1.18 | 0.17 | 0.26 | 0.25 | N | 262 |  |  |  |  |  |  |  |  |
+| Ethene, 2-phenyl-1,1-dicyano- | N-Vinylpyrrolidone |  |  |  |  | Y | 947 |  |  |  |  |  |  |  |  |
+| Ethylene | Acrylate, butyl | 0.01 | 0.003 | 13.94 | 0.38 | N | 42 |  |  |  |  |  |  |  |  |
+| Ethylene | Acrylate, methyl |  |  |  |  | N | 41 |  |  |  |  |  |  |  |  |
+| Ethylene | Acrylate, methyl | 0.02 |  | 19.4 |  |  | 768 |  |  |  |  |  |  |  |  |
+| Ethylene | Acrylonitrile |  |  | 0 | 7 |  | 415 |  |  |  |  |  |  |  |  |
+| Ethylene | Butene-1 | 3.25 |  |  |  |  | 388 |  |  |  |  |  |  |  |  |
+| Ethylene | Butene-1 | 3.6 |  | 0.16 |  |  | 407 |  |  |  |  |  |  |  |  |
+| Ethylene | Butene-2 | 7.5 |  |  |  |  | 477 |  |  |  |  |  |  |  |  |
+| Ethylene | Carbon monoxide | 0.068 | 0.012 | 0.32 | 0.65 | Y | 51 |  |  |  |  |  |  |  |  |
+| Ethylene | Carbon monoxide | 0.025 | 0.006 | 0.004 | 0.012 | Y | 52 |  |  |  |  |  |  |  |  |
+| Ethylene | Carbon monoxide | 0.04 | 0.01 | -0.15 | 0.07 | N | 52 |  |  |  |  |  |  |  |  |
+| Ethylene | Carbon monoxide | 0.5 | 0 |  |  |  | 51 |  |  |  |  |  |  |  |  |
+| Ethylene | Ethylene, tetrafluoro- | 0.52 | 0.18 | 0.067 | 0.12 |  | 1093 |  |  |  |  |  |  |  |  |
+| Ethylene | Ethylene, tetrafluoro- | 0.575 | 0.09 | 0.065 | 0.027 |  | 1094 |  |  |  |  |  |  |  |  |
+| Ethylene | Ethylene, tetrafluoro- | 0.61 |  | 0.02 |  |  | 563 |  |  |  |  |  |  |  |  |
+| Ethylene | Ethylene, tetrafluoro- | 0.38 | 0.1 |  |  |  | 563 |  |  |  |  |  |  |  |  |
+| Ethylene | Fumarate, diethyl | 0.11 | 1.14 | 1.91 | 3.4 | N | 41 |  |  |  |  |  |  |  |  |
+| Ethylene | Maleate, diethyl | 0.25 |  | 10 |  |  | 41 |  |  |  |  |  |  |  |  |
+| Ethylene | Maleic anhydride | 0.04 |  | 0 |  |  | 620 |  |  |  |  |  |  |  |  |
+| Ethylene | Methacrylate, di-, zinc | 0.19 |  | 40 |  | N | 935 |  |  |  |  |  |  |  |  |
+| Ethylene | Methacrylate, methyl |  |  |  |  | N | 41 |  |  |  |  |  |  |  |  |
+| Ethylene | Phosphonate, vinyl-, diphenyl | 0.088 | 0.01 | 1.66 | 2.22 | Y | 801 |  |  |  |  |  |  |  |  |
+| Ethylene | Phosphonate, vinyl-, bis(2-chloroethyl) | 0.077 | 0.003 | 7.73 | 2.19 | Y | 801 |  |  |  |  |  |  |  |  |
+| Ethylene | Phosphonate, vinyl- diisobutyl |  |  |  |  | Y | 801 |  |  |  |  |  |  |  |  |
+| Ethylene | Propylene | 3.43 |  |  |  |  | 388 |  |  |  |  |  |  |  |  |
+| Ethylene | Propylene | 3.2 | 0.62 |  |  |  | 477 |  |  |  |  |  |  |  |  |
+| Ethylene | Styrene | 0.05 |  | 14.88 |  |  | 615 |  |  |  |  |  |  |  |  |
+| Ethylene | Vinyl acetate | 0.16 | 0.03 | 0.72 | 1.2 | N | 309 |  |  |  |  |  |  |  |  |
+| Ethylene | Vinyl acetate |  |  |  |  | N | 41 |  |  |  |  |  |  |  |  |
+| Ethylene | Vinyl acetate | 0.28 | 0.52 | 1.14 | 0.77 | N | 413 |  |  |  |  |  |  |  |  |
+| Ethylene | Vinyl acetate | 0.88 |  | 1.03 |  | N | 42 |  |  |  |  |  |  |  |  |
+| Ethylene | Vinyl acetate | 0.74 | 1.52 |  |  |  | 559 |  |  |  |  |  |  |  |  |
+| Ethylene | Vinyl acetate | 0.67 | 0.03 | 3.74 | 0.64 | N | 68 |  |  |  |  |  |  |  |  |
+| Ethylene | Vinyl acetate | 0.13 | 0.01 | 1.23 | 0.21 | N | 68 |  |  |  |  |  |  |  |  |
+| Ethylene | Vinyl acetate | 0.79 | 1.4 |  |  |  | 766 |  |  |  |  |  |  |  |  |
+| Ethylene | Vinyl butyrate | 0.7 | 1.5 |  |  |  | 605 |  |  |  |  |  |  |  |  |
+| Ethylene | Vinyl chloride | 0.19 | 0.17 | 1.99 | 0.42 | N | 180 |  |  |  |  |  |  |  |  |
+| Ethylene | Vinyl chloride | 0.24 | 0.13 | 1.74 | 0.58 | N | 270 |  |  |  |  |  |  |  |  |
+| Ethylene | Vinyl chloride | 0.34 | 0.13 | 4.38 | 0.44 | N | 42 |  |  |  |  |  |  |  |  |
+| Ethylene | Vinyl chloride | 0.2 |  | 2 |  |  | 472 |  |  |  |  |  |  |  |  |
+| Ethylene | Vinyl chloride | 0.21 |  |  |  |  | 536 |  |  |  |  |  |  |  |  |
+| Ethylene | Vinyl chloride | 0.21 | 0.01 | 1.85 | 0.1 | N | 63 |  |  |  |  |  |  |  |  |
+| Ethylene | Vinyl chloride | 0.14 | 0.12 | 0.96 | 0.22 | N | 63 |  |  |  |  |  |  |  |  |
+| Ethylene | Vinyl chloride | 0.23 | 0.01 | 1.63 | 0.22 | N | 64 |  |  |  |  |  |  |  |  |
+| Ethylene | Vinyl chloride | 0.16 | 0.01 | 1.55 | 0.18 | N | 68 |  |  |  |  |  |  |  |  |
+| Ethylene | Vinyl diethylphosphinate | 0.15 | 0.16 | -11.99 | 80.64 | Y | 311 |  |  |  |  |  |  |  |  |
+| Ethylene | Vinyl diphenylphosphinate | 0.05 | 0.01 | -62.84 | 34.66 | Y | 311 |  |  |  |  |  |  |  |  |
+| Ethylene | Vinyl ethyl ether | 2.7 | 0 |  |  | N | 584 |  |  |  |  |  |  |  |  |
+| Ethylene | Vinyl fluoride | 2.52 | 0.32 | 0.01 | 0.15 | N | 42 |  |  |  |  |  |  |  |  |
+| Ethylene | Vinyl fluoride | 1.7 |  | 0.3 |  |  | 590 |  |  |  |  |  |  |  |  |
+| Ethylene | Vinyl propionate | 0.67 |  | 1.5 |  |  | 605 |  |  |  |  |  |  |  |  |
+| Ethylene | Vinylidene chloride | 0.018 | 0.005 | 15.71 | 1.96 | Y | 299 |  |  |  |  |  |  |  |  |
+| Ethylene, 1,1-dichloro-2,2-difluoro | Vinyl acetate | -0.13 | 0.36 | 0.33 | 0.58 | Y | 6 |  |  |  |  |  |  |  |  |
+| Ethylene, 1,1-diphenyl- | Acrylate, ethyl | 0.5 | 0.8 |  |  |  | 65 |  |  |  |  |  |  |  |  |
+| Ethylene, 1,1-diphenyl- | Acrylate, methyl | 0.24 | 0.15 | 0.09 | 0.01 | N | 334 |  |  |  |  |  |  |  |  |
+| Ethylene, 1,1-diphenyl- | Acrylate, methyl | 0.21 | 0.05 | 0.12 | 0.01 | N | 334 |  |  |  |  |  |  |  |  |
+| Ethylene, 1,1-diphenyl- | Acrylonitrile | -0.02 | 0.01 | 0.05 | 0.01 | N | 143 |  |  |  |  |  |  |  |  |
+| Ethylene, 1,1-diphenyl- | Butadiene, 2,3-dichloro- | -0.08 | 3.58 |  |  | Y | 61 |  |  |  |  |  |  |  |  |
+| Ethylene, 1,1-diphenyl- | Butadiene, 2-chloro- | 0.03 |  | 3.4 |  | Y | 61 |  |  |  |  |  |  |  |  |
+| Ethylene, 1,1-diphenyl- | Methacrylate, methyl | 0.09 | 2.1 |  |  |  | 65 |  |  |  |  |  |  |  |  |
+| Ethylene, 1,1-diphenyl- | Methacrylate, methyl | 0 |  | 8.7 |  |  | 901 |  |  |  |  |  |  |  |  |
+| Ethylene, 1,1-diphenyl- | Methacrylonitrile | -0.45 | 0.11 | 0.48 | 0.1 | N | 143 |  |  |  |  |  |  |  |  |
+| Ethylene, 1,1-diphenyl- | Styrene | 0.01 | 0.02 | 0.33 | 0.02 | N | 189 |  |  |  |  |  |  |  |  |
+| Ethylene, 1,1-diphenyl- | Styrene | -0.02 | 0.01 | 0.34 | 0.01 | N | 281 |  |  |  |  |  |  |  |  |
+| Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Acrylamide | Dioxolane, 1,3,4-methylene-2-trichloro- | 8.6 |  | 0.037 |  |  | 616 |
+| Acrylamide | Vinyl chloride |  |  |  |  | Y | 156 |
+| Acrylamide | Vinylene carbonate | 13.8 |  | 0.05 |  |  | 387 |
+| Acrylamide | Vinylmethylphenylsulfonium tetrafluoro | 3.4 |  | 0.1 |  |  | 793 |
+| Acrylamide, N,N-dimethyl- | Sulfonate, 2-acrylamido-2-methylpropane | 1.108 | 0.59 | 0.162 | 0.949 | Y | 857 |
+| Acrylamide, N-methylol | Vinyl chloride |  |  |  |  | Y | 157 |
+| Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Ethylene, dichloro-, cis | Vinylidene cyanide |  |  |  |  | Y | 82 |
+| Ethylene, dichloro-, cis | Vinylidene cyanide |  |  |  |  | Y | 82 |
+| Ethylene, tetrachloro- | Methacrylate, methyl |  |  |  |  | Y | 204 |
+| Ethylene, tetrachloro- | Styrene |  |  |  |  | Y | 204 |
+| Ethylene, tetrachloro- | Styrene | 200 |  |  |  |  | 204 |
+| Ethylene, tetrachloro- | Styrene |  |  |  |  | Y | 40 |
+| Ethylene, tetrachloro- | Vinyl acetate |  |  |  |  | Y | 59 |
+| Ferrocene, ethyl-α-cyclopentadienylidene | Butadiene | 1.51 |  | 0.02 |  |  | 699 |
+| Ferrocene, ethyl-α-cyclopentadienylidene | Isoprene | 1.91 |  | 0.01 |  |  | 699 |
+| Formaldehyde-S-vinyl-O-ethylthioacetal | Styrene | 0.32 | 0.24 | 7.75 | 0.68 | Y | 273 |
+| Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Fumarate, di-(2-(methoxyethyl)) | Styrene | 0.03 |  | 0.35 |  |  | 1038 |
+| Fumarate, di-tert-butyl | Fumarate, bis(3-[tris(trimethylsiloxy)silyl)propyl | 0.67 |  | 0.21 |  |  | 1040 |
+| Fumarate, diisopropyl | Fumarate, bis(3-[tris(trimethylsiloxy)silyl)propyl | 0.87 |  | 0.07 |  |  | 1040 |
+| Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Fumaronitrile | Benzothiazole, vinylmercapto- |  |  |  |  | Y | 763 |
+| Fumaronitrile | Styrene, α-methyl- | -0.01 | 0.078 | 0.094 | 0.02 | Y Y | 77 77 |
+| Fumaryl chloride | Styrene |  |  |  |  | Y | 91 |
+| Fumaryl chloride | Vinyl acetate |  |  |  |  | Y | 91 |
+| Furan, 2,3-dihydro- | Styrene | 0 |  | 20 |  |  | 806 |
+| Hex-3-yne-5-ene, 2-methyl-tert-butyl | Maleic anhydride | 0.36 |  | 0.01 |  |  | 637 |
+| Hexatriene, tetrachloro- | Vinyl acetate |  |  |  |  | Y | 4 |
+| Imidazole, 1-vinyl |  |  |  |  |  |  |  |
+| Triazole, 1-N-vinyl-1,2,4- |  |  |  |  | N | 972 |  |
+| Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Isoprene | Ferrocene, ethyl-a-cyclo-pentadienylide | 0.01 |  | 1.91 |  |  | 699 |
+| Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Isoprene, 3-acetoxy- | Acrylate, methyl | 5.71 |  | 0.27 |  |  | 770 |
+| Isoprene, 3-acetoxy- | Methacrylate, methyl | 2.81 |  | 0.16 |  |  | 770 |
+| Isoprene, 3-acetoxy- | Styrene | 4.47 |  | 0.34 |  |  | 770 |
+| Isopropenyl, 3-(1-cyclohexenyl), acetate | Acrylate, methyl | 0.57 |  | 0.37 |  |  | 770 |
+| Isopropenyl, 3-(1-cyclohexenyl), acetate | Methacrylate, methyl | 0.4 |  | 0.81 |  |  | 770 |
+| Isopropenyl, 3-(1-cyclohexenyl), acetate | Styrene | 0.56 |  | 1.59 |  |  | 770 |
+| Isopropenyl-, p-, phenol glycidyl ether | Maleic anhydride | 0.003 |  | 0.002 |  |  | 937 |
+| Isopropenylacetophenone, p- | Styrene | 0.84 | 0.59 | 0.3 | 0.18 | Y | 266 |
+| Isopropylidene, 2,3:4,5-di-O-, -1-vinylbenzyl-β-D-fructose | Styrene | 3.26 | 1.12 | 0.14 | 0.055 | Y | 772 |
+| Monomer 1 | Monomer 2 | rx | ±95% | r2 | ±95% | Conv. | Refs. |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Itaconamate, N-phenyl-, methyl | Styrene | 0.52 | 0.31 |  |  |  | 1059 |
+| Itaconate, bis(2-ethylhexyl) | Maleimide, N-cyclohexyl- | 0.38 | 0.34 |  |  |  | 1060 |
+| Itaconate, bis(tri-n-butyltin) | Acrylate, 2-chloroethyl | 0.391 | 0.683 | 940 |  |  | 940 |
+| Itaconate, bis(tri-n-butyltin) | Acrylate, butyl | 0.422 | 0.91 | 940 |  |  | 940 |
+| Itaconate, bis(tri-n-butyltin) | Methacrylate, allyl | 0.038 | 1.08 | 940 |  |  | 940 |
+| Itaconate, bis(tri-n-butyltin) | N-Vinylpyrrolidone | 0.065 | 0.04 | 0.21 | 0.013 | Y | 941 |
+| Itaconate, di-2[-2(2-methoxyethoxy)-ethoxy]ethyl | Styrene | 0.2 | 0.015 | 0.53 | 0.022 |  | 1098 |
+| Itaconate, dimenthyl | Vinyl acetate |  |  |  |  | Y | 975 |
+| Itaconate, dimethyl | Styrene |  |  |  |  |  | 39 |
+| Itaconic acid mono(p-sulfamidoanilide) | Methacrylate, propargyl | 0.58 | 0.05 | 1.65 | 0.02 |  | 957 |
+| Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 6-methylphenyl- |  |  |  |  |  |  |  |
+| Malemic acid, N-3-dimethylamino- | Styrene | -0.19 | 0.03 | 0.55 | 0.03 | N | 679 |
+| 6-methylphenyl- |  |  |  |  |  |  |  |
+| Maleate, diethyl | Styrene |  |  |  |  | Y | 14 |
+| Maleate, diethyl | Styrene | 0.07 |  | 8 |  |  |  |
+| Maleate, diethyl | Styrene | 0.001 |  | 6.592 |  |  |  |
+| Maleate, diethyl | Vinyl chloride | 0.046 | 0.07 | 0.9 | 0.11 | Y |  |
+| Maleate, diethyl | Vinylidene chloride | 12.5 |  |  |  |  | 3 |
+| Malemic acid, N-3-dimethylamino- | Butadiene | -0.08 | 0.03 | 0.37 | 0.04 | N | 679 |
+| Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Maleic Anhydride | Isopropenyl-, /?-, phenol glycidyl ether | 0.002 |  | 0.003 |  |  | 937 |
+| Maleic anhydride | Acrylate, ferrocenylmethyl |  |  |  | 2.96 | Y | 325 |
+| Maleic anhydride | Allylbenzene |  |  |  |  | Y | 351 |
+| Maleic anhydride | Benzocyclobutane, oc-methylene- | 0.025 |  | 0.002 |  |  | 1083 |
+| Maleic anhydride Maleic anhydride | Benzothiazole, vinylmercapto- Butadiene monoxide | 0.64 | 0.06 | 0.05 | 0.18 | Y | 763 1064 |
+| Maleic anhydride | Carbamate, AUV-diethyl-, vinyl | 0.025 | 0.034 | 0.024 | 0.066 | Y | 92 |
+| Maleic anhydride Maleic anhydride | Divinylbenzene, p- Ethylene | 0.09 0 | 0.01 | 0.01 0.04 | 0.01 |  | 943 620 |
+| Maleic anhydride | Hex-3-yne-5-ene, 2-methyl-terf-butyl- | 0.01 |  | 0.36 |  |  | 637 |
+| Maleic anhydride | peroxide Isobutylene | 0.065 |  | 0.012 |  |  | 988 |
+| Maleic anhydride | Methacrylate, ferrocenylmethyl | 0.24 | 0.28 | 0.33 | 0.65 | Y | 325 |
+| Maleic anhydride | Methacrylate, di-, di-rc-butylstannyl | 0.024 | 0.008 | 0.012 | 0.016 | Y | 954 |
+| Maleic anhydride | Methacrylate, benzyl |  |  |  |  | Y | 720 |
+| Maleic anhydride | Methacrylate, benzyl | 0.372 | 0.093 | - 0.075 | 0.088 | Y | 720 |
+| Maleic anhydride | Styrene |  |  |  |  | N | 923 |
+| Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Maleic anhydride | Vinylidene cyanide |  |  |  |  | Y | 82 |
+| Maleic anhydride, a-chloro- | Styrene | 0 | 0.07 |  |  |  | 845 |
+| Maleimide | Piperidinol, 4-, N-methyl- | 0.49 | 0.01 | 2.05 | 0.03 |  | 948 |
+| Maleimide | 4-(vinylethynyl)- |  |  |  |  |  |  |
+| a-chloro- | Styrene | 0.022 | 0.041 | 0.059 | 0.021 | Y | 973 |
+| Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Maleimide, N-(4-methoxyphenyl)-a-chloro- | Methacrylate, methyl | 0.064 | 0.189 | 0.556 | 0.145 | Y | 973 |
+| Maleimide, N-(4-methoxyphenyl)-a-chloro- | Styrene | 0.049 | 0.061 | 0.112 | 0.031 | Y | 973 |
+| Maleimide, N-(4-methylphenyl)- | Methacrylate, methyl | 0.34 | 0.83 |  |  |  | 992 |
+| Maleimide, N-(β-chloroethyl)-a-chloro- | Methacrylate, methyl | 0.05 | 0.04 | 0.94 | 0.06 |  | 974 |
+| Maleimide, N-(β-chloroethyl)-a-chloro- | Methacrylate, methyl | 0.11 | 0.05 | 0.59 | 0.06 |  | 974 |
+| Maleimide, N-(β-chloroethyl)-a-chloro- | Styrene | 0 | 0.06 | 0.29 | 0.05 |  | 974 |
+| Maleimide, N-(L-menthoxycarbonylmethyl)- | Maleimide, N-benzyl | 0.848 | 0.221 | 0.474 | 0.087 | Y | 1089 |
+| Maleimide, N-(L-menthoxycarbonyl- | Maleimide, N-phenyl- | 0.79 | 0.261 | 0.798 | 0.141 | Y | 1089 |
+| methyl)- |  |  |  |  |  |  |  |
+| Maleimide, N-[N'-α-methylbenzyl) | Methacrylate, methyl | 0.582 | 0.359 | 1.37 | 0.291 | Y | 1099 |
+| aminocarbonylpentyl]- |  |  |  |  |  |  |  |
+| Maleimide, N-[N'-α-methylbenzyl) | Styrene | 0.258 | 0.25 | 0.198 | 0.143 | Y | 1099 |
+| aminocarbonylpentyl]- |  |  |  |  |  |  |  |
+| Maleimide, N-[N'-α-methylbenzyl) | Styrene |  |  |  |  | Y | 1099 |
+| aminocarbonylpentyl]- |  |  |  |  |  |  |  |
+| Maleimide, N-allyl- | Styrene | 0.035 | 0.056 |  |  |  | 1003 |
+| Maleimide, N-benzyl- | Maleimide, N-(L-menthoxycarbonyl- | 0.474 | 0.087 | 0.848 | 0.221 | Y | 1089 |
+|  | methyl)- |  |  |  |  |  |  |
+| Maleimide, N-butyl- | Styrene |  |  |  |  | Y | 115 |
+| Maleimide, N-chloromethyl- | Butadiene, 2,3-bis(diethyl-phosphono)- | 0.3 | 0.05 |  |  |  | 759 |
+| Maleimide, N-cyclohexyl- | Methacrylate, methyl | 0.24 | 1.35 |  |  |  | 992 |
+| Maleimide, N-cyclohexyl- | Acenaphthalene | 0.11 | 0.57 |  |  |  | 1039 |
+| Maleimide, N-cyclohexyl- | Butene, cis-2- | 0 | 3 |  |  |  | 995 |
+| Maleimide, N-cyclohexyl- | Isobutene | 0 | 0.41 |  |  |  | 995 |
+| Maleimide, N-cyclohexyl- | Methacrylate, methyl | 0.19 | 1.31 |  |  |  | 1100 |
+| Maleimide, N-cyclohexyl- | Styrene | 0.1 | 0.102 |  |  |  | 1100 |
+| Maleimide, N-cyclohexyl- | Isooctene | 0 | 0.72 |  |  |  | 995 |
+| Maleimide, N-phenyl- | Butadiene, 2,3-bis(diethyl-phosphono)- | 0.42 | 0.05 |  |  |  | 759 |
+| Maleimide, N-phenyl- | Maleimide, N-(L-menthoxycarbonyl- | 0.798 | 0.141 | 0.79 | 0.261 | Y | 1089 |
+|  | methyl)- |  |  |  |  |  |  |
+| Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Acrylamido, 1-,-1-deoxy-D-glucitol | Methacrylate, methyl | 0.05 | 0.09 | 3.75 | 0.24 | N | 258 |
+| Acrylamido, 1-,-1-deoxy-D-glucitol | Styrene | 0.03 | 0.02 | 2.42 | 0.08 | N | 258 |
+| Acrylamido, 1-,-1-deoxy-D-glucitol | Vinyl acetate | 0.98 | 0.87 | 0.03 | 0.17 | N | 258 |
+| Acrylamido, 2-,-2-methylpropanesulfonic acid | Methacrylate, 2-hydroxyethyl | 0.9 | 0.86 |  |  |  | 618 |
+| Acrylamido, 2-,-2-methylpropanesulfonic acid | Methacrylate, 2-hydroxypropyl | 1.03 | 0.89 |  |  |  | 618 |
+| Acrylamido-2-methylpropane sulfonate sodium salt | N-Vinylpyrrolidone | 0.66 | 0.13 |  |  |  | 939 |
+| Acrylamidomethylamino, p-, azobenzene | Styrene | 8.5 | 0.083 |  |  |  | 858 |
+| Acrylamidomethylamino, p-, azobenzene | Vinyl acetate | 12.98 | 0.126 |  |  |  | 858 |
+| Acrylate, (-)-menthyl | Acenaphthalene |  |  |  |  | Y | 645 |
+| Acrylate, 1,1,5-trihydroperfluoroamyl | Methacrylonitrile | 0.14 | 1.03 |  |  |  | 809 |
+| Acrylate, 2,3-dibromopropyl | Styrene | 0.16 | 0.42 |  |  |  | 643 |
+| Acrylate, 2,4,6-tribromophenyl | Styrene | 0.1 | 0.2 |  |  |  | 643 |
+| Acrylate, 2,4-dinitrophenyl | Acrylate, N-(2-hydroxyethyl)-carbazolyl | 0.158 | 0.015 | 0.109 | 0.026 | Y | 716 |
+| Acrylate, 2,4-dinitrophenyl | Methacrylate, N-(2-hydroxyethyl)-carbazolyl | 0.186 | 0.009 | 0.243 | 0.034 |  | 716 |
+| Acrylate, 2-chloroethyl | Acrylate, ethyl | 1.03 | 0.9 |  |  |  | 726 |
+| Acrylate, 2-chloroethyl | Acrylate, methyl | 1.07 | 0.9 |  |  |  | 726 |
+| Acrylate, 2-chloroethyl | Acrylonitrile | 0.87 | 1.03 |  |  |  | 790 |
+| Acrylate, 2-chloroethyl | Itaconate, bis(tri-n-butyltin) | 0.683 | 0.391 |  |  |  | 940 |
+| Acrylate, 2-chloroethyl | Methacrylate, methyl | 0.37 | 2.15 |  |  |  | 790 |
+| Acrylate, 2-chloroethyl | Pyrrolidone, N-vinyl- | 0.52 | 0.03 |  |  | Y | 140 |
+| Acrylate, 2-chloroethyl | Styrene | 0.12 | 0.54 |  |  |  | 790 |
+| Acrylate, 2-chloroethyl | Vinyl butyl ether | 2.01 | 0 |  |  |  | 790 |
+| Acrylate, 2-chloroethyl | Vinyl isobutyl ether | 2.24 | 0 |  |  |  | 790 |
+| Acrylate, 2-chloroethylglucitol | Styrene | 0.14 | 0.09 | 0.49 | 0.2 |  | 806 |
+| Acrylate, 2-cyano-, methyl | Styrene, a-methyl- | 0.001 | 0.05 |  |  |  | 452 |
+| Acrylate, 2-cyano-, methyl | Vinyl acetate | 0.5 | 0.005 |  |  |  | 452 |
+| Acrylate, 2-ethylhexyl | Styrene | 0.26 | 0.94 |  |  |  | 463 |
+| Acrylate, 2-ethylhexyl | Vinyl acetate | 7.5 | 0.04 |  |  |  | 570 |
+| Acrylate, 2-ethylhexyl | Vinyl chloride | 4.15 | 0.16 |  |  |  | 510 |
+| Acrylate, 2-nitrobutyl | Acrylonitrile | 1.76 | 0.69 | 0.67 | 0.25 | N | 234 |
+| Acrylate, 2-nitrobutyl | Methacrylate, methyl | 0.27 | 0.04 | 1.19 | 0.12 | N | 234 |
+| Acrylate, 2-nitrobutyl | Styrene | 0.12 | 0.01 | 0.35 | 0.03 | N | 234 |
+| Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Maleimide, N-phenyl- | Styrene |  |  |  |  | N | 1026 |
+| Maleimide, N-phenyl- | Styrene | 0.044 | 0.017 | 0.016 | 0.004 | Y | 328, 992 |
+| Maleimido-N,N-dimethylaniline,4-(2-chlorophenyl)azo | Styrene | 0.04 |  | 0.05 |  |  | 747 |
+| Mesaconate, di-sec-butyldithiol | Styrene | 0.02 |  | 0.45 |  |  | 624 |
+| Mesaconate, dibenzyldithiol | Styrene | 0.06 |  | 0.28 |  |  | 624 |
+| Mesaconate, dibutyldithiol | Styrene | 0.05 |  | 0.41 |  |  | 624 |
+| Mesaconate, diethyldithiol | Styrene | 0.03 |  | 0.4 |  |  | 624 |
+| Mesaconate, diisobutyldithiol | Styrene | 0.03 |  | 0.41 |  |  | 624 |
+| Mesaconate, diisopropyldithiol | Styrene | 0.05 |  | 0.44 |  |  | 624 |
+| Mesaconate, dimethyldithiol | Styrene | 0.07 |  | 0.35 |  |  | 624 |
+| Mesaconate, diphenyldithiol | Styrene | 0.15 |  | 0.16 |  |  | 624 |
+| Mesaconate, dipropyldithiol | Styrene | 0.06 |  | 0.39 |  |  | 624 |
+| Methacryl-2'-ethyl-4,5,7-trinitro-9-fluorenone-2-carboxylate | Methacrylate, N-(2-hydroxyethyl)carbazolyl | 0.382 | 0.014 | 0.63 | 0.041 | Y | 703 |
+| Methacrylamide, 1-deoxy-D-glucitol | Vinyl acetate | 0.56 |  | 0.16 |  |  | 258 |
+| Methacrylamide, N-(4'-nitro-4-stilbenyl)- | Methacrylate, 2-hydroxyethyl | 0.593 | 0.047 | 1.474 | 0.05 | Y | 342 |
+| Methacrylamide, N-(p-nitrophenyl)- | Acrylonitrile | 2.34 | 1.07 | 0.37 | 0.14 | Y | 352 |
+| Monomer 1 | Monomer 2 | rx | ±95% | r2 | ±95% | Conv. | Refs. |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Methacrylamide, 1-deoxy-D-glucitol | Methacrylate, methyl | 0.04 |  | 4.2 |  |  | 258 |
+| Methacrylamide, 1-deoxy-D-glucitol | Styrene | 0.005 |  | 2.09 |  |  | 258 |
+| Methacrylamide, N-p-nitrophenyl- | Methacrylate, methyl | 0.29 | 0.2 | 5.05 | 0.2 |  | 968 |
+| Methacrylate, ferrocenylmethyl | Maleic anhydride | 0.33 | 0.65 | 0.24 | 0.28 | Y | 325 |
+| Methacrylate, ferrocenylmethyl | Pyrrolidone, N-vinyl- | 2.57 | 2.77 | 0.073 | 0.096 | Y | 325 |
+| Methacrylate, potassium 18-crown-6-ether | Acrylonitrile | 0.175 | 0.018 | 0.07 | 0.006 | Y | 808 |
+| Methacrylate, 2,4,6-trinitrophenyl | Methacrylate, 2-naphthyl |  |  |  |  | Y | 744 |
+| Methacrylate, 2,4-dinitrophenyl ethyl | Acrylate, N-(2-hydroxyethyl)-oxy)3,6-dichloro | 1.207 | 0.032 | 0.115 | 0.029 | Y | 736 |
+| Methacrylate, 2,4-dinitrophenyl | Methyacrylate, N-(2-hydroxyethyl)-3,6-dichloro | 1.112 | 0.026 | 0.126 | 0.026 | Y |  |
+| Methacrylate, 2-acetylsalicylicoyloxy-3-hydroxypropyl | N-Vinylpyrrolidone | 0.85 |  | 0.34 |  |  | 1080 |
+| Methacrylate, 2-chloro-2,3,3,3-fluoropropyl | Acrylate, butyl | 0.221 | 0.636 | 0.079 | 0.304 | N | 927 |
+| Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| propyl |  |  |  |  |  |  |  |
+| propyl |  |  |  |  |  |  |  |
+|  | phenyl)-2-(4-methoxy) |  |  |  |  |  |  |
+| Methacrylate, 2-hydroxyethyl | Acetanilide, 4-(2-(methacryloyloxy)- | 1.39 |  | 0.67 |  |  | 1096 |
+|  | ethyloxy) |  |  |  |  |  |  |
+| Methacrylate, 2-hydroxyethyl | Acetanilide, 4-(2-(methacryloyloxy)- | 1.19 |  | 0.87 |  |  | 1096 |
+|  | hexyloxy) |  |  |  |  |  |  |
+| Methacrylate, 2-hydroxyethyl | Acetanilide, 4-(methacryloyloxy)- | 0.78 |  | 1.94 |  |  | 1096 |
+| Methacrylate, 2-hydroxyethyl Methacrylate, 2-hydroxyethyl | Acrylamide Acrylamide | 1.89 0.98 |  | 0.05 0.14 |  |  | 689 928 |
+| Methacrylate, 2-hydroxyethyl | Methacrylamide, N-(4'-nitro-4-stilbenyl)- | 1.474 | 0.05 | 0.593 | 0.047 | Y | 342 |
+| Methacrylate, 2-hydroxyethyl | Methacrylamide, N-[4-(4-methoxy- | 1.47 |  | 0.29 |  |  | 1051 |
+|  | phenylacetyloxy)phenyl]- |  |  |  |  |  |  |
+| Methacrylate, 2-hydroxyethyl | Methacryloxymethylpentamethyl | 0.97 |  | 0.33 |  |  | 822 |
+|  | disiloxane |  |  |  |  |  |  |
+|  | sulfonic |  |  |  |  |  |  |
+| Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Methacrylate, 2-hydroxypropyl | Acryloyl chloride | 1.79 | 0.29 |  |  |  | 649 |
+| Methacrylate, 2-hydroxypropyl | Methacrylate, 2-hydroxyethyl | 1.82 | 0.55 |  |  |  | 686 |
+| Methacrylate, 2-hydroxypropyl | Methacrylic acid | 0.31 | 0.99 |  |  |  | 886 |
+| Methacrylate, 2-naphthyl | Methacrylate, 2,4,6-trinitrophenyl | 0.85 | 0.34 | 0.75 | 0.16 | Y | 744 |
+| Methacrylate, 2-sulfonic acid, ethyl | Acrylate, ethyl | 3.2 | 0.3 |  |  |  | 564 |
+| Methacrylate, 2-sulfonic acid, ethyl | Methacrylate, ethyl | 2 | 1 |  |  |  | 564 |
+| Methacrylate, 2-sulfonic acid, ethyl | Styrene | 0.6 | 0.37 |  |  |  | 564 |
+| Methacrylate, 2-sulfonic acid, ethyl | Vinylidene chloride | 3.6 | 0.22 |  |  |  | 564 |
+| Methacrylate, 2-methoxyethyl | Styrene | 0.48 | 0.46 |  |  |  | 918 |
+| Methacrylate, 3-methoxy-2-hydroxypropyl | Acrylamide | 3.98 | 0.04 |  |  |  | 689 |
+| Methacrylate, p-(2-benzothiazolylthio) | Vinyl chloride | 0.26 | 0.64 |  |  |  | 741 |
+| Methacrylate, N-(2-hydroxyethyl)- | Methacrylate, 2,4-dinitrophenyl | 0.126 | 0.026 | 1.112 | 0.026 | Y | 736 |
+| Methacrylate, N-(2-hydroxyethyl)- | Acryl-2-ethyl-4,5,7-trinitrofluorenone | 0.773 | 0.096 | 0.102 | 0.022 | Y | 703 |
+| Methacrylate, N-(2-hydroxyethyl)- | Acrylate, 2,4-dinitrophenyl | 0.243 | 0.034 | 0.186 | 0.009 | Y | 716 |
+| Methacrylate, N-(2-hydroxyethyl)- | 2'-ethyl-4,5,7-trinitro-9-fluorenone | 0.63 | 0.041 | 0.382 | 0.014 | Y | 703 |
+| Methacrylate, N-o-benzothiazolonylmethyl | Methacrylate, methyl | 0.6 | 0.02 | 0.5 | 0.01 |  | 887 |
+| Methacrylate, N-ethyl- | Acryloyl-p-hydroxyethyl-3,5-dinitrobenzoate | 1.425 | 0.09 | 0.103 | 0.015 | Y | 701 |
+| Methacrylate, N-ethyl-3-hydroxymethylcarbazolyl | Methacryloyl-p-hydroxyethyl-3,5-dinitrobenzoate | 0.729 | 0.051 | 0.554 | 0.019 | Y | 701 |
+| Methacrylate, N-methyl-N-phenyl- | Acryloyloxy, 2-, benzoic acid | 0.22 | 0.03 | 1.82 | 0.2 | N | 651 |
+| Methacrylate, N-methyl-N-phenyl- | Methacryloyloxy, 2-, benzoate, methyl | 0.55 | 0.04 | 1.11 | 0.18 | N | 651 |
+| Monomer 1 | Monomer 2 | rx | ±95% | r2 | ±95% | Conv. | Refs. |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Methacrylate, N-methyl-Ar-phenyl- | Methacryloyloxy, 2-,benzoic acid | 0.2 | 0.01 | 2.6 | 0.08 | N | 651 |
+| 2-aminoethyl |  |  |  |  |  |  |  |
+| Methacrylate, A^-methyl-A^-phenyl- 2-aminoethyl | Styrene | 0.58 | 0.02 | 0.44 | 0.04 | N | 651 |
+| Methacrylate, a,a-dimethylbenzyl | Methacrylate, methyl | 0.92 |  | 0.81 |  |  | 761 |
+| Methacrylate, oc-naphthoyloxy-, ethyl | Styrene | 0.242 | 0.018 | 0.216 | 0.043 |  | 1102 |
+| Methacrylate, allyl | Itaconate, bis(tri-w-butyltin) | 1.08 |  | 0.038 |  |  | 940 |
+| Methacrylate, benzyl | Maleic anhydride |  |  |  |  | Y | 720 |
+| Methacrylate, benzyl | Maleic anhydride | - 0.075 | 0.088 | 0.372 | 0.093 | Y | 720 |
+| Methacrylate, benzyl Methacrylate, benzyl | Styrene Styrene | 0.51 0.42 |  | 0.45 0.48 |  |  | 487 540 |
+| Methacrylate, benzylmethylaminoethyl Methacrylate, butyl | Methacrylate, methyl Acetylene, phenyl- | 0.296 1.7 | 0.123 | 0.523 0.21 | 0.134 | Y | 1081 565 |
+| Methacrylate, butyl Methacrylate, butyl | Acrylic acid Acrylic acid, a-bromo- | 3.53 0.85 | 0.42 | 0.24 0.13 | 0.21 | N | 187 733 |
+| Methacrylate, butyl | Carbamate, Af-phenyl-, allyl | 0.418 |  | 0.329 |  |  | 833 |
+|  | benzoyloxy)ethyl |  |  |  |  |  |  |
+|  | benzoyloxy)ethyl |  |  |  |  |  |  |
+| Methacrylate, butyl | Methacrylate, ethyleneglycol- Af-phenylcarbamate | 0.395 |  | 0.299 |  |  | 833 |
+| Methacrylate, butyl | Styrene, p-chloro- |  | 0.1 |  | 0.1 | N | 872 |
+| Methacrylate, butyl | Styrene/?-octylamine sulfonate | 0.7 |  | 1.5 |  |  | 817 |
+| Methacrylate, butyl | Thioindigoid | 11.5 |  | 0.5 |  |  | 1007 |
+| Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Methacrylate, di-, zinc | Ethylene | 40 |  | 0.19 |  |  | 935 |
+| Methacrylate, di-, dicyclopentadienyl-titanate | Acrylate, di-, copper | 0.89 |  | 1.09 |  |  | 876 |
+| Methacrylate, di-, dicyclopentadienyl-titanate | Acrylate, di-, nickel | 0.65 |  | 0.95 |  |  | 876 |
+| Methacrylate, di-, triethyleneglycol | Methacrylate, ethylene-glycol | 0.59 |  | 0.24 |  |  | 833 |
+| Methacrylate, diethylaminoethyl | N-phenylcarbamate | 1.44 | 0.085 | 0.843 | 0.128 | Y | 1081 |
+| Methacrylate, ethyl | Methacrylate, methyl |  |  |  |  | N | 32 |
+| Methacrylate, ferrocenylmethyl | Acrylate, methyl | 0.042 | 0.085 | 1.4 | 0.35 | Y | 293 |
+| Methacrylate, ferrocenylmethyl | Acrylonitrile | 0.82 | 0.42 | 0.15 | 0.04 | Y | 325 |
+| Methacrylate, ferrocenylmethyl | Styrene | -0.01 | 0.14 |  | 3.63 | Y | 293 |
+| Methacrylate, ferrocenylmethyl | Styrene | 0.01 |  | 3.6 |  |  | 576 |
+| Methacrylate, ferrocenylmethyl | Vinyl acetate | 1.52 |  | 0.2 |  |  | 293 |
+| Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Methacrylate, glycidyl | Vinyl, mono-, ethylene glycol ether | 4.41 |  | 0 |  |  | 780 |
+|  | ethylenediamine |  |  |  |  |  |  |
+| Methacrylate, isobutyl | Styrene | 0.58 |  | 0.56 |  |  |  |
+| Methacrylate, m-nitrophenyl | Styrene | 0.185 | 0.054 | 0.44 | 0.16 | Y | 177 |
+| Methacrylate, methyl | 3-Pyridazone, 2-vinyl | 0.63 |  | 1.56 |  |  | 897 |
+|  | 4,5-benz-3- |  |  |  |  |  |  |
+| Methacrylate, methyl | 4H-1,3-Oxazinium F3CSO3, 3-methyl- | 0.37 |  | 0.31 |  |  | 909 |
+|  | 2-vinyl-5,6-dihydro- |  |  |  |  |  |  |
+| Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Methacrylate, methyl | Acrylamido, 1-deoxy-D-glucitol | 3.75 | 0.24 | 0.05 | 0.09 | N | 258 |
+| Methacrylate, methyl | Acrylate, ferrocenylmethyl | 2.9 |  | 0.08 |  |  | 293 |
+| Methacrylate, methyl | Acrylate, 2-(O-ethyl methyl-phosphonoxy)-, methyl | 0.73 | 0.04 | 0.44 | 0.25 |  | 882 |
+| Methacrylate, methyl | Acrylate, 2-nitrobutyl | 1.19 | 0.12 | 0.27 | 0.04 | N | 234 |
+| Methacrylate, methyl | Acrylate, a-[2,2-bis(carbomethoxy)-ethyl]-, methyl | 3.7 |  | 0.04 |  |  | 1092 |
+| Methacrylate, methyl | Acrylate, a-tetrafluoropropyloxymethyl-, methyl | 1.43 |  | 0.61 |  |  | 1047 |
+| Methacrylate, methyl | Acrylate, ferrocenylmethyl | 2.8 | 0.19 | 0.024 | 0.064 | Y | 293 |
+| Methacrylate, methyl | Acrylate, m-nitrophenyl | 0.928 | 0.248 | 1.04 | 0.135 | Y | 1074 |
+| Methacrylate, methyl | Acrylate, a-p-chlorobenzyl-, methyl | 1.87 | 0.222 | 0.255 | 0.034 | Y | 905 |
+| Methacrylate, methyl | Acrylate, a-p-methoxybenzyl-, methyl | 1.71 | 0.109 | 0.13 | 0.008 | Y | 905 |
+| Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Methacrylate, methyl | Acrylonitrile, a-perfluoropropyl- | 1.9 | 0.3 | 0 | 0.05 |  | 926 |
+| Methacrylate, methyl | Allyl chloride |  |  |  |  | Y | 204 |
+| Methacrylate, methyl | Benzocyclobutane, a-methylene- | 0.32 |  | 0.46 |  |  | 1083 |
+| Methacrylate, methyl | Benzophenone, 2-hydroxy- | 0.315 | 0.036 | 1.65 | 0.114 | Y | 934 |
+|  | 4-(methacryloxy)- |  |  |  |  |  |  |
+|  | 5,6-dicarboximide, N-benzyl |  |  |  |  |  |  |
+|  | 5,6-dicarboximide, N-benzyl |  |  |  |  |  |  |
+| Methacrylate, methyl | Citraconimide, N-(4-ethoxycarbonyl- | 2.72 | 0.18 | -0.027 | 0.084 | Y | 728 |
+|  | phenyl)- |  |  |  |  |  |  |
+|  | N-(1-menthylcarboxylatomethyl)- |  |  |  |  |  |  |
+| Methacrylate, methyl | Citraconimide, N-propyl | 3.23 | 0.98 | -0.03 | 0.43 | Y | 714 |
+|  | Citraconimide, N-tert-butyl- | 2.88 | 0.19 | 0.038 | 0.072 | Y | 714 |
+|  | Methacrylate, methyl |  |  |  |  |  |  |
+|  | Citraconimide, N-tolyl- | 2.75 | 0.19 | 0.003 | 0.088 | Y | 728 |
+|  | carbonyl)-2-vinyl- |  |  |  |  |  |  |
+|  | carbonyl)-2-vinyl- |  |  |  |  |  |  |
+| Methacrylate, methyl | Diallyl melamine |  |  |  |  | Y | 201 |
+| Methacrylate, methyl | Dimethyleneheptanedioate, | 2.36 | 0.25 | 0.53 | 0.02 | N | 795 |
+|  | 2,6-dimethyl |  |  |  |  |  |  |
+| Methacrylate, methyl | Ethylene |  |  |  |  | N | 41 |
+| Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Methacrylate, methyl | Ethylene, tetrachloro- |  |  |  |  | Y | 204 |
+| Methacrylate, methyl | Isoprene, 3-acetoxy- | 0.16 |  | 2.81 |  |  | 770 |
+| Methacrylate, methyl | Isopropenyl, 3-(1-cyclohexenyl), acetate | 0.81 |  | 0.4 |  |  | 770 |
+| Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Acrylate, N-(2-hydroxyethyl)- | Methacrylate, 2,4-dinitrophenyl | 0.115 | 0.029 | 1.207 | 0.032 | Y | 736 |
+| 3,6-dichlorocarbazolyl |  |  |  |  |  |  |  |
+| Acrylate, N-(2-hydroxyethyl)carbazolyl | Acryl-2'-ethyl-4,5,7-trinitro-9-fluorene | 0.912 | 0.079 | 0.585 | 0.028 | Y | 715 |
+| Acrylate, N-(2-hydroxyethyl)carbazolyl | Acrylate, 2,4-dinitrophenyl | 0.109 | 0.026 | 0.158 | 0.015 | Y | 716 |
+| 3,5-dinitrobenzoate |  |  |  |  |  |  |  |
+| 3,5-dinitrobenzoate |  |  |  |  |  |  |  |
+| 3,5-dinitrobenzoate |  |  |  |  |  |  |  |
+| Acrylate, α-((9-ethyl methylphosphonoxy)- | Methacrylate, methyl | 0.44 |  | 0.73 |  |  | 851 |
+| methyl |  |  |  |  |  |  |  |
+| methyl |  |  |  |  |  |  |  |
+| Acrylate, α-chloro-, sodium | Styrenesulfonate, p-, sodium | 0.27 | 0.06 | 1.44 | 0.31 | Y | 834 |
+| methyl |  |  |  |  |  |  |  |
+| Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Methacrylate, methyl | Maleimide, N-(4-carboxyethylphenyl)-a-chloro- | 0.472 | 0.114 | -0.004 | 0.168 | Y | 973 |
+| Methacrylate, methyl | Maleimide, N-(4-methoxyphenyl)-a-chloro- | 0.556 | 0.145 | 0.064 | 0.189 | Y | 973 |
+| Methacrylate, methyl | Maleimide, N-(β-chloroethyl)-a-chloro- | 0.94 | 0.06 | 0.05 | 0.04 |  | 974 |
+| Methacrylate, methyl | Maleimide, N-(β-chloroethyl)-a-chloro- | 0.59 | 0.291 | 0.11 | 0.05 | Y | 974 |
+| Methacrylate, methyl | Maleimide, N-[N'-(α-methylbenzyl)aminocarbonylpentyl]- | 1.37 | 0.291 | 0.582 | 0.359 | Y | 1009 |
+| Methacrylate, methyl | Methacrylamide, 1-deoxy-D-glucitol | 4.2 |  | 0.04 |  |  | 258 |
+| Methacrylate, methyl | Methacrylamide, N-p-nitrophenyl- | 5.05 | 0.2 | 0.29 | 0.2 |  | 968 |
+| Methacrylate, methyl | Methacrylate, (2,2-dimethyl-1,3-dioxolane) | 0.9 |  | 1.1 |  |  | 807 |
+| Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Methacrylate, methyl | Methacrylate, 2-chloro-2,3,3,3-fluoropropyl | 0.984 | 0.395 | 0.583 | 1.17 | N | 927 |
+| Methacrylate, methyl | Methacrylate, N-α-benzothiazolonyl-methyl | 0.5 | 0.01 | 0.6 | 0.02 |  | 887 |
+| Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Methacrylate, methyl | Methacrylophenone, α- | 1.79 | 0.07 | 0.11 | 0.02 | N | 798 |
+| Methacrylate, methyl | Methacrylophenone, α- | 1.74 | 0.22 | 0.119 | 0.009 | Y | 798 |
+| Methacrylate, methyl | Oxazoline, 2-,4-acryloxymethyl | 0.41 |  | 0.11 |  |  | 596 |
+|  | 2,4-dimethyl |  |  |  |  |  |  |
+| Methacrylate, methyl | Oxazoline, 2-,4-methacryloxy- | 1.17 |  | 0.19 |  |  | 596 |
+|  | 2,4-dimethyl |  |  |  |  |  |  |
+| Methacrylate, methyl | Pentenoate, 3-oxo-4-, ethyl | 0.555 | 0.032 | 3.39 | 0.263 | N | 1033 |
+| Methacrylate, methyl | Pentenoate, 3-oxo-4-, ethyl | 0.424 | 0.022 | 2.02 | 0.141 | N | 1033 |
+| Methacrylate, methyl | Pentenoate, 3-oxo-4-, ethyl | 0.591 | 0.046 | 3.06 | 0.349 | N | 1033 |
+| Methacrylate, methyl | Pentenoate, 3-oxo-4-, ethyl | 0.443 | 0.032 | 1.67 | 0.183 | N | 1033 |
+| Methacrylate, methyl | Pentenoate, 3-oxo-4-, ethyl | 0.34 | 0.031 | 1.24 | 0.168 | N | 1033 |
+| Methacrylate, methyl | Pentenoate, 3-oxo-4-, ethyl | 0.57 | 0.023 | 1.72 | 0.123 | N | 1033 |
+| Methacrylate, methyl | Pentenoate, 3-oxo-4-, ethyl | 0.606 | 0.045 | 1.69 | 0.236 | N | 1033 |
+| Methacrylate, methyl | Pentenoate, 3-oxo-4-, ethyl | 0.269 | 0.027 | 0.72 | 0.12 | N | 1033 |
+| Methacrylate, methyl | Pentenoate, 3-oxo-4-, ethyl | 0.715 | 0.048 | 1.55 | 0.224 | N | 1033 |
+| Methacrylate, methyl | Pentenoate, 3-oxo-4-, ethyl | 0.528 | 0.02 | 1.09 | 0.09 | N | 1033 |
+| Methacrylate, methyl | Pentenoate, 4-methyl-3-oxo-4-, ethyl | 0.597 | 0.03 | 2.56 | 0.218 | N | 1033 |
+| Methacrylate, methyl | Pentenoate, 4-methyl-3-oxo-4-, ethyl | 0.38 | 0.034 | 0.748 | 0.155 | N | 1033 |
+| Methacrylate, methyl | Pentenoate, 4-methyl-3-oxo-4-, ethyl | 0.513 | 0.022 | 1.14 | 0.109 | N | 1033 |
+| Methacrylate, methyl | Pentenoate, 4-methyl-3-oxo-4-, ethyl | 0.43 | 0.034 | 0.952 | 0.164 | N | 1033 |
+| Methacrylate, methyl | Pentenoate, 4-methyl-3-oxo-4-, ethyl | 0.474 | 0.023 | 1.67 | 0.143 | N | 1033 |
+| Methacrylate, methyl | Pentenoate, 4-methyl-3-oxo-4-, ethyl | 0.581 | 0.025 | 1.04 | 0.111 | N | 1033 |
+| Methacrylate, methyl | Pentenoate, 4-methyl-3-oxo-4-, ethyl | 0.616 | 0.024 | 1.05 | 0.108 | N | 1033 |
+| Methacrylate, methyl | Pentenoate, 4-methyl-3-oxo-4-, ethyl | 0.663 | 0.023 | 0.725 | 0.08 | N | 1033 |
+| Methacrylate, methyl | Pentenoate, 4-methyl-3-oxo-4-, ethyl | 0.528 | 0.02 | 1.09 | 0.09 | N | 1033 |
+| Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Methacrylate, methyl | Phosphate, 2-(acryloyloxy)ethyl diethylPhosphonate, α-bromovinyl-,diethyl | 2.041.25 | 0.0120.04 | 0.0701 | 0.052 | N | 971684 |
+| Methacrylate, methyl | Phosphonate, α-carboethoxyvinyl-,diethyl | 1 |  | 0.05 |  |  | 684 |
+|  | diethyl |  |  |  |  |  |  |
+| Methacrylate, methyl | Phosphonate, α-carbomethoxyvinyl-,diethyl | 4.7 |  | 0.01 |  |  | 684 |
+|  | diethyl |  |  |  |  |  |  |
+| Methacrylate, methyl | Phosphonate, vinyl-, diethyl | 11.1 | 0.04 |  |  |  | 684 |
+| Methacrylate, methyl | Pinene, α- | 10 |  | 0.08 |  |  | 48 |
+| Methacrylate, methyl | Propenyl, 2-chloro-, acetate | 1 |  | 0 |  |  | 445 |
+| Methacrylate, methyl | Propenyl, 2-methyl, acetate | 10 |  | 0 |  |  | 470 |
+| Methacrylate, methyl | Pyridazinone, 3-(2-vinyl)-6-methyl-4,5- | 1.19 | 0.04 | 0.08 | 0.03 | N | 340 |
+| Methacrylate, methyl | Pyridazinone 3-(2-vinyl)-6-methyl- | 0.86 | 0.02 | 0.56 | 0.04 | N | 340 |
+| Methacrylate, methyl | Pyrrolidone, 1-benzyl-3-methylene-5-methyl | 0.387 | 0.07 | 2.28 | 0.47 | Y | 33 |
+| Methacrylate, methyl | Pyrrolidone, N-vinyl- |  |  |  |  | Y | 213 |
+| Monomer 1 Monomer 2 Conv. | r | ±95% | r2 | ±95% |  | Refs. |
+| --- | --- | --- | --- | --- | --- | --- |
+| Methacrylate, methyl Styrene | 0.409 | 0.02 | 0.485 | 0.052 | Y | 751 |
+| Methacrylate, methyl Styrene | 0.504 | 0.026 | 0.48 | 0.059 | Y | 751 |
+| Methacrylate, methyl Styrene | 0.611 | 0.028 | 0.371 | 0.055 | Y | 751 |
+| Methacrylate, methyl Styrene | 0.59 |  | 0.62 |  |  | 753 |
+| Methacrylate, methyl Styrene | 0.6 |  | 0.52 |  |  | 753 |
+| Methacrylate, methyl Styrene | 0.63 |  | 0.5 |  |  | 753 |
+| Methacrylate, methyl Styrene | 0.58 |  | 0.55 |  |  | 753 |
+| Methacrylate, methyl Styrene | 0.64 |  | 0.55 |  |  | 753 |
+| Methacrylate, methyl Styrene | 0.41 |  | 0.41 |  |  | 753 |
+| Methacrylate, methyl Styrene | 0.454 |  | 0.472 |  |  | 824 |
+| Methacrylate, methyl Styrene | 0.464 |  | 0.497 |  |  | 824 |
+| Methacrylate, methyl Styrene | 0.422 |  | 0.432 |  |  | 824 |
+| Methacrylate, methyl Styrene | 0.41 |  | 0.57 |  |  | 835 |
+| Methacrylate, methyl Styrene | 0.314 |  | 0.275 |  |  | 860 |
+| Styrene, 2,4,6-trimethyl- Methacrylate, methyl | 1.511 | 0.072 | 0.083 | 0.045 | Y | 58 |
+| Methacrylate, methyl Styrene, 2,4,6-trimethyl- | 1.45 | 0.16 | -0.01 | 0.11 | Y | 58 |
+| Methacrylate, methyl Styrene, 2,5-dichloro- | 0.44 | 0.13 | 2.66 | 0.38 | Y | 3 |
+| Methacrylate, methyl Styrene, 2,6-dichloro- | 1.98 | 0.16 | -0.15 | 0.27 | N | 324 |
+| Methacrylate, methyl Styrene, 3-methyl | 0.48 | 0.04 | 0.53 | 0.04 |  | 1087 |
+| Methacrylate, methyl Styrene, 3-methyl | 0.38 | 0.03 | 0.36 | 0.06 |  | 1087 |
+| Methacrylate, methyl Styrene, 3-methyl | 0.41 | 0.04 | 0.51 | 0.05 |  | 1087 |
+| Methacrylate, methyl Styrene, 3-tri-rc-butylstannyl- | 0.69 |  | 0.03 |  |  | 985 |
+| Methacrylate, methyl Styrene, 4-methyl- | 0.345 | 0.008 | 0.46 | 0.022 | Y | 929 |
+| Methacrylate, methyl Styrene, a-methoxy- | 2.5 | 0.39 | - 0.02 | 0.04 | N | 142 |
+| Styrene, a-methyl- Methacrylate, methyl Methacrylate, methyl Styrene, a-methyl- | 0.48 0.55 | 0.02 | 0.27 0.51 | 0.07 | N | 265 265 |
+| Methacrylate, methyl Styrene, a-methyl- | 0.55 |  | 0.6 |  |  | 265 |
+| Styrene, a-methyl- Methacrylate, methyl | 0.5 |  | 0.14 |  |  | 532 |
+| Methacrylate, methyl Styrene, a-methyl- | 0.42 |  | 0.22 |  |  | 835 |
+| Methacrylate, methyl Styrene, a-methyl- | 0.47 |  | 0.48 |  |  | 899 |
+| Methacrylate, methyl Styrene, m-bromo- | 0.48 |  | 1.17 |  |  | 256 |
+| Methacrylate, methyl Styrene, m-chloro- |  |  |  |  | Y | 150 |
+| Methacrylate, methyl Styrene, m-methyl- | 0.512 | 0.036 | 0.486 | 0.02 | Y | 256 |
+| Methacrylate, methyl Styrene, m-nitro- | 0.35 | 0.11 | 0.8 | 0.32 | Y | 222 |
+| Methacrylate, methyl Styrene, /?-chloro- | 0.5 |  | 1.37 |  |  | 532 |
+| Methacrylate, methyl Styrene, o-chloro- | 0.46 |  | 1.34 |  |  | 558 |
+| Methacrylate, methyl Styrene, /?-l-(2-hydroxypropyl)- Methacrylate, methyl Styrene, p-JVyV-dimethylamino- | 0.26 0.204 | 0.022 | 1 0.101 | 0.016 | Y | 380 256 |
+| Methacrylate, methyl Styrene, p-bromo- | 0.4 |  | 1.1 |  |  | 256 |
+| Methacrylate, methyl Styrene, /?-chloro- | 0.334 | 0.016 | 0.77 | 0.12 | Y | 150 |
+| Styrene, p-chloro- Methacrylate, methyl | 0.42 |  | 0.89 |  |  | 256 |
+| Methacrylate, methyl Styrene, /7-chloro- | 0.43 |  | 0.47 |  |  | 476 |
+| Methacrylate, methyl Styrene, /?-chloromethyl- | 0.408 | 0.038 | 0.91 | 0.15 | Y | 756 |
+| Styrene,/?-cyano- Methacrylate, methyl | 0.22 |  | 1.41 |  |  | 256 |
+| Methacrylate, methyl Styrene, /?-methoxy- | 0.29 |  | 0.32 |  |  | 35 |
+| Methacrylate, methyl Styrene, p-methyl- | 0.4 |  | 0.44 |  |  | 256 |
+| Methacrylate, methyl Styrene,/7-octylamine sulfonate | 0.6 |  | 2.6 |  |  | 817 |
+| Methacrylate, methyl Styrene, p-tert-buty- | 0.44 |  | 0.5 |  |  | 634 |
+| Methacrylate, methyl Styrene, pentachloro- | 3.65 | 0.85 | 0.3 | 0.05 | N | 7 |
+| Methacrylate, methyl Succinamete, potassium N-vinyl- | 1.1 | 0.17 | -0.02 | 0.12 | Y | 771 |
+| Methacrylate, methyl Succinimide, TV-vinyl- | 9.94 | 0.27 | 0.048 | 0.026 | Y | 104 |
+| Methacrylate, methyl Succinimide, N-vinyl- | 0.01 | 0.031 | -0.059 | 0.096 | Y | 693 |
+| Methacrylate, methyl Tetrazole, 1-Vinyl- | 7.13 | 0.093 | 0.262 | 0.026 | Y | 925 |
+| Tetrazole, 2-methyl-5-vinyl- Methacrylate, methyl | 1.026 | 0.029 | 0.486 | 0.075 | Y | 670 |
+| Methacrylate, methyl Tetrazole, 2-phenyl-5(4/ -vinyl) phenyl- | 0.7 |  | 0.4 |  |  | 583 |
+| Methacrylate, methyl Thiophene, 3-vinyl | 0.563 |  | 0.25 |  |  | 1000 |
+| Thioxanthone, 2-(acryloyloxy)- Methacrylate, methyl | 1.36 |  | 0.5 |  |  | 986 |
+| Methacrylate, methyl Toluenesulfonamide, Af,N-methyl- | 1.87 | 0.19 | -1.83 | 0.26 | Y | 80 |
+| vinyl |  |  |  |  |  |  |
+| Methacrylate, methyl Triallyl cyanurate | 16.12 | 0.56 | -0.005 | 0.05 | Y | 201 |
+| Methacrylate, methyl Triallyl isocyanurate Triazole, 1,2,3-, 1-p-bromophenyl- | 16.88 | 6.64 | -0.49 | 0.94 0.058 | Y Y | 201 670 |
+| Methacrylate, methyl 4-vinyl | 0.832 | 0.022 | 0.266 |  |  |  |
+| Methacrylate, methyl Triazole, 1,2,3-, 4(5)-vinyl- | 0.839 | 0.055 | 0.27 | 0.13 | Y | 670 |
+| Methacrylate, methyl Urea, TV-vinyl-AT'-ethyl- -0.008 101 | 1.85 | 0.23 |  | 0.029 | Y |  |
+| Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Methacrylate, methyl | Vinyl butyl ether |  |  |  |  | N | 127 |
+| Methacrylate, methyl | Vinyl, 4-, dithiobenzoate, methyl | 0.151 | 0.092 | 0.3 | 0.29 | Y | 697 |
+| Methacrylate, methyl | Vinyl, p-, benzylmethylcarbinol | 0.24 | 0.26 | 0.98 | 0.28 | Y | 48 |
+| Methacrylate, methyl | Vinylacetophenone, p- | 0.33 | 0.36 | 1.65 | 3.81 | Y | 266 |
+| Methacrylate, methyl | Vinylanthracene, 9- | 4.068 | 0.04 | 0.117 | 0.043 | Y | 123 |
+| Methacrylate, methyl | Vinylbenzoic acid, p- | 0.398 | 0.097 | 1.16 | 0.3 | Y | 266 |
+| Methacrylate, methyl | Vinylene carbonate | 126 | 298 | -0.04 | 0.85 | Y | 103 |
+| Methacrylate, methyl | Vinylidene chloride | 2.83 |  | 0.19 |  |  |  |
+|  |  |  |  |  |  |  | 762 |
+| Methacrylate, methyl | Vinylidene cyanide |  | 0.012 |  | 0.013 | Y | 82 |
+| Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Methacrylate, mono-ethylene glycol | Acrylonitrile | 1.5 | 0.19 |  |  |  | 682 |
+| Methacrylate, octyl | Styrene | 0.68 | 0.56 |  |  |  | 463 |
+| Methacrylate, octyl | Vinyl chloride | 14 | 0.04 |  |  |  | 511 |
+| Methacrylate, p-(cinnamoylamino)phenyl | Styrene | 0.31 | 0.62 |  |  |  | 685 |
+| Methacrylate, p-acetylphenyl | Methacrylate, methyl | 0.67 | 0.47 |  |  |  | 769 |
+| Methacrylate, p-chlorophenyl | Methacrylate, methyl | 1.08 | 0.54 |  |  |  | 769 |
+| Methacrylate, p-methoxyphenyl | Methacrylate, methyl | 1.19 | 0.72 |  |  |  | 769 |
+| Methacrylate, p-tolyl | Methacrylate, methyl | 1.28 | 0.59 |  |  |  | 769 |
+| Methacrylate, phenyl | Acrylonitrile | 0.46 | 0.36 |  |  |  | 363 |
+| Methacrylate, phenyl | Methacrylate, methyl | 1.67 | 0.53 |  |  |  | 32 |
+| Methacrylate, phenyl | Methacrylate, methyl | 1.69 | 0.58 |  |  |  | 32 |
+| Methacrylate, phenyl | Methacrylate, methyl | 1.72 | 0.56 |  |  |  | 32 |
+| Methacrylate, phenyl | Methacrylate, methyl | 1.55 | 0.66 |  |  |  | 761 |
+| Methacrylate, phenyl | Methacrylate, methyl | 0.99 | 0.55 |  |  |  | 769 |
+| Methacrylate, phenyl | Styrene | 0.51 | 0.26 |  |  |  | 463 |
+| Methacrylate, propargyl | Itaconic acid mono(p-sulfamidoanilide) | 1.65 | 0.02 | 0.58 | 0.05 |  | 957 |
+| Methacrylate, propyl | Methacrylate, methyl | 1.24 | 1.21 |  |  |  | 844 |
+| Methacrylate, sodium (2-sulphoxyethyl)- | Methacrylic acid | 1.2 | 0.19 | 0.78 | 0.08 | N | 745 |
+| Methacrylate, tert-butyl | Methacrylate, methyl | 1.35 | 0.96 |  |  |  | 761 |
+| Methacrylate, tetra(2-hydroxypropyl)-ethylenediamine | Methacrylate, hydroxyethyl | 1.44 | 1 | 0.606 | 0.416 | Y | 996 |
+| Methacrylate, tetra(2-hydroxypropyl)-ethylenediamine | Methacrylic acid | 0.328 | 0.181 | 1.56 | 0.237 | Y | 996 |
+| Methacrylate, tributyltin | Methacrylate, methyl | 0.62 | 0.58 |  |  |  | 1082 |
+| Methacrylate, triethyltin | Methacrylate, methyl | 0.87 | 0.62 |  |  |  | 1082 |
+| Methacrylate, trimethyltin | Methacrylate, methyl | 1.07 | 0.63 |  |  |  | 1082 |
+| Methacrylate, triphenyltin | Methacrylate, methyl | 0.68 | 0.6 |  |  |  | 1082 |
+| Methacrylic acid | Acrylamide | 1.63 | 0.57 |  |  |  | 1028 |
+| Methacrylic acid | Acrylamide | 4.4 | 0.58 |  |  |  | 852 |
+| Methacrylic acid | Acrylamide | 0.15 | 0.56 |  |  |  | 852 |
+| Vinyltrimethylsilane |  | 35.66 | 0.85 | 0.028 | 0.016 | Y | 482 |
+| Monomer 1 | Monomer 2 | rx | ±95% | r2 | ±95% | Conv. | Refs. |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Methacrylic acid | Acrylic acid, 2-ethyl | 1.14 | 0.23 |  |  | Y | 961 |
+| Methacrylic acid | Diphenyl sulfone, | 0.564 | 0.032 | 0.015 | 0.058 | Y | 1042 |
+|  | 3,3'-bisitaconimido-m,m'- |  |  |  |  |  |  |
+|  | N-(2-methacryl) |  |  |  |  |  |  |
+|  | 2-amino |  |  |  |  |  |  |
+| Methacrylic acid | Methacrylate, methyl |  |  |  | 0.081 | Y | 88 |
+| Methacrylic acid | Methacrylate, sodium (2-sulphoxyethyl)- | 0.78 | 0.08 | 1.2 | 0.19 | N | 745 |
+|  | hydroxypropyl)ethylenediamine |  |  |  |  |  |  |
+| Methacrylic acid | Methacrylate, methyl |  |  |  |  |  |  |
+|  | 54 |  |  |  |  |  |  |
+|  | 276 |  |  |  |  |  |  |
+|  | 313 |  |  |  |  |  |  |
+|  | 424 |  |  |  |  |  |  |
+| Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Methacrylic acid | Styrene | 0.602 | 0.088 | 0.124 | 0.092 | Y | 47 812 |
+| Methacrylic acid | Sulfonic acid, o-methacryloylamino-benzene | 0.203 | 0.067 | 0.217 | 0.122 | Y | 1006 |
+| Methacrylic acid | Sulfonic acid, o-methacryloylamino-benzene | 0.188 | 0.076 | 0.523 | 0.195 | Y | 1006 |
+| Methacrylic acid | Sulfonic acid, p-methacryloylamino-benzene | 0.156 | 0.081 | 1.08 | 0.338 | Y | 1006 |
+| Methacrylic acid | Sulfonic acid, p-methacryloylamino-benzene | 0.155 | 0.052 | 1.65 | 0.27 | Y | 1006 |
+| Methacrylic acid | Vinyl chloride | 9.05 |  | 0.07 |  |  | 46 831 |
+| Methacrylic acid | Vinyl, mono-, diethyleneglycol ether | 0 |  | 2.2 |  |  | 831 |
+| Methacrylic acid | Vinylethynyl-4-piperidinol, 1,2,5-trimethyl | 0.4 |  | 0.05 |  |  | 734 |
+| Methacrylic anhydride | Vinyl chloroethyl ether |  |  |  |  | Y | 106 |
+| Methacrylonitrile | Methacrylic acid | 0.52 | 0.32 | 0.54 | 3.71 | N | 85 219 |
+| Methacrylonitrile | Phosphonic acid, α-phenylvinyl- | 2.24 |  |  |  |  | 590 |
+| Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Methacrylonitrile | "Styrene, α-methoxy-" | 0.83 | 0.04 | -0.02 | 0.005 | N | 143 |
+| Methacrylonitrile | "Styrene, α-methyl-" | 0.21 |  | 0.15 |  |  | 542 |
+| Methacrylophenone, α- | Methacrylate, methyl | 0.11 | 0.02 | 1.79 | 0.07 | N | 798 |
+| Methacrylophenone, α- | Methacrylate, methyl | 0.119 | 0.009 | 1.74 | 0.22 | Y | 798 |
+| 3,5-dinitrobenzoate |  |  |  |  |  |  |  |
+| 3,5-dinitrobenzoate |  |  |  |  |  |  |  |
+| Methacryloyl-β-hydroxyethyl- | Methacrylate, N-ethyl-3-hydroxymethyl- | 0.554 | 0.019 | 0.729 | 0.051 | Y | 701 |
+| 3,5-dinitrobenzoate carbazolyl |  |  |  |  |  |  |  |
+| Methacryloyloxy, 2-benzoate methyl | Methacrylate, N-methyl-N-phenyl- | 1.11 | 0.18 | 0.55 | 0.04 | N | 651 |
+| 2-amino ethyl |  |  |  |  |  |  |  |
+| Methacryloyloxy, 2-benzoate methyl | Styrene | 0.48 | 0.02 | 0.27 | 0.04 | N | 651 |
+| 2-amino ethyl |  |  |  |  |  |  |  |
+| 4-,2,2,6,6-tetramethylpiperidine |  |  |  |  |  |  |  |
+| Methyleneglutaronitrile, 2- | Butadiene |  |  |  |  | N | 196 |
+| N-N-Divinylaniline | Acrylonitrile | -0.006 | 0.07 | 0.246 | 0.014 | Y | 45 |
+| N-N-Divinylaniline | Methacrylate, methyl | 0.005 | 0.018 | 1.06 | 0.18 | Y | 45 |
+| N-N-Divinylaniline | Styrene | 0.033 | 0.067 | 5.38 | 0.36 | Y | 45 |
+| N-N-Divinylaniline | Styrene, p-methyl- | 0.06 | 0.03 | 6.15 | 0.16 | Y | 45 |
+| N-N-Divinylaniline | Vinyl acetate | 3.99 | 0.12 | 0.058 | 0.009 | Y | 45 |
+| Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Acrylate, a-isopropyloxymethyl-, methyl | Styrene | 0.26 | 0.41 |  |  |  | 1047 |
+| Acrylate, a-methoxy-, methyl | Acrylate, a-chloro-, ethyl | 0.11 | 0.58 |  |  |  | 638 |
+| Acrylate, a-p-chlorobenzyl-, methyl | Methacrylate, methyl | 0.255 | 0.034 | 1.87 | 0.222 | Y | 905 |
+| Acrylate, a-p-methoxybenzyl-, methyl | Methacrylate, methyl | 0.13 | 0.008 | 1.71 | 0.109 | Y | 905 |
+| Acrylate, a-phenyl-, methyl | Acrylate, methyl | 1 | 0.06 |  |  |  | 141 |
+| Acrylate, a-phenyl-, methyl | Acrylonitrile | 6.7 | 0.08 |  |  |  | 141 |
+| Acrylate, a-phenyl-, methyl | Methacrylate, methyl | 0 | 0.21 |  |  |  | 141 |
+| Acrylate, a-phenyl-, methyl | Methacrylate, methyl | 0 | 0.3 |  |  |  | 49 |
+| Acrylate, a-phenyl-, methyl | Methacrylonitrile | 0.25 | 0.19 |  |  |  | 143 |
+| Acrylate, a-phenyl-, methyl | Styrene | 1 | 0.06 |  |  |  | 141 |
+| Acrylate, a-phenyl-, methyl | Styrene | 0.4 | 0.03 |  |  |  | 399 |
+| Acrylate, a-phenyl-, methyl | Styrene | 0.45 | 0.06 |  |  |  | 488 |
+| Acrylate, a-phenyl-, chloroethyl | Styrene | 0.201 | 0.09 | 0.025 | 0.015 | Y | 488 |
+| Acrylate, a-propyloxymethyl-, methyl | Styrene | 0.29 | 0.47 |  |  |  | 1047 |
+| Acrylate, a-tetrafluoropropyloxymethyl-, methyl | Methacrylate, methyl | 0.61 |  | 1.43 |  |  | 1047 |
+| Acrylate, a-tetrafluoropropyloxymethyl-, methyl | Styrene | 0.17 |  | 0.37 |  |  | 1047 |
+| Acrylate, a-trifluoroethyloxymethyl-, methyl | Styrene | 0.2 | 0.26 |  |  |  | 1047 |
+| Acrylate, benzyl | Allyl chloride | 9.9 | 0.06 |  |  |  | 438 |
+| Acrylate, butyl | Acrolein, methyl- | 0.02 | 2.5 |  |  |  | 589 |
+| Acrylate, butyl | Acrylamide, N-propyl- | 0.8 | 0.4 |  |  |  | 730 |
+| Acrylate, butyl | Acrylamide, N-methylol- | 0.87 | 0.61 |  |  |  | 441 |
+| Acrylate, butyl | Acrylic acid, a-bromo- | 0.19 | 0.09 |  |  |  | 733 |
+| Acrylate, butyl | Acrylonitrile | 0.9 | 1 |  |  |  | 513 |
+| Acrylate, butyl | Acrylonitrile | 1.2 | 1 |  |  |  | 513 |
+| Acrylate, butyl | Allyl chloride | 5.83 | 0.1 |  |  |  | 438 |
+| Monomer 1 |  | Monomer 2 | rx | ±95% | r2 | ±95% | Conv. | Refs. |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| JV-Vinylimidazole |  | Acrylic acid | 0.187 | 0.025 | 1.932 | 0.077 | Y | 879 |
+| N-Vinylimidazole |  | Acrylonitrile | 0.832 | 0.044 | 3.393 | 0.008 | Y | 879 |
+| Af-Vinylimidazole |  | Fumarate, diethyl | 0.113 | 0.019 | 0.191 | 0.022 | Y | 879 |
+| N-Vinylimidazole |  | Fumarate, dimethyl | 0.133 | 0.021 | 0.252 | 0.015 | Y | 879 |
+| N-Vinylimidazole |  | Fumaric acid | 0.121 | 0.01 | 0.313 | 0.012 | Y | 879 |
+| N-Vinylimidazole |  | Maleate, diethyl | 0.057 | 0.028 | 0.106 | 0.147 | Y | 879 |
+| N-Vinylimidazole |  | Maleate, dimethyl | 0.046 | 0.046 | 0.046 | 0.438 | Y | 879 |
+| N-Vinylimidazole |  | Maleic acid | 0.018 | 0.007 | 0.094 | 0.027 | Y | 879 |
+| Af-Vinylimidazole |  | Methacrylate, methyl | 0.663 | 0.104 | 4.306 | 0.185 | Y | 879 |
+| Af-Vinylimidazole |  | Methacrylic acid | 0.145 | 0.022 | 1.384 | 0.034 | Y | 879 |
+| W-Vinylimidazole |  | Styrene | 0.68 | 0.02 | 8.377 | 0.149 | Y | 879 |
+| N-Vinylpyrolidone |  | Caprolactam, N-vinyl- | 2.8 | 0.2 | 1.7 | 0.2 |  | 883 |
+| AT-Vinylpyrolidone |  | Crotonate, hydrocortisone 21- | 0.75 | 0.02 | 0.05 | 0.05 |  | 1022 |
+| Af-Vinylpyrrolidone |  | 2-Oxazoline, 2-isopropenyl- | 0.01 | 0.02 | 3.5 | 1.2 |  | 894 |
+| Af-Vinylpyrrolidone |  | Acrylamido-2-methylpropane sulfonate | 0.13 |  | 0.66 |  |  | 939 |
+|  |  | sodium salt |  |  |  |  |  |  |
+| N-Vinylpyrrolidone |  | Acrylate, cyclohexyl | 0.122 | 0.014 | 1.297 | 0.088 |  | 1061 |
+| N-Vinylpyrrolidone |  | Carbamate, N-vinyl-t-butyl- | 0.4 | 0.06 | 2.4 | 0.5 |  | 991 |
+| Af-Vinylpyrrolidone |  | Ethene, 2-phenyl-1,1-dicyano- |  |  |  |  | Y | 947 |
+| AT-Vinylpyrolidone |  | Itaconate, bis(tri-n-butyltin) | 0.21 | 0.013 | 0.065 | 0.04 | Y | 941 |
+| N-Vinylpyrrolidone |  | Methacrylate, 2-acetylsalicylicoyloxy- | 0.34 |  | 0.85 |  |  | 1080 |
+|  |  | 3-hydroxypropyl |  |  |  |  |  |  |
+| N-Vinylpyrrolidone |  | Methacrylate, furfuryl | 0.0036 | 0.02 | 5.16 | 1.13 | Y | 1050 |
+| N-Vinylpyrrolidone | Af-Vinylpyrrolidone | Methacrylate, glycidyl Methacrylate, methyl | 0.003 0.006 | 0.018 2.29 | 4.29 4.78 | 0.498 0.236 |  | 1017 1084 |
+| N-Vinylpyrrolidone |  | Methacrylate, methyl | 0.014 | 0.899 | 5.93 | 0.198 |  | 1084 |
+| JV-Vinylpyrrolidone |  | Methacrylate, methyl | 0.027 | 0.062 | 2.07 | 0.247 |  | 1084 |
+| N-Vinylpyrrolidone |  | Methacrylate, methyl | 0.066 | 3.96 | 4.04 | 0.956 |  | 1084 |
+| N-Vinylpyrrolidone |  | Methacrylate, phenyl | -0.026 | 0.032 | 4.17 | 0.756 | Y | 1013 |
+| N-Vinylpyrrolidone |  | Pyridine, 2-methyl-5-vinyl- | 0.039 | 0.006 | 13 | 2 |  | 1070 |
+| N-Vinylpyrrolidone | N-Vinylpyrrolidone | Pyridine, 2-vinyl- Pyridine, 4-vinyl- | 0.014 0.01 | 0.002 0.002 | 12.4 9.8 | 2.3 1.5 |  | 1070 1070 |
+| Af-Vinylpyrrolidone | Af-Vinylpyrrolidone | Quinine Styrene sulfonate, sodium salt | 2.2 0.084 |  | 0.37 7.19 |  |  | 922 939 |
+| Af-Vinylpyrrolidone |  | Vinyl trimethylammonioethyl ether | 11.6 | 0.03 | 0 | 0.02 |  | 1037 |
+|  |  | iodide |  |  |  |  |  |  |
+| Naphthalene, 1-vinyl- |  | Acrylonitrile | 0.451 | 0.088 | 0.107 | 0.028 |  | 967 |
+| Naphthalene, 1-vinyl- |  | Methacrylate, methyl | 0.574 | 0.073 | 0.321 | 0.096 |  | 967 |
+| Naphthalene, 1-vinyl- |  | Styrene | 2.02 | 0.401 | 0.699 | 0.233 |  | 967 |
+| Naphthalene, 1-vinyl-4-chloro- |  | Styrene | 0.75 | 0.45 | 0.76 | 0.68 |  | 806 |
+| Naphthalene, 2-vinyl- |  | Styrene | 1.345 | 0.093 | 0.395 | 0.049 |  | 806 |
+| Naphthalene, 2-vinyl-6-chloro- |  | Styrene | 2.44 | 1.38 | 0.39 | 0.6 |  | 806 |
+| Naphthalene, 6-vinyl-2-tert-butyl |  | Styrene | 1.014 | 0.244 | 0.616 | 0.069 |  | 806 |
+| Nickel diacrylate |  | Titanium, dicylopentadienyl-, | 0.95 |  | 0.65 |  |  | 895 |
+|  |  | dimethacrylate |  |  |  |  |  |  |
+| Norbornadiene |  | Acrylate, ethyl | -0.01 | 0.03 | 2.39 | 0.44 | N | 267 |
+| Norbornadiene |  | Acrylonitrile | 0.05 | 0.23 | 0.48 | 0.27 | N | 267 |
+| Norbornadiene |  | Acrylonitrile | 0.44 | 0.05 | 0.66 | 0.01 | N | 69 |
+| Norbornadiene |  | Methacrylate, methyl | -0. 5 | 0.52 | 14.68 | 16.78 | N | 267 |
+| Norbornadiene |  | Styrene, p-chloro- | 0 | 0.12 | 69.93 | 24.19 | Y | 188 |
+| Norbornadiene |  | Vinyl acetate | 1.354 | 0.07 | 0.818 | 0.019 | Y | 188 |
+| Norbornadiene |  | Vinyl chloride | 0.41 | 0.01 | 0.67 | 0.02 | N | 267 |
+| Norbornadiene |  | Vinylidene chloride | 0.09 | 0.17 | 1.36 | 0.63 | N | 267 |
+| OcM-ene, 4,8-dioxaspiro(2.5)- |  | Styrene | 0.246 | 0.024 | 1.831 | 0.027 | Y | 838 |
+| Oct-1-ene, 6,6-dimethyl- |  | Acrylonitrile | 1.484 | 1.078 | 0.985 | 0.675 | Y | 838 |
+| 4,8-dioxaspiro(2.5)- |  |  |  |  |  |  |  |  |
+| Oct-1-ene, 6,6-dimethyl- |  | Pyridine, 2-vinyl- | 0.073 | 0.04 | 2.216 | 0.062 | Y | 838 |
+| 4,8-dioxaspiro(2.5)- |  |  |  |  |  |  |  |  |
+| Oct-1-ene, 6,6-dimethyl- |  | Pyrrolidone, N-vinyl- | 0.552 | 0.075 | -0.009 | 0.018 | Y | 838 |
+| 4,8-dioxaspiro(2.5)- |  |  |  |  |  |  |  |  |
+| Oct-1-ene, 6,6-dimethyl- |  | Styrene | 0.271 | 0.109 | 1.93 | 0.098 | Y | 838 |
+| 4,8-dioxaspiro(2.5)- |  |  |  |  |  |  |  |  |
+| Octene-1 |  | Vinyl chloride | -0.57 | 0.85 | 3.26 | 0.45 | N | 329 |
+| Oxazinium F3CSO3, 3-methyl-2-vinyl- 5,6-dihydro-4H-1,3- |  | Methacrylate, methyl | 0.31 |  | 0.37 |  |  | 909 |
+| Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 4,4-dimethyl |  |  |  |  |  |  |  |
+| 4,4-dimethyl |  |  |  |  |  |  |  |
+| 4,4-dimethyl |  |  |  |  |  |  |  |
+| 4,4-dimethyl |  |  |  |  |  |  |  |
+| Oxazoline, 2-, 4-acryloxymethyl- | Acrylate, methyl | 0.11 |  | 0.29 |  |  | 596 |
+| 2,4-dimethyl |  |  |  |  |  |  |  |
+| Oxazoline, 2-, 4-acryloxymethyl- | Methacrylate, methyl | 0.11 |  | 0.41 |  |  | 596 |
+| 2,4-dimethyl |  |  |  |  |  |  |  |
+| Oxazoline, 2-, 4-acryloxymethyl- | Styrene | 0.14 |  | 0.56 |  |  | 596 |
+| 2,4-dimethyl |  |  |  |  |  |  |  |
+| Oxazoline, 2-, 4-acryloxymethyl- | Vinyl acetate | 1.41 |  | 0.03 |  |  | 596 |
+| 2,4-dimethyl |  |  |  |  |  |  |  |
+| Oxazoline, 2-, 4-methacryloxy- | Acrylate, methyl | 0.56 |  | 0.4 |  |  | 596 |
+| 2,4-dimethyl Oxazoline, 2-, 4-methacryloxy- | Acrylonitrile | 0.89 |  | 0.11 |  |  | 596 |
+| 2,4-dimethyl |  |  |  |  |  |  |  |
+| Oxazoline, 2-, 4-methacryloxy- | Methacrylate, methyl | 0.19 |  | 1.17 |  |  | 596 |
+| 2,4-dimethyl |  |  |  |  |  |  |  |
+| Oxazoline, 2-, 4-methacryloxy- | Vinyl acetate | 6.2 |  | 0.05 |  |  | 596 |
+| 2,4-dimethyl |  |  |  |  |  |  |  |
+| Oxazolinium BF4, 3-methyl- | Acrylate, methyl | 0.251 | 0.483 | 0.096 | 0.057 | Y | 908 |
+| 2-isopropenyl-2- |  |  |  |  |  |  |  |
+| Oxazolinium BF4, 3-methyl- | Vinyl acetate | 0.413 | 0.005 | 0.114 | 0.021 | Y | 908 |
+| 2-isopropenyl-2- |  |  |  |  |  |  |  |
+| Oxazolinium, 2-, tetrafluoroborate | Acrylate, methyl | 0.344 | 0.105 | 0.552 | 0.043 | Y | 877 |
+| 3-methyl-2-isopropenyl |  |  |  |  |  |  |  |
+| Oxazolinium, 2-, tetrafluoroborate | Vinyl acetate | 0.366 | 0.151 | 0.43 | 0.057 | Y | 877 |
+| 3-methyl-2-isopropenyl |  |  |  |  |  |  |  |
+| Oxazolinium, 2-isopropenyl-2- | Acrylate methyl | 2.08 | 0.327 | 0.191 | 0.031 | Y | 908 |
+| Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Pentenoate, 3-oxo-4-, ethyl | Styrene | 3.29 | 0.712 | 0.233 | 0.069 | N | 930 |
+| Pentenoate, 3-oxo-4-, ethyl | Styrene | 1.57 | 0.193 | 0.161 | 0.028 | N | 930 |
+| Pentenoate, 3-oxo-4-, ethyl | Styrene | 1.29 | 0.309 | 0.215 | 0.051 | N | 930 |
+| Pentenoate, 3-oxo-4-, ethyl | Styrene | 1.4 | 0.322 | 0.189 | 0.05 | N | 930 |
+| Pentenoate, 3-oxo-4-, ethyl | Styrene | 0.923 | 0.075 | 0.179 | 0.014 | N | 930 |
+| Pentenoate, 3-oxo-4-, ethyl | Styrene | 1.12 | 0.112 | 0.178 | 0.02 | N | 930 |
+| Pentenoate, 3-oxo-4-, ethyl | Styrene | 0.568 | 0.035 | 0.217 | 0.009 | N | 930 |
+| Pentenoate, 3-oxo-4-, ethyl | Methacrylate, methyl | 3.39 | 0.263 | 0.555 | 0.032 | N | 1033 |
+| Pentenoate, 3-oxo-4-, ethyl | Methacrylate, methyl | 2.02 | 0.141 | 0.424 | 0.022 | N | 1033 |
+| Pentenoate, 3-oxo-4-, ethyl | Methacrylate, methyl | 3.06 | 0.349 | 0.591 | 0.046 | N | 1033 |
+| Pentenoate, 3-oxo-4-, ethyl | Methacrylate, methyl | 1.67 | 0.183 | 0.443 | 0.032 | N | 1033 |
+| Pentenoate, 3-oxo-4-, ethyl | Methacrylate, methyl | 1.24 | 0.168 | 0.34 | 0.031 | N | 1033 |
+| Pentenoate, 3-oxo-4-, ethyl | Methacrylate, methyl | 1.72 | 0.123 | 0.57 | 0.023 | N | 1033 |
+| Pentenoate, 3-oxo-4-, ethyl | Methacrylate, methyl | 1.69 | 0.236 | 0.606 | 0.045 | N | 1033 |
+| Pentenoate, 3-oxo-4-, ethyl | Methacrylate, methyl | 0.72 | 0.12 | 0.269 | 0.027 | N | 1033 |
+| Pentenoate, 3-oxo-4-, ethyl | Methacrylate, methyl | 1.55 | 0.224 | 0.715 | 0.048 | N | 1033 |
+| Pentenoate, 3-oxo-4-, ethyl | Methacrylate, methyl | 1.09 | 0.09 | 0.528 | 0.02 | N | 1033 |
+| Pentenoate, 4-methyl-3-oxo-4-, ethyl | Methacrylate, methyl | 2.56 | 0.218 | 0.597 | 0.03 | N | 1033 |
+| Pentenoate, 4-methyl-3-oxo-4-, ethyl | Methacrylate, methyl | 0.748 | 0.155 | 0.38 | 0.034 | N | 1033 |
+| Pentenoate, 4-methyl-3-oxo-4-, ethyl | Methacrylate, methyl | 1.14 | 0.109 | 0.513 | 0.022 | N | 1033 |
+| Pentenoate, 4-methyl-3-oxo-4-, ethyl | Methacrylate, methyl | 0.952 | 0.164 | 0.43 | 0.034 | N | 1033 |
+| Pentenoate, 4-methyl-3-oxo-4-, ethyl | Methacrylate, methyl | 1.67 | 0.143 | 0.474 | 0.023 | N | 1033 |
+| Pentenoate, 4-methyl-3-oxo-4-, ethyl | Methacrylate, methyl | 1.04 | 0.111 | 0.581 | 0.025 | N | 1033 |
+| Pentenoate, 4-methyl-3-oxo-4-, ethyl | Methacrylate, methyl | 1.05 | 0.108 | 0.616 | 0.024 | N | 1033 |
+| Pentenoate, 4-methyl-3-oxo-4-, ethyl | Methacrylate, methyl | 0.725 | 0.08 | 0.663 | 0.023 | N | 1033 |
+| Pentenoate, 4-methyl-3-oxo-4-, ethyl | Methacrylate, methyl | 1.09 | 0.09 | 0.528 | 0.02 | N | 1033 |
+|  | Acrylonitrile | 0.018 | 0.01 | 0.069 | 0.104 | Y | 912 |
+|  | Pentene-1, 2-methyl- | Vinyl chloride | -1.16 | 2.31 | 1.59 | 0.68 | N |
+|  | Pentene-1, 5-cyclohexyl- | Acrylonitrile | -0.043 | 0.044 | 4.22 | 0.45 | N |
+|  | Pentenoate, 3-oxo-4-, ethyl | Styrene | 0.747 | 0.073 | 0.164 | 0.015 | N |
+|  | Pentenoate, 3-oxo-4-, ethyl | Styrene | 0.635 | 0.068 | 0.162 | 0.015 | N |
+|  | Phosphate, 2-(acryloyloxy)ethyl diethyl | Styrene | 0.168 | 0.355 | 0.597 | 0.044 | N |
+| Monomer 1 |  | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Phosphate, 2-(acryloyloxy)ethyl diethyl |  | Styrene | 0.108 | 0.034 | 0.599 | 0.002 | N | 971 |
+| Phosphate, vinyl bis(chloroethyl) |  | Styrene | 0.03 | 0.23 | 2.47 | 0.78 | Y | 133 |
+| Phosphate, vinyl diethyl |  | Vinyl chloride | 0.15 | 0.047 | 3.4 | 0.21 | Y | 779 |
+| Phosphate, vinyl diethyl |  | Vinyl chloroacetate | 0.374 | 0.046 | 2.01 | 0.2 | Y | 779 |
+| Phosphate, vinyl diphenyl |  | Vinyl chloride | 0.327 | 0.023 | 3.009 | 0.077 | Y | 779 |
+| Phosphate, vinyl diphenyl |  | Vinyl chloroacetate | 0.53 | 0.12 | 1.42 | 0.15 | Y | 779 |
+| Phosphazene, isopropenylpentafluoro- |  | Styrene | -0.121 | 0.088 | 1.6 | 0.27 | Y | 765 |
+| Phosphazene, isopropenylpentafluoro- |  | Styrene, p-chloromethyl- | -0.048 | 0.067 | 1.64 | 0.58 | Y | 765 |
+| Phosphine oxide, diphenylvinyl- |  | Acrylonitrile | 0.16 |  | 3.8 |  |  | 843 |
+| Phosphine oxide, diphenylvinyl- |  | Vinyl acetate | 1.7 |  | 0.38 |  |  | 843 |
+| Phosphonate, 2-(4-vinylphenyl)ethyl,diethyl |  | Styrene | 1.36 |  | 0.55 |  |  | 796 |
+| Phosphonate, 4-vinylphenyl, diethyl |  | Styrene | 1.4 |  | 0.7 |  |  | 796 |
+| Phosphonate, a-bromovinyl-, diethyl |  | Methacrylate, methyl | 0.04 |  | 1.25 |  |  | 684 |
+| Phosphonate, a-carboethoxyvinyl-, diethyl |  | Methacrylate, methyl | 0.05 |  | 1 |  |  | 684 |
+| Phosphonate, a-carboethoxyvinyl-, diethyl |  | Phosphonate, vinyl-, diethyl | 0.55 |  | 0.62 |  |  | 684 |
+| Phosphonate, a-carboethoxyvinyl-, diethyl |  | Methacrylate, methyl | 0.01 |  | 4.7 |  |  | 684 |
+| Phosphonate, isopropenyl-, dimethyl |  | Methacrylate, methyl | 0.2 |  | 30 |  |  | 684 |
+| Phosphonate, isopropenyl-, dimethyl |  | Styrene | 0.23 |  | 8.6 |  |  | 684 |
+| Phosphonate, isopropenyl-, dimethyl |  | Vinyl acetate | 0.99 |  | 0.14 |  |  | 684 |
+| Phosphonate, vinyl-, bis(2-chloroethyl) |  | Ethylene | 7.73 | 2.19 | 0.077 | 0.003 | Y | 801 |
+| Phosphonate, vinyl-, bis(2-chloroethyl) |  | Methacrylate, methyl | 0.26 |  | 29.9 |  |  | 410 |
+| Phosphonate, vinyl-, bis(2-chloroethyl) |  | Styrene | 0.02 | 0.39 | 2.46 | 0.43 | Y | 133 |
+| Phosphonate, vinyl-, bis(2-chloroethyl) |  | Styrene | 0.16 |  | 2.3 |  |  | 410 |
+| Phosphonate, vinyl-, bis(2-chloroethyl) |  | Styrene | 0.2 |  | 2.2 |  |  | 485 |
+| Phosphonate, vinyl-, bis(2-chloroethyl) |  | Styrene | 0.18 |  | 6.32 |  |  | 592 |
+| Phosphonate, vinyl-, bis(2-chloroethyl) |  | Styrene | 0.18 |  | 6.32 |  |  | 594 |
+| Phosphonate, vinyl-, bis(2-chloroethyl) |  | Vinyl acetate | 0.85 |  | 0.09 |  |  | 592 |
+| Phosphonate, vinyl-, bis(2-chloroethyl) |  | Vinyl acetate | 0.85 |  | 0.09 |  |  | 594 |
+| Phosphonate, vinyl-, bis(2-chloroethyl) |  | Vinyl acetate | 0.47 |  | 0.33 |  |  | 595 |
+| Phosphonate, vinyl-, dibutyl |  | Styrene | -0.12 | 2.33 | 4.97 | 3.44 | Y | 129 |
+| Phosphonate, vinyl-, diethyl |  | Methacrylate, methyl | 0.04 |  | 11.1 |  |  | 684 |
+| Phosphonate, vinyl-, diethyl |  | Methacrylic acid | 0.15 |  | 1.9 |  |  | 431 |
+| Phosphonate, vinyl-, diethyl |  | Phosphonate, a-carbomethoxyvinyl-,diethyl | 0.62 |  | 0.55 |  |  | 684 |
+| Phosphonate, vinyl-, diethyl |  | Styrene | -0.15 | 2.18 | 4.36 | 4.27 | Y | 129 |
+| Phosphonate, vinyl-, diethyl |  | Styrene | -0.52 | 0.22 | 1.59 | 0.24 | Y | 18 |
+| Phosphonate, vinyl-, diethyl |  | Styrene | 0.02 |  | 2.45 |  |  | 592 |
+| Phosphonate, vinyl-, diethyl |  | Styrene | 0 |  | 3.88 |  |  | 684 |
+| Phosphonate, vinyl-, diethyl | Phosphonate, vinyl-, diethyl | Vinyl acetate Vinyl acetate | 0.74 0.6 |  | 0.04 0.09 |  |  | 592 684 |
+| Phosphonate, vinyl-, diisobutyl |  | Ethylene |  |  |  |  | Y | 801 |
+| Phosphonate, vinyl-, diisobutyl |  | Styrene | -0.32 | 1.46 | 3.87 | 1.59 | Y | 129 |
+| Phosphonate, vinyl-, dimethyl |  | Styrene | 0.4 |  | 4.61 |  |  | 129 |
+| Phosphonate, vinyl-, dimethyl |  | Styrene | 0.15 |  | 2.45 |  |  | 592 |
+| Phosphonate, vinyl-, dimethyl |  | Styrene | 0.02 |  | 2.45 |  |  | 594 |
+| Phosphonate, vinyl-, dimethyl |  | Vinyl acetate | 0.74 |  | 0.04 |  |  | 592 |
+| Phosphonate, vinyl-, dimethyl |  | Vinyl acetate | 0.74 |  | 0.04 |  |  | 594 |
+| Phosphonate, vinyl-, diphenyl |  | Ethylene | 1.66 | 2.22 | 0.088 | 0.01 | Y | 801 |
+| Phosphonate, vinyl-, diphenyl |  | Styrene | -0.38 | 0.29 | 1.74 | 0.16 | Y | 129 |
+| Phosphonic acid, a-phenylvinyl |  | Vinylidene cyanide | 0.1 |  | 4.58 |  |  | 921 |
+| Phosphonic acid, a-phenylvinyl- |  | Acrylic acid | 0.04 | 0.83 | 0.7 | 0.13 | Y | 132 |
+| Phosphonic acid, a-phenylvinyl- |  | Acrylonitrile | -0.45 | 0.41 | 0.34 | 0.12 | Y | 132 |
+| Phosphonic acid, a-phenylvinyl- |  | Acrylonitrile | 0 |  | 2.36 |  |  | 590 |
+| Phosphonic acid, a-phenylvinyl- |  | Butadiene, 2,3-dichloro- | 0.07 |  | 7.75 |  |  | 588 |
+| Phosphonic acid, a-phenylvinyl- |  | Butadiene, 2,3-dichloro- | 0.07 |  | 7.75 |  |  | 597 |
+| Phosphonic acid, a-phenylvinyl- |  | Butadiene, 2-chloro- | 0.1 |  | 7.5 |  |  | 546 |
+| Phosphonic acid, a-phenylvinyl- |  | Butadiene, 2-chloro- | 0.1 |  | 7.5 |  |  | 597 |
+| Phosphonic acid, a-phenylvinyl- |  | Methacrylate, methyl | -0.063 | 0.077 | 1.362 | 0.084 | Y | 131 |
+| Phosphonic acid, a-phenylvinyl- |  | Methacrylonitrile | 0 |  | 2.24 |  |  | 590 |
+| Phosphonate, vinyl-, diisopropyl |  | Styrene | -0.52 | 2.52 | 2.57 | 2.13 | Y | 129 |
+| Phosphonate, vinyl-, dimethyl |  | Butadiene, 2-chloro- | 0.1 |  | 7.5 |  |  | 594 |
+| Phosphonate, vinyl-, dimethyl |  | Styrene |  |  |  |  | Y | 129 |
+| Phosphonate, vinyl-, dipropyl |  | Styrene | -0.41 | 0.72 | 3.81 | 0.68 | Y | 129 |
+| Phosphonic acid, a-phenylvinyl- |  | Methacrylic acid | 0.17 | 0.3 | 1.49 | 0.16 | Y | 130 |
+| Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Pinene, α- | Methacrylate, methyl | 0.08 |  | 10 |  |  | 848 |
+| Piperidinol, 4-, N-methyl-4-(vinylethynyl)- | Maleimide | 2.05 | 0.03 | 0.49 | 0.01 |  | 773 |
+| Propanesulfonate, 3-[diethyl- | Acrylate, ethyl | 0.19 | 0.02 | 3.97 | 1.03 | Y | 962 |
+| [2-(2-methacroyloxyethoxy)ethyl] | Propene, 3,3,3-trichloro- | Acrylonitrile | 0.1 |  | 12.2 |  | 402 |
+| Propene, 3,3,3-trichloro- | Vinyl acetate | 0.19 | 0.19 |  |  |  | 402 |
+| Propene, 2-chloro- | Vinyl chloride | 0.58 | 0.75 |  |  |  | 517 |
+| Propenyl, 2-, acetate | Vinyl chloride | 0.25 |  | 2.2 |  |  | 189 |
+| Propenyl, 2-chloro-, acetate | Acrylate, methyl | 0 |  | 0.7 |  |  | 445 |
+| Propenyl, 2-chloro-, acetate | Acrylic acid | 0 |  | 1 |  |  | 445 |
+| Propenyl, 2-chloro-, acetate | Methacrylate, methyl | 0 |  | 1 |  |  | 445 |
+| Propenyl, 2-chloro-, acetate | Styrene | 0 |  | 4.1 |  |  | 445 |
+| Propenyl, 2-chloro-, acetate | Vinyl chloride | 0 |  | 0.7 |  |  | 445 |
+| Propenyl, 2-methyl-, acetate | Methacrylate, methyl | 0 |  | 10 |  |  | 470 |
+| Propenyl, 2-methyl-, acetate | Styrene | 0 |  | 71 |  |  | 470 |
+| Propenyl, 2-methyl-, acetate | Vinylidene chloride | 0 |  | 2.4 |  |  | 470 |
+| Propenyltriethoxysilane | Vinyl chloride | Y |  | 237 |  |  |  |
+| Propylene | Acrylic acid | Y |  | 183 |  |  |  |
+| Propylene | Ethylene | 3.43 |  | 388 |  |  |  |
+| Propylene | Vinyl chloride | 0.09 | 2.45 |  |  |  | 560 |
+| Propylene | Vinyl chloride | 2.9 |  | 588 |  |  |  |
+| Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Pyridazinone, 3-(2-vinyl)-6-methyl- | Acrylonitrile | 0.19 | 0.04 | 0.32 | 0.02 | N | 340 |
+| Pyridazinone, 3-(2-vinyl)-6-methyl- | Methacrylate, methyl | 0.56 | 0.04 | 0.86 | 0.02 | N | 340 |
+| Pyridazinone, 3-(2-vinyl)-6-methyl- | Styrene | 0.85 | 0.05 | 0.9 | 0.03 | N | 340 |
+| Pyridazinone, 3-(2-vinyl)-6-methyl- | Acrylonitrile | 0.02 | 0.02 | 0.74 | 0.02 | N | 340 |
+| 4,5-dihydro-Pyridazinone, 3-(2-vinyl)-6-methyl- | Methacrylate, methyl | 0.08 | 0.03 | 1.19 | 0.04 | N | 340 |
+| 4,5-dihydro- |  |  |  |  |  |  |  |
+| Pyridazinone, 3-(2-vinyl)-6-methyl- | Styrene | 0.13 | 0.03 | 5.92 | 0.1 | N | 340 |
+| 4,5-dihydro- |  |  |  |  |  |  |  |
+| Pyridazone, 2-vinyl-6-methyl-4,5-benz-3- | Methacrylate, methyl | 0.27 |  | 1.65 |  |  | 897 |
+| Pyridazone, 2-vinyl-6-methyl-4,5-benz-3- | Styrene | 0.24 |  | 0.7 |  |  | 897 |
+| Pyridine, 2-methyl-5-vinyl- | Sulfonic acid, o-methacryloyl-aminobenzene | -0.002 | 0.031 | 1.83 | 0.218 | Y | 1006 |
+| Pyridine, 2-methyl-5-vinyl- | Sulfonic acid, p-methacryloyl-aminobenzene | -0.054 | 0.048 | 2.72 | 0.525 | Y | 1006 |
+| Pyridine, 2-vinyl- | Acetylene, phenyl- |  |  |  |  | Y | 192 |
+| Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Pyridine, 2-vinyl- | Oct-1-ene, 6,6-dimethyl-4,8-dioxaspiro | 2.216 | 0.062 | 0.073 | 0.04 | Y | 838 |
+| Pyridine, 4-vinyl- | Isoprene | 2.49 | 0.09 | 0.32 | 0.04 | N | 424, 342 |
+| Pyridine, 4-vinyl- | Vinyl chloride |  |  |  |  | Y | 154 |
+| Pyrimidine-2-one, 1,3-divinylhexahydro- | Acrylate, ethyl | -0.05 | 0.03 | 0.59 | 0.13 | N | 800 |
+| 5-methyl- |  |  |  |  |  |  |  |
+| 5-methyl- |  |  |  |  |  |  |  |
+| 5-methyl- |  |  |  |  |  |  |  |
+| Pyrrolidone, N-vinyl- | Acenaphthalene |  |  |  |  | N | 326 |
+| Pyrrolidone, N-vinyl- | Acrylonitrile |  |  |  |  | Y | 213 |
+| Pyrrolidone, N-vinyl- | Dioxolane, 1,3,4-methylene-2-trichlor | 2.98 |  | 0.04 |  |  | 647 |
+| Pyrrolidone, N-vinyl- | Dioxolane, 1,3-, 4,4-dimethyl-5-methyl | 3.87 |  | 0.01 |  |  | 647 |
+| Pyrrolidone, N-vinyl- | Maleimide, N-(2-hydroxyethyl)- | 0.002 | 0.002 | 0.038 | 0.01 | Y | 323, 657 |
+| Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Pyrrolidone, N-vinyl- | Methacrylate, ferrocenylmethyl | 0.073 | 0.096 | 2.57 | 2.77 | Y | 325 |
+| Pyrrolidone, N-vinyl- | Oct-1-ene, 6,6-dimethyl-4,8-dioxaspiro | -0.009 | 0.018 | 0.552 | 0.075 | Y | 838 |
+| Pyrrolidone, N-vinyl- | Triazine, 2-allyloxy-4,6-dichloro- | 0.98 |  | 0.5 |  |  | 826 |
+| Pyrrolidone, N-vinyl- | Vinyl cymantrene | 0.037 | 0.03 | 0.093 | 0.053 | Y | 308 |
+| Pyrrolidone, N-vinyl- | Vinylene carbonate | 1.08 | 0.11 | 0.056 | 0.059 | Y | 103 |
+| S-Ethyl N-vinyl-N-methylthiolcarbamate | Styrene | -0.11 | 0.26 | 10 | 1.72 | Y | 197 |
+| S-Ethyl N-vinyl-N-methylthiolcarbamate | Vinyl acetate | 1.22 | 1.17 | 0.67 | 0.1 | Y | 197 |
+| S-Vinyl N,N-diethylthiolcarbamate | Styrene | 0.1 | 0.34 | 4.45 | 0.48 | Y | 197 |
+| S-Vinyl N,N-diethylthiolcarbamate | Vinyl acetate | 1.89 | 0.77 | 0.133 | 0.025 | Y | 197 |
+| Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Styrene | Acrylamido, 1-,1-deoxy-D-glucitol | 2.42 | 0.08 | 0.03 | 0.02 | N | 258 |
+| Styrene | Acrylamidomethylamino, p-, azobenzene | 0.083 |  | 8.5 |  |  | 858 |
+| Styrene | Acrylate, 2-chloroethylglucitol | 0.49 | 0.2 | 0.14 | 0.09 |  | 806 |
+| Styrene | Acrylate, 2-nitrobutyl | 0.35 | 0.03 | 0.12 | 0.01 | N | 234 |
+| Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Styrene | Acrylate, di-, nickel | 1.83 | 0.02 | 0.53 | 0.06 | N | 829 |
+| Styrene | Acrylate, diethylaluminum | -0.002 | 0.016 | 0.046 | 0.035 | Y | 652 |
+| Styrene | Acrylate, diethylaluminum |  |  |  |  | Y | 652 |
+| Styrene | Acrylate, ferrocenylmethyl | 1.87 | 0.17 | -0.016 | 0.06 | Y | 293 |
+| Styrene | Acrylate, ferrocenylmethyl | 2.3 |  | 0.02 |  |  | 293 |
+| Styrene | Acrylate, ferrocenylmethyl | 2.5 |  | 0.02 |  |  | 576 |
+| Styrene | Styrene |  |  |  |  |  |  |
+| Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Acrylate, butyl | Itaconate, bis(tri-n-butyltin) | 0.91 |  | 0.422 |  |  | 940 |
+| Acrylate, butyl | Methacrylate, 2-chloro-2,3,3,3-fluoropropyl | 0.079 | 0.304 | 0.221 | 0.636 | N | 927 |
+| Acrylate, butyl | Styrene, p-1-(2-hydroxybutyl)- | 0.17 |  | 0.4 |  |  | 548 |
+| Acrylate, butyl | Styrene, p-octylamine sulfonate | 0.3 |  | 2.3 |  |  | 817 |
+| Acrylate, butyl | Vinyl, p-, benzylethylcarbinol | 0.17 |  | 0.4 |  |  | 591 |
+| Acrylate, butyl | Vinylanthracene, 9- | 3.717 | 0.046 | 0.126 | 0.054 | Y | 123 |
+| Acrylate, cis-β-cyano-, methyl | Acrylonitrile |  |  |  |  | N | 1034 |
+| Acrylate, cis-β-cyano-, methyl | Styrene |  |  |  |  | N | 1034 |
+| Acrylate, di-, copper | Methacrylate, di-, dicyclopentadienyl-titanium | 1.09 |  | 0.89 |  |  | 876 |
+| Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Styrene | Acrylate, thio-, butyl | 0.439 | 0.14 | 0.421 | 0.17 |  | 806 |
+| Styrene | Acrylate, thio-, ethyl | 0.18 | 0.038 | 0.291 | 0.075 |  | 806 |
+| Styrene | Acrylate, thio-, tert-butyl | 0.157 | 0.034 | 0.368 | 0.055 |  | 806 |
+| Styrene Styrene | Acrylic acid Acrylic acid | 0.15 0.22 |  | 0.25 0.35 |  |  | 397 414 |
+| Styrene | Acrylic acid, N-acetyl-a-amino- | 0.91 |  | 0.44 |  |  | 661 |
+| Styrene Styrene | Acrylonitrile Acrylonitrile | 0.4 0.36 |  | 0.05 0.03 |  |  | 269 396 |
+|  | Acrylonitrile | 0.33 |  | 0.17 |  |  | 727 |
+| Styrene | Acrylonitrile, a-chloro- | 0.13 | 0.04 | 0.03 | 0.02 |  | 806 |
+| Styrene | Acryloyloxy, 2-, benzoic acid | 0.06 | 0.02 | 0.64 | 0.02 | N | 651 |
+| Styrene | Allyl chloride |  |  |  |  | Y | 204 |
+| Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Styrene | Azobenzene, 4-(acrylamidomethylamino)- | 0.083 | 8.5 |  |  |  | 880 |
+| Styrene | Benzothiazolone, N-[(methacroyloxy)methyl] | 0.35 | 0.02 | 3.1 | 0.01 |  | 960 |
+| Styrene | Bicyclo[2,2,1]hept-2-ene-5,6-dicarboximide, N-benzyl | 18.2 |  | 0 |  |  | 994 |
+| Styrene | Bicyclo[2,2,1]hept-2-ene-5,6-dicarboximide, N-benzyl | 89.2 |  | 0 |  |  | 994 |
+| Styrene | Borazine, β-vinyl | 4.53 | 0.62 | 0.001 | 0.016 |  | 1018 |
+| Styrene | Butenoate, 3-phenyl-3-, methyl | 1.97 | 0.364 | -0.532 | 0.512 | Y | 1008 |
+| Styrene | Cinnamate, α-cyano-, ethyl |  |  |  |  | Y | 134 |
+| Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Styrene | Cinnamide, N,N-diethyl- | 4.17 |  | 0.01 |  |  | 737 |
+| Styrene | Cinnamide, p-chloro-, N,N-diethyl- | 2.99 |  | 0.01 |  |  | 737 |
+| Styrene | Cinnamide, p-methyl-, N,N-diethyl- | 4.95 |  | 0.01 |  |  | 737 |
+| Styrene | Cinnamonitrile, α-cyano- |  |  |  |  | Y | 134 |
+| Styrene | Citraconimide, β-iso-,N-(4-acetylphenyl)- | 0.42 |  | 0 |  |  | 608 |
+| Styrene | Citraconimide, β-iso-,N-(4-chlorophenyl)- | 0.28 |  | 0 |  |  | 608 |
+| Styrene | Citraconimide, β-iso-,N-(4-ethoxycarbonylphenyl)- | 0.3 |  | 0 |  |  | 608 |
+| Styrene | Citraconimide, β-iso-,N-(4-methoxyphenyl)- | 0.27 |  | 0 |  |  | 608 |
+| Styrene | Citraconimide, β-iso-, N-(p-tolyl)- | 0.4 |  | 0 |  |  | 608 |
+| Styrene | Citraconimide, β-iso-, N-phenyl- | 0.39 |  | 0 |  |  | 608 |
+| Styrene | Citraconimide, N-allyl | 0.142 |  | 0.004 |  |  | 959 |
+| Styrene | Citraconimide, α-iso-,N-(4-acetylphenyl)- | 0.81 |  | 0 |  |  | 608 |
+| Styrene | Citraconimide, α-iso-,N-(4-chlorophenyl)- | 1.03 |  | 0 |  |  | 608 |
+| Styrene | Citraconimide, α-iso-,N-(4-ethoxycarbonylphenyl)- | 0.96 |  | 0 |  |  | 608 |
+| Styrene | Citraconimide, α-iso-,N-(4-methoxyphenyl)- | 0.39 |  | 0 |  |  | 608 |
+| Styrene | Citraconimide, α-iso-, N-(p-tolyl)- | 1.69 |  | 0 |  |  | 608 |
+| Styrene | Citraconimide, α-iso-, N-phenyl- | 1.76 |  | 0 |  |  | 608 |
+| Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Styrene | Crotonate, a-carboethoxy-, ethyl | 8.24 |  | 0 |  |  | 785 |
+| Styrene | Cyclopentene, 4-, -1,3-dione |  |  |  |  | Y | 263 |
+| Styrene | Dihydroxydiphenylsulfone diallyl ether | 0.975 | 0.015 | 0.92 | 0.16 |  | 1016 |
+| Styrene | Dithiane, 2-methylene-1,3- | 0.03 |  | 3.35 |  |  | 1031 |
+| Styrene | Divinylbenzene, m- | 0.58 | 0.15 | 0.58 | 0.04 | N | 262 |
+| Styrene | Divinylbenzene, p- | 0.26 | 0.25 | 1.18 | 0.17 | N | 262 |
+| Styrene | Ethylene, tetrachloro- |  |  |  |  | Y | 204 |
+| Styrene | Ethylene, tetrachloro- | 200 |  |  |  | Y | 204 |
+|  | ethylthioacetal |  |  |  |  |  |  |
+| Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Styrene | Fumaronitrile |  |  |  |  | Y | 191 |
+| Styrene | Fumaronitrile |  |  |  |  | Y | 77 |
+| Styrene | Fumaryl chloride |  |  |  |  | Y | 91 |
+| Styrene | Furan, 2,3-dihydro- | 20 |  | 0 |  |  | 806 |
+| Styrene | Isoprene, 3-acetoxy- | 0.34 |  | 4.47 |  |  | 770 |
+| Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Styrene | Isopropenyl, 3-(1-cyclohexenyl), acetate | 1.59 |  | 0.56 |  |  | 770 |
+| Styrene | Isopropenylacetophenone, p- | 0.3 | 0.18 | 0.84 | 0.59 | Y | 266 |
+| Styrene | Isopropylidene, 2,3:4,5-di-O-, -1-vinylbenzyl | 0.14 | 0.055 | 3.26 | 1.12 | Y | 772 |
+| Styrene | Itaconate, di-2[-2(2-methoxyethoxy)-ethoxy]ethyl | 0.53 | 0.022 | 0.2 | 0.015 |  | 1098 |
+| Styrene | Itaconate, dimethyl |  |  |  |  | N | 39 |
+| Monomer 1 | Monomer 2 | rx | ±95% | r2 | ±95% | Conv. | Refs. |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|  | N-(4-ethoxycarbonylphenyl) |  |  |  |  |  |  |
+| Styrene | Itaconimide, N-ethyl | 0.232 | 0.029 | 0.172 | 0.06 | Y | 642 |
+|  | N-3-dimethylamino-6-methyl | 0.55 | 0.03 | -0.19 | 0.03 | N | 679 |
+| Styrene | Maleate, butyl stannyl, allyl | 2.07 | 0.14 | -0.043 | 0.021 | Y | 811 |
+| Styrene | Maleate, diethyl |  |  |  |  | Y | 14 |
+| Styrene | Maleic anhydride | 0.02 |  |  |  |  | 384 |
+|  | α-chloro- |  |  |  |  |  |  |
+|  | α-chloro- |  |  |  |  |  |  |
+|  | α-chloro- |  |  |  |  |  |  |
+| Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Styrene | Maleimide, N-[N'-(α-methylbenzyl)-aminocarbonylundecyl]- |  |  |  |  | Y | 1099 |
+| Styrene | Maleimide, N-butyl- |  |  |  |  | Y | 115 |
+| Styrene | 4-(2-chlorophenyl)-Maleimide, N,N-dimethylaniline, | 0.05 | 0.04 |  |  |  | 747 |
+| Styrene | Mesaconate, di-sec-butyldithiol | 0.45 |  | 0.02 |  |  | 624 |
+| Styrene | Mesaconate, dibenzyldithiol | 0.28 |  | 0.06 |  |  | 624 |
+| Styrene | Mesaconate, dibutyldithiol | 0.41 |  | 0.03 |  |  | 624 |
+| Styrene | Mesaconate, diethyldithiol | 0.4 |  | 0.03 |  |  | 624 |
+| Styrene | Mesaconate, diisobutyldithiol | 0.41 |  | 0.03 |  |  | 624 |
+| Styrene | Mesaconate, diisopropyldithiol | 0.44 |  | 0.05 |  |  | 624 |
+| Styrene | Mesaconate, dimethyldithiol | 0.35 |  | 0.07 |  |  | 624 |
+| Styrene | Mesaconate, diphenyldithiol | 0.16 | 0.15 |  |  |  | 624 |
+| Styrene | Mesaconate, dipropyldithiol | 0.39 |  | 0.06 |  |  | 624 |
+| Styrene | Methacrylamide, 1-deoxy-D-glucitol | 2.09 |  | 0.005 |  |  | 258 |
+| Styrene | Methacrylate, 2,2,6,6,-tetramethyl-4-piperidinyl | 0.63 | 0.3 |  |  |  | 664 |
+| Styrene | Methacrylate, 2,3-epithiopropyl | 0.41 | 0.28 |  |  |  | 787 |
+| Styrene | Methacrylate, 2-(sulfonic acid)ethyl | 0.37 | 0.6 |  |  |  | 564 |
+| Styrene | Methacrylate, 2-bromoethyl | 0.32 | 0.41 |  |  |  | 657 |
+| Styrene | Methacrylate, 2-chloro-2,3,3,3-fluoropropyl | 0.121 | 0.068 | 0.243 | 0.15 | N | 927 |
+| Styrene | Methacrylate, 2-chloroethyl | 0.42 | 0.23 |  |  |  | 382 |
+| Styrene | Methacrylate, 2-hydroxyethyl | 0.5 | 1.65 |  |  |  | 878 |
+| Styrene | Methacrylate, 2-hydroxyethyl | 0.59 | 0.53 |  |  |  | 878 |
+| Styrene | Methacrylate, 2-hydroxyethyl | 0.53 | 0.59 |  |  |  | 903 |
+| Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|  | 2-aminoethyl |  |  |  |  |  |  |
+| Styrene | Methacrylate, α-naphthoyloxy-, ethyl | 0.216 | 0.043 | 0.242 | 0.018 | Y | 1102 |
+| Styrene Styrene | Methacrylate, butyl Methacrylate, butyl | 0.63 0.54 |  | 0.64 0.64 |  |  | 530 530 |
+| Styrene Styrene | Methacrylate, ethyl Methacrylate, ferrocenylmethyl | 0.55 3.63 | 0.14 | 0.33 -0.019 | 0.022 | Y | 570 293 |
+| Styrene | Methacrylate, ferrocenylmethyl | 3.6 |  | 0.01 |  |  | 576 |
+| Styrene Styrene | Methacrylate, glycidyl Methacrylate, glycidyl | 0.54 0.278 | 0.07 0.086 | 0.16 0.539 | 0.03 0.04 | N Y | 114 217 |
+| Styrene | Methacrylate, m-nitrophenyl | 0.44 | 0.16 | 0.185 | 0.054 | Y | 177 |
+| Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Styrene | Methacrylate, methyl Methacrylate, methyl | 0.497 0.432 |  | 0.464 0.422 |  |  | 824 824 |
+| Styrene | Methacrylate, /?-(cinnamoylamino)-phenyl | 0.62 |  | 0.31 |  |  | 685 |
+| Styrene | Methacrylate,/7-carbomethoxyphenyl | 0.482 | 0.084 | 0.178 | 0.027 | Y | 177 |
+| Styrene | Methacrylate, p-nitrophenyl | 0.223 | 0.09 | 0.185 | 0.039 | Y | 177 |
+| Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Acrylate, di-, nickel | Methacrylate, di-, dicyclo-pentadienyltitanium | 0.95 |  | 0.65 |  |  | 876 |
+|  | Styrene | 0.53 | 0.06 | 1.83 | 0.02 | N | 829 |
+| Acrylate, dibutylchlorotin | Acrylate, methyl | 0.09 |  | 0.81 |  |  | 659 |
+| Acrylate, diethylaluminum | Styrene | 0.046 | 0.035 | -0.002 | 0.016 | Y | 652 |
+| Acrylate, diethylaluminum | Styrene |  |  |  |  | Y | 652 |
+| Acrylate, ethyl | Acrylonitrile | 0.81 | 0.27 | 1.16 | 0.78 | N | 198, 389 |
+|  | Ethylene, 1,1-diphenyl- | 0.8 |  | 0.5 |  |  | 65 |
+|  | N-(2-methacryloyloxy)ethyl |  |  |  |  |  |  |
+| Acrylate, ethyl | Methacrylic acid |  |  |  |  | N | 1065 |
+| Acrylate, ethyl | Propanesulfonate, 3-[diethyl-2-(2-methacryloyloxyethoxy)]ethyl | 3.97 | 1.03 | 0.19 | 0.02 | Y | 962 |
+| Acrylate, ethyl | Pyridine, 2-vinyl- | 0.21 | 0.06 | 2.25 | 0.1 | N | 250, 832 |
+| Acrylate, ethyl | Pyrimid-2-one, 1,3-divinylhexahydro- | 0.59 | 0.13 | -0.05 | 0.03 | N | 800 |
+| Acrylate, ethyl | Styrene | 0.152 |  | 0.787 |  |  | 673, 677 |
+| Acrylate, ethyl | Styrene 3-tri-n-butylstannyl- | 10.4 |  | 0.01 |  |  | 985 |
+| Acrylate, ethyl | Tropone, 2-methacryloyloxy- | 0.387 | 0.027 | 3.13 | 0.528 | Y | 1104 |
+| Acrylate, ethyl | Vinylanthracene, 9- | 3.498 | 0.041 | 0.295 | 0.056 | Y | 123 |
+| Acrylate, ferrocenylmethyl | Acrylate, methyl | 0.14 |  | 4.46 |  |  | 293 |
+| Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Styrene | Methacryloyloxy, 2-, benzoate, methyl | 0.27 | 0.04 | 0.48 | 0.02 | N | 651 |
+| Styrene | Methacryloyloxy, 4-,2,2,6,6-tetramethyl | 0.6 |  | 0.32 |  |  | 687 |
+| Styrene | Naphthalene, 6-vinyl-2-tert-butyl | 0.616 | 0.069 | 1.014 | 0.244 |  | 806 |
+| Styrene | Oct-1-ene, 4,8-dioxaspiro(2,5)- | 1.831 | 0.027 | 0.246 | 0.024 | Y | 838 |
+| Styrene | Oct-1-ene, 6,6-dimethyl-4,8-dioxaspiro | 1.93 | 0.098 | 0.271 | 0.109 | Y | 838 |
+| Styrene | Oxazoline, 2-, 2-isopropenyl-, 4,4-dimethyl | 0.55 |  | 0.68 |  |  | 596 |
+| Styrene | Oxazoline, 2-, 4-acryloxymethyl-,2,4-dimethyl | 0.56 |  | 0.14 |  |  | 596 |
+| Styrene | Penten, 2-, -4-one | 13.84 | 0.57 | -0.033 | 0.055 | Y | 112 |
+| Styrene | Phosphazene, isopropenylpentafluoro- | 1.6 | 0.27 | -0.121 | 0.088 | Y | 765 |
+| Styrene | Phosphonate, 2-(4-vinylphenyl)ethyl, diethyl | 0.55 |  | 1.36 |  |  | 796 |
+| Styrene | Phosphonate, 4-vinylphenyl, diethyl | 0.7 |  | 1.4 |  |  | 796 |
+| Styrene | Phosphonate, a-carbomethoxyvinyl-, diethyl | 3.88 |  | 0 |  |  | 684 |
+| Styrene | Phosphonate, vinyl-, dimethyl |  |  |  |  | Y | 129 |
+| Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Styrene | Phosphonate, vinyl-, diphenyl | 1.74 | 0.16 | -0.38 | 0.29 | Y | 129 |  |
+| Styrene | Phosphonate, vinyl-, dipropyl | 3.81 | 0.68 | -0.41 | 0.72 | Y | 129 |  |
+| Styrene | Phthalimide, N-vinyl- | 6.27 | 0.66 | 0.07 | 0.11 | Y | 163 |  |
+| Styrene | Propene, 2,3-dichloro- | 3.51 | 0.18 | 0.05 | 0.01 | N | 11 |  |
+| Styrene | Propene, 2,3-dichloro- | 3 | 0.036 |  |  |  | 983 |  |
+| Styrene | Propene, 2-chloro-3-hydroxy- | 12.5 | 0 |  |  |  | 445 |  |
+| Styrene | Propene, 3,3,3-trichloro- | 6.9 | 0 |  |  |  | 402 |  |
+| Styrene | Propene, 3-chloro-2-chloromethyl- | 3.37 | 0.73 | 0.01 | 0.1 |  | 806 |  |
+| Styrene | Propneyl methyl ketone | 18.12 | 6.09 | 0.08 | 0.3 |  | 445 |  |
+| Styrene | Propenyl, 2-chloro-, acetate | 4.1 | 0 |  |  |  | 445 |  |
+| Styrene | Propenyl, 2-methyl, acetate | 71 | 0 |  |  |  | 470 |  |
+| Styrene | Propiolactam, N-phenyl-a-methylene- | 0.626 | 0.025 | 0.406 | 0.106 | Y | 1002 |  |
+| Styrene | Pyrazole, N-vinyl-3,5-dimethyl- | 8.663 | 0.196 | 0.049 | 0.011 |  | 806 |  |
+| Styrene | Pyridazinone, 3-(2-vinyl)-6-methyl- | 0.9 | 0.03 | 0.85 | 0.05 | N | 340 |  |
+| Styrene | Pyridazinone, 3-(2-vinyl)-6-methyl- | 5.92 | 0.1 | 0.13 | 0.03 | N | 340 |  |
+| Styrene | Pyridine, 2-methyl-5-vinyl- | 0.74 | 0.03 | 0.75 | 0.08 | N | 232 |  |
+| Styrene | Pyridine, 2-methyl-5-vinyl- | 0.6 |  | 0.68 |  |  | 500 |  |
+| Styrene | Pyridine, 2-methyl-5-vinyl- | 0.72 | 1.2 |  |  |  | 514 |  |
+| Styrene | Pyridine, 2-methyl-5-vinyl- | 0.73 | 0.03 | 0.78 | 0.23 | N | 56 |  |
+| Styrene | Pyridine, 2-vinyl- | 0.46 | 0.15 | 0.75 | 0.32 | N | 231 |  |
+| Styrene | Pyridine, 2-vinyl- | 0.5 |  | 1.27 |  |  | 41 |  |
+| Styrene | Pyridine, 2-vinyl- | 0.55 | 1.81 |  |  |  | 456 |  |
+| Styrene | Pyridine, 2-vinyl- | 0.57 | 1.33 |  |  |  | 499 |  |
+| Styrene | Pyridine, 2-vinyl- | 0.55 | 1.14 |  |  |  | 532 |  |
+| Styrene | Pyridine, 2-vinyl-5-ethyl- | 0.74 | 0.05 | 1.09 | 0.12 | N | 231 |  |
+| Styrene | Pyridine, 3-ethynyl-6-methyl- | 2.3 | 0.15 |  |  |  | 784 |  |
+| Styrene | Pyridine, 4-vinyl- | 0.52 | 0.07 | 0.69 | 0.16 | N | 231 |  |
+| Styrene | Pyridine, 4-vinyl- | -0.73 | 1.09 | 1.04 | 0.22 | Y | 79 |  |
+| Styrene | Pyridine, N-oxide-, 2-vinyl-5-ethyl- | 0.06 | 0.11 | 2.27 | 0.88 |  | 806 |  |
+| Styrene | Pyrimidine, 2-N,N-dimethylamino- | 0.338 | 0.017 | 1.404 | 0.071 | Y | 243 |  |
+| Styrene | Pyrimidine, 4-vinyl- | 0.219 | 0.095 | 2.38 | 1.06 | Y | 243 |  |
+| Styrene | Pyrrolidone, 1-benzyl-3-methylene- | 0.555 | 0.053 | 0.71 | 0.17 | Y | 633 |  |
+| 5-methyl | Styrene | Pyrrolidone, N-vinyl- | 17.2 | 1.55 | 0.057 | 0.028 | Y | 36 |
+| Styrene | Quinoline, 2-vinyl- | 0.49 | 2.09 |  |  |  | 456 |  |
+| Styrene | Quinoline, 2-vinyl- | 0.49 | 2.69 |  |  |  | 458 |  |
+| Styrene | S-Ethyl N-vinyl-N-methylthiol-carbamate | 10 | 1.72 | -0.11 | 0.26 | Y | 197 |  |
+| Styrene | S-Vinyl N,N-diethylthiolcarbamate | 4.45 | 0.48 | 0.1 | 0.34 | Y | 197 |  |
+| Styrene | Silane, y-methacryloxypropyl- | 0.425 | 0.048 | 0.868 | 0.096 | Y | 977 |  |
+| trimethoxy- | Styrene | Stilbene | 3.92 | 0.17 | 0 | 0.09 | N | 725 |
+| Styrene | Styrene, 2,4-dibromo- | 0.14 | 1.61 | 0.91 | 2.88 |  | 806 |  |
+| Styrene | Styrene, 2,5-dichloro- | 0.268 | 0.08 | 0.81 | 0.14 | Y | 14 |  |
+| Styrene | Styrene, 2,5-dichloro- | 0.18 | 0.25 |  |  |  | 411 |  |
+| Styrene | Styrene, 2,5-dichloro- | 0.23 |  | 2.2 |  |  | 419 |  |
+| Styrene | Styrene, 2,5-dichloro- | 0.26 | 0.17 | 0.14 | 0.04 | N | 84 |  |
+| Styrene | Styrene, 2,4,5-tribromo- | 0.23 |  | 2.78 |  |  | 1054 |  |
+| Styrene | Styrene, 3-tri-n-butylstannyl- | 18.5 | 0.03 |  |  |  | 985 |  |
+| Styrene | Styrene, 4-(1-butyldimethylsilyloxy)- | 0.877 | 0.351 | 0.863 | 0.193 | Y | 976 |  |
+| Styrene | Styrene, 4-(trimethylsilyl)- | 0.48 | 0.28 |  |  |  | 1036 |  |
+| Styrene | Styrene, 4-phenoxy- | 1.38 |  | 0.94 |  |  | 602 |  |
+| Styrene | Styrene, a-(trimethylsilyloxy)- | 1.48 | 0 |  |  |  | 970 |  |
+| Styrene | Styrene, a-methoxy- | 2.51 | 0.34 | 0.07 | 0.05 | N | 142 |  |
+| Styrene | Styrene, a-methyl- | 1.21 | 0.41 | 0.14 | 0.06 | N | 171 |  |
+| Styrene | Styrene, a-methyl- | 0.96 | 0.03 | 0.05 | 0.13 | N | 281 |  |
+| Styrene | Styrene, a-methyl- | 1.09 | 0.3 |  |  |  | 281 |  |
+| Styrene | Styrene, a-methyl- | 1.13 | 0.4 |  |  |  | 281 |  |
+| 0.521 | 0.084 | Styrene | Styrene, a-methyl- | 1.08 | 0.11 | Y | 289 |  |
+| Styrene | Styrene, a-methyl- | 1.12 | 0.63 |  |  |  | 289 |  |
+| Styrene | Styrene, m-amino- | 1.04 | 1.16 |  |  |  | 775 |  |
+| Styrene | Styrene, m-amino- | 0.786 | 0.01 | 1.18 | 0.007 | Y | 989 |  |
+| Styrene | Styrene, m-bromo- | 0.5 | 1.6 |  |  |  | 168 |  |
+| Styrene | Styrene, m-bromo- | 0.55 | 1.05 |  |  |  | 256 |  |
+| Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Styrene | Styrene, m-nitro- | 0.279 | 0.055 | 0.5 | 0.14 | Y | 222 |
+| Styrene | Styrene, m-sulfonic acid fluoride | 0.788 | 0.183 | 1.268 | 0.236 |  | 806 |
+| Styrene | Styrene, p-2-methoxyphenyl ketone | 0.23 | 0.07 | 1.52 | 0.58 |  | 806 |
+| Styrene | Styrene, p-4-methoxyphenyl ketone | 0.423 | 0.071 | 1.85 | 0.93 |  | 806 |
+| Styrene | Styrene, p-2-(2-hydroxypropyl)- | 0.5 |  | 0.56 |  |  | 390 |
+| Styrene | Styrene, p-2-(2-hydroxypropyl)- | 0.79 |  | 1.25 |  |  | 547 |
+| Styrene | Styrene, p-bormo- | 0.69 |  | 1 |  |  | 554 |
+| Styrene | Styrene, p-nitro- | 0.193 | 0.092 | 1.13 | 0.13 | Y | 256 |
+| Styrene | Styrene, p-octylamine sulfonate | 0.7 |  | 2.7 |  |  | 817 |
+| Styrene | Styrene, p-sulfonic acid fluoride | 0.171 | 0.045 | 1.372 | 0.188 |  | 806 |
+| Styrene | Terpyridinyl, 4'-vinyl-2,2':6',2''- | 0.53 | 0.384 | 1.26 | 0.33 | N | 953 |
+| Styrene | Tetrazole, 2-methyl-5-(4'-vinyl)phenyl- | 0.65 |  | 1.3 |  |  | 583 |
+| Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Styrene | Toluenesulfonamide, N,N-methyl-vinyl- | 5.6 | 1.13 | -0.58 | 0.44 | Y | 80 |
+| Styrene | Triazine, 1,3,5-, 2-amino-4-(N-methyl-p-aminoanilino)- | 0.306 | 0.054 | 0.44 | 0.12 | Y | 364 |
+| Styrene | Triazine, 1,3,5-, 2-amino-4-(N-methyl-p-nitroanilino)- | 0.169 | 0.013 | 1.676 | 0.065 | Y | 364 |
+| Styrene | Triazine, 1,3,5-, 2-amino-4-(p-nitroanil)- | 0.257 | 0.062 | 0.91 | 0.18 | Y | 364 |
+| Styrene | Triazine, 4,6-diamino-2-vinyl- | 1.104 | 0.157 | 0.538 | 0.141 |  | 806 |
+| Styrene | Triazole, 1,2,3-, 1-p-bromophenyl-4-vi | 1.32 | 0.15 | 0.73 | 0.4 | Y | 670 |
+| Styrene | Triazole, 1,2,3-, 4(5)-vinyl- | 1.48 | 0.12 | 0.52 | 0.26 | Y | 670 |
+| Styrene | Valerolactone, a-methylen- | 0.097 |  | 1.42 |  |  | 919 |
+| Styrene | Valerolactone, a-methylene- | 0.096 |  | 1.44 |  |  | 855 |
+| Styrene | Vinyl 2-, 2-methyl-4,4,6-6-tetraphenyl-cyclotrisiloxane | 0.11 |  | 0.8 |  |  | 626 |
+| Styrene | Vinyl 4, dithiobenzoate methylVinyl 4-chlorocyclohexyl ketone | 0.111 0.53 | 0.009 | 2.08 0.58 | 0.81 | Y | 697 668 |
+| Styrene | Vinyl cymantrene | 2.324 | 0.06 | 0.096 | 0.014 | Y | 354 |
+| Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Styrene | Vinyl, 1-cyano, acetate | 0.181 | 0.409 | 0.147 | 0.033 |  | 806 |
+| Styrene | Vinyl, 2-bromo, ethyl ether |  |  |  |  | Y | 194 |
+| Styrene | Vinyl, p-benzylmethylcarbinol | 0.98 | 0.32 | 0.94 | 0.15 | Y | 48 |
+| Styrene | Vinylacetophenone, p- | 0.246 | 0.072 | 1.12 | 0.42 | Y | 266 |
+| Styrene | Vinylanthracene, 9- | 2.12 | 0.3 | 0.123 |  |  | 123 |
+| Styrene | Vinylanthracene, 9- | 2.12 | 0.3 | 0.048 |  |  | 48 |
+| Styrene | Vinylbenzoic acid, p- | 0.282 | 0.011 | 1.029 | 0.06 | Y | 266 |
+| Styrene | Vinylene carbonate | 411 | 3.16 |  |  | Y | 103 |
+| Styrene | Vinylene carbonate | 21.03 | 23.45 | -0.73 | 0.98 | Y | 120 |
+| Monomer 1 | Monomer 2 | rx | ±95% | r2 | ±95% | Conv. | Refs. |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Styrene | Vinylphenylpropanol, 2-p- | 0.48 | 0.3 | 0.41 | 0.4 | Y | 72 |
+| Styrene | Vinyltrimethylsilane |  |  |  |  | Y | 482 |
+| Styrene | Xanathate, 5-methacryloyl O-ethyl | 0.44 | 0.06 | 0.36 | 0.08 |  | 1086 |
+| Styrene sulfonate, sodium salt | N-Vinylpyrrolidone | 7.19 |  | 0.084 |  |  | 939 |
+| Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Styrene, m-bromo- | Methacrylate, methyl |  |  |  |  | Y | 150 |
+| Styrene, m-nitro- | Methacrylate, methyl | 0.8 | 0.32 | 0.35 | 0.11 | Y | 222 |
+| Styrene, m-nitro- | Styrene | 0.5 | 0.14 | 0.279 | 0.055 | Y | 222 |
+| Styrene, m-nitro- | Styrene, p-chloro- | 1.73 | 0.47 | 0.3 | 0.14 | Y | 222 |
+| Styrene, m-sulfonic acid fluoride | Styrene | 1.268 | 0.236 | 0.788 | 0.183 |  | 806 |
+| Styrene, p-2-methoxyphenyl ketone | Styrene | 1.52 | 0.58 | 0.23 | 0.07 |  | 806 |
+| Styrene, p-1-(2-hydroxybutyl)- | Acrylate, butyl | 0.4 |  | 0.17 |  |  | 548 |
+| Styrene, p-1-(2-hydroxybutyl)- | Acrylate, methyl | 0.48 |  | 0.18 |  |  | 548 |
+| Styrene, p-1-(2-hydroxybutyl)- | Acrylonitrile | 0.31 |  | 0.04 |  |  | 548 |
+| Styrene, p-2-(2-hydroxypropyl)- | Acrylonitrile | 0.41 |  | 0.05 |  |  | 547 |
+| Styrene, p-2-(2-hydroxypropyl)- | Styrene | 0.56 |  | 0.5 |  |  | 390 |
+| Styrene, p-2-(2-hydroxypropyl)- | Styrene | 1.25 |  | 0.79 |  |  | 547 |
+| Styrene, p-2-(2-hydroxypropyl)- | Styrene, p-chloro- | 0.53 |  | 1.24 |  |  | 547 |
+| Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Styrene, p-4-methoxyphenyl ketone | Styrene | 1.85 | 0.93 | 0.423 | 0.071 |  | 806 |
+| Styrene, p-N,N-dimethylaminomethyl- | Benzophenone, p-vinyl | 0.26 | 0.017 | 2.54 | 0.136 | Y | 86 |
+| Styrene, p-chloro- | Styrene, m-nitro- | 0.3 | 0.14 | 1.73 | 0.47 | Y | 222 |
+| Styrene, p-chloro- | Styrene, p-2-(2-hydroxypropyl)- | 1.24 |  | 0.53 |  |  | 547 |
+| Styrene, p-chloro- | Vinyl, p-, benzylmethylcarbinol | 1 |  | 1 |  | Y | 48 |
+| Styrene, p-chloromethyl- | Phosphazene, isopropenylpentafluoro- | 1.64 | 0.58 | -0.048 | 0.067 | Y | 765 |
+| Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Styrene, p-formyl- | Styrene | 3 | 0.2 |  |  |  | 956 |
+| Styrene, p-methoxy- | Acrylate, methyl | 2 |  |  |  |  | 558 |
+| Styrene, p-methoxy- | Methacrylate, methyl | 0.32 | 0.29 |  |  |  | 128 |
+| Styrene, p-methoxy- | Styrene | 0.79 | 1.05 |  |  |  | 535 |
+| Styrene, p-methyl- | Acrylate, methyl | 1.54 | 0.17 |  |  |  | 558 |
+| Styrene, p-methyl- | Acrylonitrile | 0.33 | 0.05 |  |  |  | 378 |
+| Styrene, p-methyl- | Methacrylate, methyl | 0.44 |  |  |  |  | 256 |
+| Styrene, p-methyl- | Styrene, p-chloro- | 0.61 | 1.15 |  |  |  | 256 |
+| Styrene, p-methyl- | Vinyl methyl sulfoxide | 2.73 | 0.01 |  |  |  | 737 |
+| Styrene, p-nitro- | Styrene | 1.13 | 0.13 | 0.193 | 0.092 | Y | 256 |
+| Styrene, p-octylamine sulfonate | Acrylate, butyl | 2.3 | 0.3 |  |  |  | 817 |
+| Styrene, p-octylamine sulfonate | Methacrylate, butyl | 1.5 | 0.7 |  |  |  | 817 |
+| Styrene, p-octylamine sulfonate | Methacrylate, methyl | 2.6 | 0.6 |  |  |  | 817 |
+| Styrene, p-octylamine sulfonate | Styrene | 2.7 | 0.7 |  |  |  | 817 |
+| Styrene, p-sulfonic acid fluoride | Styrene | 1.372 | 0.188 | 0.171 | 0.045 |  | 806 |
+| Styrene, p-tert-butyl- | Methacrylate, methyl | 0.5 | 0.44 |  |  |  | 634 |
+| Styrene, p-trimethoxysilyl- | Imidazole, N-vinyl- | 6.9 | 0.002 |  |  |  | 1095 |
+| Styrene, pentachloro- | Vinyl chloride | 5.3 | 0.43 |  |  |  | 516 |
+| Styrene, tert-butoxy- | Fumarate, dibutyl | 0.18 | 0.01 |  |  |  | 1077 |
+| Styrenesulfonate, p-, sodium | Acrolein | 0.047 | 0.071 | 0.26 | 0.16 | Y | 57 |
+| Styrenesulfonate, p-, sodium | Acrolein | 0.327 | 0.033 | 0.395 | 0.092 | Y | 57 |
+| Styrenesulfonate, p-, sodium | Acrolein | 0.01 | 0.009 | 0.113 | 0.018 | Y | 57 |
+| Styrenesulfonate, p-, sodium | Acrylate, α-chloro-, sodium | 1.44 | 0.31 | 0.27 | 0.06 | Y | 834 |
+| Succinamate, potassium N-vinyl- | Methacrylate, methyl | -0.02 | 0.12 | 1.1 | 0.17 | Y | 771 |
+| Succinimide, N-vinyl- | Acrylamide | 0.17 | 1.86 |  |  |  | 600 |
+| Succinimide, N-vinyl- | Acrylate, butyl | 0.15 | 1.54 |  |  |  | 789 |
+| Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Sulfonate, 2-acrylamido- | Acrylamide, N,N-dimethyl- | 0.162 | 0.949 | 1.108 | 0.59 | Y | 857 |
+| 2-methylpropane-, sodium |  |  |  |  |  |  |  |
+| Sulfonic acid, o-methacryloylamino- | Methacrylic acid | 0.217 | 0.122 | 0.203 | 0.067 | Y | 1006 |
+| benzene |  |  |  |  |  |  |  |
+| Sulfonic acid, o-methacryloylamino- | Methacrylic acid | 0.523 | 0.195 | 0.188 | 0.076 | Y | 1006 |
+| benzene |  |  |  |  |  |  |  |
+| Sulfonic acid, o-methacryloylamino- | Pyridine, 2-methyl-5-vinyl- | 1.83 | 0.218 | -0.002 | 0.031 | Y | 1006 |
+| benzene |  |  |  |  |  |  |  |
+| Sulfonic acid, p-methacryloylamino- | Methacrylic acid | 1.08 | 0.338 | 0.156 | 0.081 | Y | 1006 |
+| benzene |  |  |  |  |  |  |  |
+| Sulfonic acid, p-methacryloylamino- | Methacrylic acid | 1.65 | 0.27 | 0.155 | 0.052 | Y | 1006 |
+| benzene |  |  |  |  |  |  |  |
+| Sulfonic acid, p-methacryloylamino- | Pyridine, 2-methyl-5-vinyl- | 2.72 | 0.525 | -0.054 | 0.048 | Y | 1006 |
+| benzene |  |  |  |  |  |  |  |
+| Tetrazole, 2-methyl-5-(4'-vinyl)phenyl- | Acrylonitrile | 1.1 |  | 0.42 |  |  | 583 |
+| Tetrazole, 2-methyl-5-(4'-vinyl)phenyl- | Styrene | 1.3 |  | 0.65 |  |  | 583 |
+| Tetrazole, 2-methyl-5-(4'-vinyl)phenyl- | Vinylidene chloride | 1.9 |  | 0.13 |  |  | 583 |
+| Thioindigoid | Methacrylate, butyl | 0.5 |  | 11.5 |  |  | 1007 |
+| Titanium, dicylopentadienyl-, | Copper diacrylate | 0.89 |  | 1.09 |  |  | 895 |
+| dimethacrylate |  |  |  |  |  |  |  |
+| Titanium, dicylopentadienyl-, | Nickel diacrylate | 0.65 |  | 0.95 |  |  | 895 |
+| dimethacrylate |  |  |  |  |  |  |  |
+| Toluenesulfonamide, N,N-methyl-vinyl- | Acrylonitrile | 0.04 | 1.04 | 0.42 | 0.12 | Y | 80 |
+| Toluenesulfonamide, N,N-methyl-vinyl- | Methacrylate methyl | -1.83 | 0.26 | 1.87 | 0.19 | Y | 80 |
+| Toluenesulfonamide, N,N-methyl-vinyl- | Styrene | -0.58 | 0.44 | 5.6 | 1.13 | Y | 80 |
+| Toluenesulfonamide, N,N-methyl-vinyl- | Vinyl butyl ether | -0.31 | 0.29 | 3.37 | 1.65 | Y | 80 |
+| Triazine, 4,6-diamino-2-vinyl- | Styrene | 0.538 | 0.141 | 1.104 | 0.157 |  | 806 |
+| Triazine, 1,3,5-2-amino-4-(N-methyl- | Styrene | 0.44 | 0.12 | 0.306 | 0.054 | Y | 364 |
+| p-aminoanilino)-6-isopropenyl- |  |  |  |  |  |  |  |
+| Triazine, 1,3,5-2-amino-4-(N-methyl- | Styrene | 1.676 | 0.065 | 0.169 | 0.013 | Y | 364 |
+| p-aminoanilino)-6-isopropenyl- |  |  |  |  |  |  |  |
+| Triazine, 1,3,5-2-amino-4- | Styrene | 0.91 | 0.18 | 0.257 | 0.062 | Y | 364 |
+| (p-nitroanilino)-6-isopropenyl- |  |  |  |  |  |  |  |
+| Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Acrylate, ferrocenylmethyl | Maleic anhydride | -0.3 | 2.96 | 0.09 | 0.14 | Y | 325 |
+| Acrylate, ferrocenylmethyl | Methacrylate, methyl | 0.024 | 0.064 | 2.8 | 0.19 | Y | 293 |
+| Acrylate, ferrocenylmethyl | Methacrylate, methyl | 0.08 |  | 2.9 |  |  | 293 |
+| Acrylate, ferrocenylmethyl | Styrene | -0.016 | 0.06 | 1.87 | 0.17 | Y | 293 |
+| Acrylate, ferrocenylmethyl | Styrene | 0.02 |  | 2.3 |  |  | 293 |
+| Acrylate, ferrocenylmethyl | Styrene | 0.02 |  | 2.5 |  |  | 576 |
+| Acrylate, heptafluorobutyl | Methacrylate, methyl | 0.177 | 0.084 |  |  | Y | 206 |
+| Acrylate, methyl | 2-Oxazolinium BF4, 3-methyl- | 0.096 | 0.057 | 0.251 | 0.483 | Y | 908 |
+| Acrylate, methyl | 2-Oxazolinium, 2-isopropenyl- | 0.191 | 0.031 | 2.08 | 0.327 | Y | 908 |
+| Acrylate, methyl | Acrylamide, N-propyl- | 1.2 | 0.26 |  |  |  | 730 |
+| Acrylate, methyl | Acrylate, dibutylchlorotin | 0.81 | 0.09 |  |  |  | 659 |
+| Acrylate, methyl | Acrylate, ferrocenylmethyl | 4.46 |  | 0.14 |  |  | 293 |
+| Acrylate, methyl | Acrylate, tributyltin | 0.82 | 0.03 |  |  |  | 659 |
+| Acrylate, methyl | Allyl chloride |  |  |  |  | Y | 204 |
+| Acrylate, methyl | Allyl chloride | 5.45 | 0.07 |  |  |  | 437 |
+| Acrylate, methyl | Allyl chloride | 9.1 | -0.02 |  |  |  | 437 |
+| Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Triazine, 2-allyloxy-4,6-dichloro- | Pyrrolidone, N-vinyl- | 0.5 |  | 0.98 |  |  | 826 |
+| Triazine, 4,6-diamino-2-vinyl- | Vinyl methyl ketone | 1.35 | 0.68 | 0.17 | 0.11 | Y | 243 |
+| Triazole, 1,2,3-, 1-p-bromophenyl-4-vinyl- | Methacrylate, methyl | 0.266 | 0.058 | 0.832 | 0.022 | Y | 670 |
+| Triazole, 1,2,3-, 1-p-bromophenyl-4-vinyl- | Styrene | 0.73 | 0.4 | 1.32 | 0.15 | Y | 670 |
+| Triazole, 1,2,3-, 1-p-bromophenyl-4-vinyl- | Vinyl acetate | 42.47 | 9.84 | -0.011 | 0.008 | Y | 670 |
+| Triazole, 1,2,3-, 4(5)-vinyl- | Methacrylate, methyl | 0.27 | 0.13 | 0.839 | 0.055 | Y | 670 |
+| Triazole, 1,2,3-, 4(5)-vinyl- | Styrene | 0.52 | 0.26 | 1.48 | 0.12 | Y | 670 |
+| Triazole, 1-N-vinyl-1,2,4- | Imidazole, 1-N-vinyl |  |  |  |  | N | 972 |
+| Tropone, 2-methacryloyloxy- | Acrylate, ethyl | 3.13 | 0.528 | 0.387 | 0.027 | Y | 1104 |
+| Urea, N-acryloyl-N'-benzoyl- | Methacrylate, methyl | 0.053 | 0.404 |  |  |  | 1090 |
+| Urea, N-vinyl-N'-ethyl- | Vinyl acetate | 3.61 | 0.16 |  |  | Y | 683 |
+| Urea, N-vinyl-N'-ethyl- | Vinyl acetate | 1.45 | 0.38 |  |  |  | 683 |
+| Valerolactone, a-methylene- | Styrene | 1.42 | 0.097 |  |  |  | 919 |
+| Valerolactone, a-methylene- | Styrene | 1.44 | 0.096 |  |  |  | 855 |
+| Vinyl 12-ketostearate | Vinyl acetate | -0.28 | 0.18 |  |  | Y | 146 |
+| Vinyl 12-ketostearate | Vinyl chloride | -0.01 | 0.03 |  |  | Y | 146 |
+| Vinyl 2-bromo-ethyl ether | Styrene |  |  |  |  | Y | 194 |
+| Vinyl 2-chlorocyclohexyl ketone | Maleic anhydride | 1.7 | 0.83 |  |  |  | 836 |
+| Vinyl 2-chloroethyl ether | Acrylate, ethyl | 0 | 4.65 |  |  |  | 726 |
+| Vinyl 2-chloroethyl ether | Acrylate, methyl | 0 | 3.27 |  |  |  | 726 |
+| Vinyl 2-chloroethyl ether | Acrylonitrile | 0 | 1.09 |  |  |  | 597 |
+| Vinyl 2-chloroethyl ether | Methacrylate, methyl | 0 | 18.8 |  |  |  | 597 |
+| Vinyl 2-chloroethyl ether | Styrene | 0.07 | 160 |  |  |  | 597 |
+| Vinyl 2-chloroethyl ether | Vinyl acetate | 0.16 | 2.36 |  |  |  | 597 |
+| Vinyl 3,3-bis(ethoxycarbonyl)propyl | Acrylonitrile | 0.06 | 1.02 |  |  |  | 1015 |
+| Vinyl 4-dithiobenzoate methyl | Methacrylate, methyl | 0.3 | 0.29 | 0.151 | 0.092 | Y | 697 |
+| Vinyl 4-dithiobenzoate methyl | Styrene | 2.08 | 0.81 | 0.111 | 0.009 | Y | 697 |
+| Vinyl 4-chlorocyclohexyl ketone | Maleic anhydride | 0.12 | 0.08 |  |  |  | 836 |
+| Vinyl 4-chlorocyclohexyl ketone | Methacrylate, methyl | 0.51 | 0.77 |  |  |  | 668 |
+| Vinyl 4-chlorocyclohexyl ketone | Styrene | 0.58 | 0.53 |  |  |  | 668 |
+| Vinyl 4-chlorocyclohexyl ketone | Vinyl acetate | 0.15 | 0.1 |  |  |  | 668 |
+| Vinyl 4-chlorocyclohexyl ketone | Vinyl cyclohexyl ketone | 0.5 | 1.6 |  |  |  | 668 |
+| Vinyl N,N-methylacetamide | Vinyl acetate | 0.93 | 0.49 |  |  |  | 631 |
+| Vinyl a-chloro-, triethoxysilane | Acrylonitrile |  | 237 |  |  |  |  |
+| Vinyl acetate | 2-Oxazolinium BF4, 3-methyl- | 0.114 | 0.021 | 0.413 | 0.005 | Y | 908 |
+| Vinyl acetate | Acetamide, N-vinyl- | 0.6 | 5.5 |  |  |  | 984 |
+| Vinyl acetate | Acetamide, N-vinyl- | 0 | 21 |  |  |  | 984 |
+| Vinyl acetate | Acetate, 2-chloro-, vinyl | 0.8 | 1.18 |  |  |  | 892 |
+| Vinyl acetate | Acetate, allyl | 1.8 | 0.43 |  |  |  | 1045 |
+| Vinyl acetate | Acetate, chloro-, allyl | 0.77 | 0.69 |  |  |  | 1045 |
+| Vinyl acetate | Acetate, dichloro-, allyl | 0.57 | 0.54 |  |  |  | 1045 |
+| Vinyl acetate | Acetate, trichloro-, allyl | 0.41 | 0.28 |  |  |  | 1045 |
+| Vinyl acetate | Acrolein, methyl | 0.15 | 0.98 |  |  |  | 589 |
+| Vinyl acetate | Acrylamido, 2-, -2-methylpropane-sulfonate | 0.05 |  | 11.6 |  |  | 700 |
+| Monomer 1 | Monomer 2 | rx | ±95% | r2 | ±95% | Conv. | Refs. |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Vinyl acetate | Acrylamidomethylamino, p-,azobenzene | 0.126 |  | 12.98 |  |  | 858 |
+| Vinyl acetate | Acrylate, sodium |  |  |  |  | Y | 37 |
+| Vinyl acetate | Acrylonitrile |  |  |  |  | N | 235 |
+| Vinyl acetate | Allyl chloride | 0.66 | 0.15 | 0.61 | 0.15 | Y |  |
+| Vinyl acetate | Allystearamide, N- | 0.923 | 0.092 | 0.68 | 0.26 | Y | 119 |
+| Vinyl acetate | Bicyclo[2.2.1]hept-2-ene-5,6-dicarboximide, N-benzyl | 1.26 |  | 0.35 |  |  | 994 |
+| Vinyl acetate | Bicyclo[2.2.1]hept-2-ene-5,6-dicarboximide, N-benzyl | 1.46 |  |  | 0.15 |  | 994 |
+| Vinyl acetate | Bicyclo[2.2.1]hept-2-ene-5,6-dicarboximide, N-benzyl | 1.99 |  | 0.014 |  |  | 994 |
+| Vinyl acetate | Carbon monoxide | 0.24 |  | 0.33 |  |  | 474 |
+| Vinyl acetate | Diallyl β-cyanoethylisocyanurate | 0.06 |  | 4.6 |  |  | 778 |
+| Vinyl acetate |  |  |  |  |  |  |  |
+|  | Acrylate, methyl Acrylonitrile 5,6-dicarboximide, N-benzyl Crotonic acid Crotonic acid Diallyl melamine | 0.04 -0.06 0.317 0.31 0.68 | 0.01 0.08 0.081 0.07 0.026 | 7.28 5.29 0.04 0.001 0.318 | 0.37 1.13 0.14 0.1 0.073 | Y Y N Y | 858 570 1067 489 75 3 438 47 201 |
+| Monomer 1 | Monomer 2 | rx | ±95% | r2 | ±95% | Conv. | Refs. | Monomer 1 | Monomer 2 | rx | ±95% | r2 | ±95% | Conv. | Refs. |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Vinyl acetate | Diallyl phthalate | 0.414 | 0.029 | 1.66 | 0.16 | Y | 297 | Vinyl acetate | Diallyl phthalate | 0.72 | 1.2 | 509 |  |  |  |  |
+| Vinyl acetate | Diallyl, 1,3-, 5-(2-hydroxy-3-phenoxypropyl) | 0.15 | 5.5 | 671 |  |  |  |  |  |  |  |  |  |  |  |  |
+| Vinyl acetate | Diallyl, 1,3-, 5-(2-hydroxy-3-phenoxypropyl) | 0.16 | 3.65 | 676 |  |  |  |  |  |  |  |  |  |  |  |  |
+| Vinyl acetate | Diallylcyanamide | 0.01 | 1.62 | 581 |  |  |  | Vinyl acetate | Diallyldimethylammonium chloride | 0.35 | 1.95 | 1029 |  |  |  |  |
+| Vinyl acetate | Ethylene | 0.72 | 1.2 | 0.16 | 0.03 | N | 309 | Vinyl acetate | Ethylene | 1.14 | 0.28 | 413 |  |  |  |  |
+| Vinyl acetate | Ethylene | 1.52 | 0.74 | 559 |  |  |  | Vinyl acetate | Ethylene | 1.03 | 0.77 | 0.88 | 0.52 | N | 42 |  |
+| Vinyl acetate | Ethylene | 1.23 | 0.21 | 0.13 | 0.01 | N | 68 | Vinyl acetate | Ethylene | 1.4 | 0.79 | 766 |  |  |  |  |
+| Vinyl acetate | Ethylene | 0.33 | 0.58 | -0.13 | 0.36 | Y | 6 | Vinyl acetate | Ethylene, chlorotrifluoro- | 0.68 | 0.11 | 0.04 | 0.02 | Y | 1097 |  |
+| Vinyl acetate | Ethylene, chlorotrifluoro- | 0.47 | -0.02 | Y | 236 | Vinyl acetate | Ethylene, dichloro-, cis- | 1.02 | 0.27 | 0.055 | 0.024 | Y | 137 |  |  |  |
+| Vinyl acetate | Ethylene, dichloro-, cis- | 6.4 | 0.01 | Y | 137 | Vinyl acetate | Ethylene, dichloro-, cis- | 0.898 | 0.06 | 0.058 | 0.03 | Y | 9 |  |  |  |
+| Vinyl acetate | Ethylene, dichloro-, cis- | 4.13 | 1.94 | 0.1 | 0.14 | Y | 9 | Vinyl acetate | Ethylene, tetrachloro- | 4.45 | 1.87 | -0.07 | 0.015 | Y | 3 |  |
+| Vinyl acetate | Ethylene, tetrachloro- | Y | 59 | Vinyl acetate | Ethylene, trichloro- | 0.607 | 0.076 | -0.06 | 0.34 | Y | 158 |  |  |  |  |  |
+| Vinyl acetate | Ethylene, trichloro- | 0.7 | 0.1 | -0.006 | 0.019 | Y | 9 | Vinyl acetate | Fumarate, diethyl | 0.011 | 0.007 | Y | 137 |  |  |  |
+| Vinyl acetate | Fumarate, diethyl | 0.09 | 0.33 | 718 |  |  |  | Vinyl acetate | Fumarate, diisopropyl | 0.012 | 0.9 | 1038 |  |  |  |  |
+| Vinyl acetate | Fumaryl chloride | Y | 91 | Vinyl acetate | Hexatriene, tetrachloro- | Y | 4 |  |  |  |  |  |  |  |  |  |
+| Imidazole, 1-vinyl- | Vinyl acetate | -0.11 | 1.17 | 1.9 | 6.99 | Y | 364 | Vinyl acetate | Indene | 0.39 | 0.2 | 8.64 | 2.8 | Y | 360 |  |
+| Vinyl acetate | Isobutylene | 1.66 | 0.18 | 0.17 | 0.19 | Y | 211 | Vinyl acetate | Isobutylene, 3-chloro- | 0.13 | 0 | 475 |  |  |  |  |
+| Vinyl acetate | Isopropenyl acetate | 1.171 | 0.038 | 1.082 | 0.074 | Y | 100 | Vinyl acetate | Itaconate, dimenthyl | Y | 975 |  |  |  |  |  |
+| Vinyl acetate | Itaconic anhydride | -0.019 | 0.045 | 1.57 | 0.36 | Y | 365 | Vinyl acetate | Itaconic anhydride | -0.04 | 0.024 | 2.87 | 0.32 | Y | 365 |  |
+| Vinyl acetate | Maleate, di-tert-butyl | 0.005 | 0.024 | 0.199 | 0.02 | Y | 1049 | Vinyl acetate | Maleate, diethyl | 0.171 | 0.025 | 0.04 | 0.012 | Y | 137 |  |
+| Vinyl acetate | Maleate, dimethyl | -0.006 | 0.084 | 0.257 | 0.086 | Y | 1049 | Vinyl acetate | Maleic anhydride | 0.019 | 0.008 | -0.058 | 0.074 | Y | 260 |  |
+| Vinyl acetate | Maleimide, N-(2-hydroxyethyl)- | -0.014 | 0.037 | 0.61 | 0.12 | Y | 323 | Vinyl acetate | Maleimide, N-(2-hydroxyethyl)- | 0.01 | 0.041 | 0.88 | 0.17 | Y | 323 |  |
+| Vinyl acetate | Maleimide, N-(2-hydroxyphenyl)- | -0.011 | 0.027 | 1.75 | 0.17 | Y | 323 | Vinyl acetate | Maleimide, N-hydroxymethyl- | 0.017 | 0.037 | 1.45 | 0.21 | Y | 323 |  |
+| Vinyl acetate | Maleimide, N-phenyl- | -0.003 | 0.006 | 1.284 | 0.046 | Y | 328 | Vinyl acetate | Methacrylamide, 1-deoxy-D-glucitol | 0.16 | 0.56 | 258 |  |  |  |  |
+| Vinyl acetate | Methacrylate, 2,2,6,6-tetramethyl-4-piperidinyl | 0.2 | 13.7 | 664 |  |  |  |  |  |  |  |  |  |  |  |  |
+| Vinyl acetate | Methacrylate, butyl | -0.003 | 0.15 | 30.18 | 14.47 | Y | 165 | Vinyl acetate | Methacrylate, di-, di-n-butylstannyl | 0.013 | 0.018 | 0.013 | 0.036 | Y | 949 |  |
+| Vinyl acetate | Methacrylate, ethyl | -0.77 | 5.29 | 131.8 | 29.8 | N | 210 | Vinyl acetate | Methacrylate, ferrocenylmethyl | 0.2 | 1.52 | 293 |  |  |  |  |
+| Vinyl acetate | Methacrylate, isobutyl | -0.06 | 0.22 | 29.7 | 24.16 | Y | 165 | Vinyl acetate | Methacrylate, methyl | -0.2 | 0.01 | 2.71 | 0.25 | Y | 158 |  |
+| Vinyl acetate | Methacrylate, methyl | -0.81 | 1.17 | 137.5 | 5.9 | N | 210 | Vinyl acetate | Methacrylate, methyl | 0.03 | 26 | 272 |  |  |  |  |
+| Vinyl acetate | Methacrylate, methyl | 0.04 | 28.6 | 383 |  |  |  | Vinyl acetate | Methacrylate, methyl | 0.07 | 22.21 | 471 |  |  |  |  |
+| Vinyl acetate | Methacrylate acid | 0.01 | 0.2 | 377 |  |  |  | Vinyl acetate | Methacrylonitrile | 0.01 | 12 | 75 |  |  |  |  |
+| Vinyl acetate | N,N-Divinylaniline | 0.058 | 0.009 | 3.99 | 0.12 | Y | 45 |  |  |  |  |  |  |  |  |  |
+| Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Vinyl acetate | Oxazoline, 2-, 4-acryloxymethyl- | 0.03 |  | 1.41 |  |  | 596 |
+|  | dimethyl-2,4-dimethyl |  |  |  |  |  |  |
+| Vinyl acetate | Oxazoline, 2-, 4-methacryloxy- | 0.05 |  | 6.2 |  |  | 596 |
+|  | 2,4-dimethyl |  |  |  |  |  |  |
+| Vinyl acetate | Oxazolinium, 2- tetrafluoroborate, | 0.43 | 0.057 | 0.366 | 0.151 | Y | 877 |
+|  | 3-methyl |  |  |  |  |  |  |
+| Vinyl acetate | Phosphonate, a-carbomethoxyvinyl-, | 0.09 |  | 0.6 |  |  | 684 |
+|  | diethyl |  |  |  |  |  |  |
+| Vinyl acetate | S-Ethyl N-vinyl-N-methylthiolcarbamate | 0.67 | 0.1 | 1.22 | 1.17 | Y | 197 |
+| Vinyl acetate | S-Vinyl N,N-diethylthiolcarbamate | 0.133 | 0.025 | 1.89 | 0.77 | Y | 197 |
+| Vinyl acetate | Triazole, 1,2,3-, 1-p-bromophenyl- | -0.011 | 0.008 | 42.47 | 9.84 | Y | 670 |
+|  | 4-vinyl |  |  |  |  |  |  |
+| Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Vinyl acetate | Vinyl butyl ether | 0.71 | 0.2 |  |  |  | 448 |
+| Vinyl acetate | Vinyl butyl ether | 2.5 | 0.16 |  |  |  | 553 |
+| Vinyl acetate | Vinyl butyrate | 1 | 0.97 |  |  |  | 272 |
+| Vinyl acetate | Vinyl butyrate | 1.35 | 1.25 |  |  |  | 515 |
+| Vinyl acetate | Vinyl cyclohexyl ketone | 0.08 | 13.76 |  |  |  | 846 |
+| Vinyl acetate | Vinyl cymantrene | 0.072 | 0.003 | 7.21 | 1.01 | Y | 354 |
+| Vinyl acetate | Vinyl dodecyl ether | 3.67 | 0 |  |  |  | 372 |
+| Vinyl acetate | Vinyl ethyl ether | 3.42 | 0.26 |  |  | Y | 158 |
+| Vinyl acetate | Vinyl fluoride | 3.5 | 0.25 |  |  |  | 755 |
+| Vinyl acetate | Vinyl formate | 1.41 | 0.68 |  |  |  | 401 |
+| Vinyl acetate | Vinyl isopropyl ketone | 0.3 | 7.87 |  |  |  | 601 |
+| Vinyl acetate | Vinyl laurate | 1.4 | 0.7 |  |  |  | 503 |
+| Vinyl acetate | Vinyl methyl ketone |  |  |  |  | Y | 91 |
+| Vinyl acetate | Vinyl octadecyl ether | 4.5 | 0 |  |  |  | 372 |
+| Vinyl acetate | Vinyl octyl ether | 3.47 | 0 |  |  |  | 372 |
+| Vinyl acetate | Vinyl propionate | 0.9 | 1 |  |  |  | 425 |
+| Vinyl acetate | Vinyl stearate | 0.9 | 0.73 |  |  |  | 537 |
+| Vinyl acetate | Vinyl tert-butyl sulfide | 13 | 0.07 |  |  |  | 598 |
+| Vinyl acetate | Vinyl tert-butyl sulfide | 13 | 0.07 |  |  |  | 601 |
+| Vinyl acetate | Vinyl thiolacetate | 0.05 | 5.5 |  |  |  | 566 |
+| Vinyl acetate | Vinyl, N-, N-methylacetamide | 0.49 | 0.93 |  |  |  | 631 |
+| Vinyl acetate | Vinylene carbonate | 3.2 | 0.62 | 0.3 | 0.3 | Y | 103 |
+| Vinyl acetate | Vinylene carbonate | 3 |  | 0.27 |  |  | 103 |
+| Vinyl acetate | Vinylene carbonate | 7.3 | 0.13 |  |  |  | 120 |
+| Vinyl acetate | Vinylene carbonate | 3.83 | 0.18 | 0.044 | 0.039 | Y | 144 |
+| Vinyl acetate | Vinylene carbonate | 3.92 | 0.32 | 0.08 | 0.11 | Y | 90 |
+| Vinyl acetate | Vinylidene chloride | 0.05 | 6.7 |  |  |  | 432 |
+| Vinyl acetate | Vinylidene chloride | 0.05 | 5 |  |  |  | 436 |
+| Vinyl acetate | Vinylidene chloride | 0.12 | 4.7 |  |  |  | 812 |
+| Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Vinyl butyl ether | Acrylonitrile |  |  |  |  | N | 345 |
+| Vinyl butyl ether | Benzenesulfamide, p-methacrylamide- | 0 |  | 3.4 | 0.1 |  | 1005 |
+| Vinyl butyl ether | Methacrylate, methyl |  |  |  |  | N | 127 |
+| Vinyl butyl ether | Toluenesulfonamide, N,N-methyl-vinyl- | 3.37 | 1.65 | -0.31 | 0.29 | Y | 80 |
+| Vinyl butyrate | Butadiene, 2-chloro- |  |  |  |  | N | 247 |
+| Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Vinyl chloride | Acrylamide |  |  |  |  | Y | 156 |
+| Vinyl chloride | Acrylamide, N-methylol- |  |  |  |  | Y | 157 |
+| Vinyl chloride | Allyl acetate | 1.2 |  |  |  |  | 470 |
+| Vinyl chloride | Carbon monoxide | 13.52 | 0.25 | 0.121 | 0.011 | Y | 184 |
+| Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Vinyl chloride | Isobutylene | 1.54 |  |  |  |  | 560 |
+| Vinyl chloride | Isobutylene, 3-chloro- | 0.31 |  |  |  |  | 475 |
+| Vinyl chloride | Maleate, diethyl | 0.8 |  |  |  |  | 449 |
+| Vinyl chloride | Propenyl, 2-, acetate | 2.2 |  | 0.25 |  |  | 189 |
+| Vinyl chloride | Propenyl, 2-chloro-, acetate | 0.7 |  | 0 |  |  | 445 |
+| Vinyl chloride | Propenyltriethoxysilane |  |  |  |  | Y | 237 |
+| Vinyl chloride | Propylene | 2.9 |  |  |  |  | 588 |
+| Vinyl chloride | Pyridine, 4-vinyl- |  |  |  |  | Y | 154 |
+| Vinyl chloride | Styrene | 0.01 | 0.87 | 14.7 | 29.2 | Y |  |
+| Vinyl chloride |  |  |  |  |  |  | 59 |
+| Vinyl chloride Vinyl chloride Vinyl chloride Vinyl chloride Vinyl chloride Vinyl chloride Vinyl chloride Vinyl chloride Vinyl chloride Vinyl chloride Vinyl chloride Vinyl chloride Vinyl chloride Vinyl chloride Vinyl chloride Vinyl chloride Vinyl chloride Vinyl chloride Vinyl chloride |  |  |  |  |  |  |  |
+| Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Vinyl chloride | Vinylene carbonate | 4.82 | 0.49 | 0.03 | 0.12 | Y | 103 |
+| Vinyl chloride | Vinylene carbonate | 15.38 | 1.44 | 0.069 | 0.068 | Y | 319 |
+| Vinyl chloride | Vinylene carbonate | 17.81 | 7.84 | 0 | 0.22 | Y | 319 |
+| Vinyl chloride | Vinylphenylisocyanate, p- | 0.01 |  | 11.9 |  |  | 777 |
+| Monomer 1 | Monomer 2 | r1 | ±95% | r2 | ±95% | Conv. | Refs. |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Vinyl chloroacetate | Styrene | 0.03 |  |  |  |  | 542 |
+| Vinyl chloroformate | Methacrylic anhydride |  |  |  |  | Y | 106 |
+| Vinyl cinnamate | Methacrylonitrile | 0.15 | 4.6 | 200 |  |  |  |
+| Vinyl cinnamate | Vinyl acetate | 1.2 | 0.04 | 200 |  |  |  |
+| Vinyl cyclohexyl ketone | Vinyl 4-chlorocyclohexyl ketone | 1.6 | 0.5 | 668 |  |  |  |
+| Vinyl cyclohexyl ketone | Vinyl acetate | 13.76 | 0.08 | 846 |  |  |  |
+| Vinyl cymantrene | Acrylate, methyl | 0.211 | 0.067 | 0.46 | 0.14 | Y | 354 |
+| Vinyl cymantrene | Acrylonitrile | -0.065 | 0.093 | 0.446 | 0.048 | Y | 354 |
+| Vinyl cymantrene | Pyrrolidone, N-vinyl- | 0.093 | 0.053 | 0.037 | 0.03 | Y | 308 |
+| Vinyl cymantrene | Styrene | 0.096 | 0.014 | 2.324 | 0.06 | Y | 354 |
+| Vinyl dichloroacetate | Acrylonitrile | 0.18 | 0.25 | 542 |  |  |  |
+| Vinyl dichloroacetate | Styrene | 0.28 |  | 542 |  |  |  |
+| Vinyl dodecyl ether | Acrylonitrile | 0 | 0.82 |  |  |  | 373 |
+| Vinyl dodecyl ether | Styrene | 0 | 27 |  |  |  | 374 |
+| Vinyl dodecyl ether | Styrene | 0 | 56 |  |  |  | 374 |
+| Vinyl dodecyl ether | Vinyl acetate | 0 | 3.67 |  |  |  | 372 |
+| Vinyl dodecyl ether | Vinyl chloride | 0.15 | 1.93 |  |  |  | 370 |
+| Vinyl dodecyl ether | Vinylidene chloride | 0 | 1.3 |  |  |  | 371 |
+| Vinyl ether | Acrylonitrile | 0.02 | 0.94 |  |  |  | 386 |
+| Vinyl ether | Pyridine, 4-vinyl- | 0.03 |  |  |  |  | 395 |
+| Vinyl ethyl ether | Acrylate, methyl | 0 | 3.3 |  |  |  | 470 |
+| Vinyl ethyl ether | Ethylene | 0 | 2.7 |  |  |  | 584 |
+| Vinyl ethyl ether | Methacrylate methyl | 0.01 |  |  |  |  | 106 |
+| Vinyl ethyl ether | Styrene | 0 | 90 | 140 |  |  |  |
+| Vinyl ethyl ether | Vinyl acetate | 0.26 | 3.42 |  |  | Y | 158 |
+| Vinyl ethyl ether | Vinylidene chloride | 0 | 3.2 | 470 |  |  |  |

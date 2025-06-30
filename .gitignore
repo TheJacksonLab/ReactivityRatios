@@ -233,6 +233,8 @@ temp/
 
 # Configuration files with sensitive information
 config.json
+setting.json
+settings.json
 secrets.json
 .secrets
 
