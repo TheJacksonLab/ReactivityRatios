@@ -1,125 +1,76 @@
-# Reactivity Ratio Calculation Toolkit
+# ReactivityRatios: Machine Learning for Copolymer Reactivity Prediction
 
-A comprehensive toolkit for calculating reactivity ratios in copolymerization reactions and generating transition state geometries.
+Repository for the submitted paper:
+
+> **Chen J, Jackson N. Radical Reactivity Ratio Predictions for Copolymers with an Interpretable Machine Learning Model.** *ChemRxiv*. 2025; doi:10.26434/chemrxiv-2025-d2s45  
+> *This content is a preprint and has not been peer-reviewed.*
 
 ## Overview
 
-This toolkit provides a workflow for analyzing monomer reactivity ratios and generating transition state geometries for copolymerization reactions. It leverages RDKit for molecular manipulation and XTB for geometry optimization, offering a streamlined approach to studying polymerization kinetics.
+A computational toolkit for predicting copolymerization reactivity ratios using quantum chemical descriptors and machine learning. Combines DFT calculations, molecular descriptors, and interpretable ML models to predict how different monomers will copolymerize.
 
-## Features
+## Quick Start
 
-- Process monomer SMARTS patterns from CSV data
-- Generate dimer geometries for transition states and products
-- Create comprehensive reaction dictionaries mapped by InChI keys
-- Perform constrained geometry optimizations using XTB
-- Configurable bond lengths for different reaction stages
+### Dependencies
+- **Python 3.8+** with RDKit, XGBoost, pandas, numpy
+- **ORCA** - DFT calculations
+- **Multiwfn** - Wavefunction analysis  
+- **XTB** - Geometry optimization
+
+### Basic Workflow
+```bash
+# 1. Generate molecular geometries from SMARTS patterns
+cd descriptor_gen
+python dimer_generate.py --settings settings/settings_Ccap.json
+
+# 2. Run DFT calculations (requires ORCA)
+python construct_orca_inp.py -xyz gen_xyz_cappingC -t orca_inp/wb97_cpcm_opt.inp -d DFT_cappingC
+# (Run ORCA calculations manually)
+
+# 3. Extract molecular descriptors
+find DFT_cappingC -name "*.gbw" | xargs -I {} -P 8 python descriptor_gen.py --gbw_path {}
+python parquet_compile.py --base_dir DFT_cappingC --output_file DFT_cappingC.parquet
+
+# 4. Train ML models
+cd ../ml_predict
+python xgboost_MR_task3.py
+```
 
 ## Directory Structure
 
-```
-└── Nick/
-    ├── data/                   # Input data files
-    │   └── monomer_react_ratio_smarts.csv  # Monomer data with SMARTS patterns
-    ├── utils/                  # Utility modules
-    │   ├── __init__.py         # Package initialization
-    │   ├── chem_data.py        # Chemical data utilities
-    │   ├── formatter.py        # CSV validation utilities
-    │   ├── molFF.py            # Molecular force field calculations
-    │   └── smarts_manipulation.py  # SMARTS pattern processing
-    ├── gen_xyz/                # Generated geometry files (XYZ format)
-    ├── dimer_generate.py       # Main script for dimer generation
-    └── settings.json           # Configuration settings
-```
+- **`dataset/`** - Experimental reactivity ratio data and DFT-calculated molecular descriptors
+- **`dataset_gen/`** - Tools for extracting data from polymer handbooks via OCR
+- **`descriptor_gen/`** - Quantum chemical calculation pipeline (ORCA, Multiwfn, XTB)
+- **`ml_predict/`** - Machine learning models for reactivity ratio prediction
+- **`utils/`** - Core utilities for chemical data processing and ML
+- **`DFT_barrier_result/`** - DFT energy barrier analysis results
 
-## Getting Started
+## Key Features
 
-### Prerequisites
+- **Automated Dataset Generation**: OCR processing of polymer handbooks
+- **Quantum Chemical Descriptors**: DFT-based molecular properties via ORCA/Multiwfn
+- **Machine Learning Models**: XGBoost, neural networks, SVMs for prediction
+- **Chemical Extrapolation**: Predict reactivity ratios for novel monomer pairs
+- **Interpretable Models**: Feature importance analysis and SHAP values
 
-- Python 3.6+
-- RDKit
-- NumPy
-- Pandas
-- XTB (for geometry optimization)
+## Data Sources
 
-### Installation
+- **Polymer Handbook**: ~1,500 experimental reactivity ratio measurements
+- **CKA Dataset**: High-quality manually curated data for validation
+- **DFT Calculations**: 50,000+ quantum chemical calculations at multiple theory levels
 
-1. Clone this repository
-2. Install required Python packages:
-   ```
-   pip install rdkit numpy pandas tqdm
-   ```
-3. Install XTB following the instructions at [https://github.com/grimme-lab/xtb](https://github.com/grimme-lab/xtb)
+## Citation
 
-### Configuration
-
-Edit the `settings.json` file to configure the toolkit:
-
-```json
-{
-    "data_dir": "data/",
-    "input_file": "monomer_react_ratio_smarts.csv",
-    "output_dir": "gen_xyz",
-    "skip_geometry": false,
-    "verbose": false,
-    
-    "bond_lengths": {
-        "PreTS": 2.24,
-        "": 1.8,
-        "PreSm": 3.0
-    }
+```bibtex
+@article{chen2025radical,
+  title={Radical Reactivity Ratio Predictions for Copolymers with an Interpretable Machine Learning Model},
+  author={Chen, Jingdan and Jackson, Nicholas},
+  journal={ChemRxiv},
+  year={2025},
+  doi={10.26434/chemrxiv-2025-d2s45}
 }
 ```
 
-### Usage
-
-Run the dimer generation script:
-
-```bash
-python dimer_generate.py
-```
-
-Or specify a custom settings file:
-
-```bash
-python dimer_generate.py --settings custom_settings.json
-```
-
-## File Formats
-
-### Input CSV Format
-
-The input CSV file should contain the following columns:
-- Monomer_1: Name of first monomer
-- Monomer_1_smi: SMILES string of first monomer
-- active_smi1: Active site SMILES for first monomer
-- r1: Reactivity ratio of first monomer
-- Monomer_2: Name of second monomer
-- Monomer_2_smi: SMILES string of second monomer
-- active_smi2: Active site SMILES for second monomer
-- r2: Reactivity ratio of second monomer
-- smarts_11, smarts_12, smarts_21, smarts_22: SMARTS patterns for different reaction combinations
-
-### Output Files
-
-- XYZ geometry files in the output directory
-- Pickle files containing:
-  - InChI key to SMILES mapping
-  - Reaction information dictionary
-  - InChI key to SMARTS mapping
-
-## Extending the Toolkit
-
-The modular design allows for easy extension:
-
-1. Add new utility functions in the utils directory
-2. Update the settings.json file to include new parameters
-3. Modify the scripts to incorporate new functionality
-
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Acknowledgments
-
-- RDKit team for the excellent cheminformatics toolkit
-- XTB developers for the efficient semi-empirical quantum chemistry package
+MIT License - see [LICENSE](LICENSE) file for details.
