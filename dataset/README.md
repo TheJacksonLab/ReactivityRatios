@@ -51,8 +51,4 @@ filtered = data[(data['r1'] > 0.0) & (data['r1'] < 50) &
                (data['r2'] > 0.0) & (data['r2'] < 50)]
 ```
 
-## Statistics
-- **~1,500 monomer pairs** across major vinyl monomer classes
-- **200+ unique monomers** 
-- **50,000+ DFT calculations**
-- **100+ molecular descriptors** per molecule
+
