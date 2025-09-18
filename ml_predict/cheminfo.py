@@ -158,12 +158,12 @@ def process_row(idx, exp_worksheet, mol_descriptors_rev, feature_list, capping_g
 
         rad1_inchiks, rad2_inchiks = rad2_inchiks, rad1_inchiks
 
-        ts11_inchiks, ts12_inchiks = ts22_inchiks, ts21_inchiks
-        ts21_inchiks, ts22_inchiks = ts12_inchiks, ts11_inchiks
+        ts11_inchiks, ts12_inchiks, ts21_inchiks, ts22_inchiks = \
+            ts22_inchiks, ts21_inchiks, ts12_inchiks, ts11_inchiks
 
-        sm11_inchiks, sm12_inchiks = sm22_inchiks, sm21_inchiks
-        sm21_inchiks, sm22_inchiks = sm12_inchiks, sm11_inchiks
-    
+        sm11_inchiks, sm12_inchiks, sm21_inchiks, sm22_inchiks = \
+            sm22_inchiks, sm21_inchiks, sm12_inchiks, sm11_inchiks
+
     potential_inchiks = [mol1_inchiks, mol2_inchiks, rad1_inchiks, rad2_inchiks, ts11_inchiks, ts12_inchiks, ts21_inchiks, ts22_inchiks,
                          sm11_inchiks, sm12_inchiks, sm21_inchiks, sm22_inchiks]
     potential_prefix = ['mol1_', 'mol2_', 'rad1_', 'rad2_', 'ts11_', 'ts12_', 'ts21_', 'ts22_',

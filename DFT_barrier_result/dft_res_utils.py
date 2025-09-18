@@ -124,13 +124,13 @@ def process_row(idx, exp_worksheet, mol_descriptors_rev, feature_list, capping_g
         rad1s, rad2s = rad2s, rad1s
         mol1_inchiks, mol2_inchiks = mol2_inchiks, mol1_inchiks
         rad1_inchiks, rad2_inchiks = rad2_inchiks, rad1_inchiks
-        ts11s, ts12s = ts22s, ts21s
-        ts21s, ts22s = ts12s, ts11s
-        ts11_inchiks, ts12_inchiks = ts22_inchiks, ts21_inchiks
-        ts21_inchiks, ts22_inchiks = ts12_inchiks, ts11_inchiks
+        ts11s, ts12s, ts21s, ts22s = ts22s, ts21s, ts12s, ts11s
 
-        sm11_inchiks, sm12_inchiks = sm22_inchiks, sm21_inchiks
-        sm21_inchiks, sm22_inchiks = sm12_inchiks, sm11_inchiks
+        ts11_inchiks, ts12_inchiks, ts21_inchiks, ts22_inchiks = \
+            ts22_inchiks, ts21_inchiks, ts12_inchiks, ts11_inchiks
+
+        sm11_inchiks, sm12_inchiks, sm21_inchiks, sm22_inchiks = \
+            sm22_inchiks, sm21_inchiks, sm12_inchiks, sm11_inchiks
         
     
     final_inchiks = mol1_inchiks + mol2_inchiks + rad1_inchiks + rad2_inchiks + \
@@ -223,7 +223,8 @@ def compute_r1_r2(series, ZPE_corr=1.0):
     G_act_12 = ts12_G - min(mol2_G + rad1_G, sm12_G)
     G_act_21 = ts21_G - min(mol1_G + rad2_G, sm21_G)
     G_act_22 = ts22_G - min(mol2_G + rad2_G, sm22_G)
-    
+
+    # print(f"G_act_11: {G_act_11 / 4.179 :.2f}, G_act_12: {G_act_12 / 4.179 :.2f}, G_act_21: {G_act_21 / 4.179 :.2f}, G_act_22: {G_act_22 / 4.179 :.2f}")
     ddG_1 = G_act_11 - G_act_12
     ddG_2 = G_act_22 - G_act_21
     # print(f"ddG_1: {ddG_1}, ddG_2: {ddG_2}")
@@ -286,3 +287,49 @@ def judge_type(x_tuple, d=0.5):
         return 3 # 'type 3'
     else:
         return 4 # 'type 4'
+    
+def compute_int_m_reactant(series, ZPE_corr=1.0):
+
+    T = series['T']
+    std_correction =  - 8.314 * T / 1000 * np.log(24.46)  # in kJ/mol
+    mol1_G = (series['mol1_Hcorr[au]'] + series['mol1_SPE[au]'] - series['mol1_TS[au]'] / 298 * T - series['mol1_ZPE[au]'] * (1. - ZPE_corr)) * HARTREE2KJ + std_correction
+    mol2_G = (series['mol2_Hcorr[au]'] + series['mol2_SPE[au]'] - series['mol2_TS[au]'] / 298 * T - series['mol2_ZPE[au]'] * (1. - ZPE_corr)) * HARTREE2KJ + std_correction
+    rad1_G = (series['rad1_Hcorr[au]'] + series['rad1_SPE[au]'] - series['rad1_TS[au]'] / 298 * T - series['rad1_ZPE[au]'] * (1. - ZPE_corr)) * HARTREE2KJ + std_correction
+    rad2_G = (series['rad2_Hcorr[au]'] + series['rad2_SPE[au]'] - series['rad2_TS[au]'] / 298 * T - series['rad2_ZPE[au]'] * (1. - ZPE_corr)) * HARTREE2KJ + std_correction
+
+    sm11_G = (series['sm11_Hcorr[au]'] + series['sm11_SPE[au]'] - series['sm11_TS[au]'] / 298 * T - series['sm11_ZPE[au]'] * (1. - ZPE_corr)) * HARTREE2KJ + std_correction
+    sm12_G = (series['sm12_Hcorr[au]'] + series['sm12_SPE[au]'] - series['sm12_TS[au]'] / 298 * T - series['sm12_ZPE[au]'] * (1. - ZPE_corr)) * HARTREE2KJ + std_correction
+    sm21_G = (series['sm21_Hcorr[au]'] + series['sm21_SPE[au]'] - series['sm21_TS[au]'] / 298 * T - series['sm21_ZPE[au]'] * (1. - ZPE_corr)) * HARTREE2KJ + std_correction
+    sm22_G = (series['sm22_Hcorr[au]'] + series['sm22_SPE[au]'] - series['sm22_TS[au]'] / 298 * T - series['sm22_ZPE[au]'] * (1. - ZPE_corr)) * HARTREE2KJ + std_correction
+    
+    G_diff_11 = sm11_G - (mol1_G + rad1_G)
+    G_diff_12 = sm12_G - (mol2_G + rad1_G)
+    G_diff_21 = sm21_G - (mol1_G + rad2_G)
+    G_diff_22 = sm22_G - (mol2_G + rad2_G)
+    
+
+    return [G_diff_11, G_diff_12, G_diff_21, G_diff_22]
+
+def compute_dG_act(series, ZPE_corr=1.0):
+
+    T = series['T']
+    std_correction =  - 8.314 * T / 1000 * np.log(24.46)  # in kJ/mol
+    mol1_G = (series['mol1_Hcorr[au]'] + series['mol1_SPE[au]'] - series['mol1_TS[au]'] / 298 * T - series['mol1_ZPE[au]'] * (1. - ZPE_corr)) * HARTREE2KJ + std_correction
+    mol2_G = (series['mol2_Hcorr[au]'] + series['mol2_SPE[au]'] - series['mol2_TS[au]'] / 298 * T - series['mol2_ZPE[au]'] * (1. - ZPE_corr)) * HARTREE2KJ + std_correction
+    rad1_G = (series['rad1_Hcorr[au]'] + series['rad1_SPE[au]'] - series['rad1_TS[au]'] / 298 * T - series['rad1_ZPE[au]'] * (1. - ZPE_corr)) * HARTREE2KJ + std_correction
+    rad2_G = (series['rad2_Hcorr[au]'] + series['rad2_SPE[au]'] - series['rad2_TS[au]'] / 298 * T - series['rad2_ZPE[au]'] * (1. - ZPE_corr)) * HARTREE2KJ + std_correction
+    ts11_G = (series['ts11_Hcorr[au]'] + series['ts11_SPE[au]'] - series['ts11_TS[au]'] / 298 * T - series['ts11_ZPE[au]'] * (1. - ZPE_corr)) * HARTREE2KJ + std_correction
+    ts12_G = (series['ts12_Hcorr[au]'] + series['ts12_SPE[au]'] - series['ts12_TS[au]'] / 298 * T - series['ts12_ZPE[au]'] * (1. - ZPE_corr)) * HARTREE2KJ + std_correction
+    ts21_G = (series['ts21_Hcorr[au]'] + series['ts21_SPE[au]'] - series['ts21_TS[au]'] / 298 * T - series['ts21_ZPE[au]'] * (1. - ZPE_corr)) * HARTREE2KJ + std_correction
+    ts22_G = (series['ts22_Hcorr[au]'] + series['ts22_SPE[au]'] - series['ts22_TS[au]'] / 298 * T - series['ts22_ZPE[au]'] * (1. - ZPE_corr)) * HARTREE2KJ + std_correction
+    sm11_G = (series['sm11_Hcorr[au]'] + series['sm11_SPE[au]'] - series['sm11_TS[au]'] / 298 * T - series['sm11_ZPE[au]'] * (1. - ZPE_corr)) * HARTREE2KJ + std_correction
+    sm12_G = (series['sm12_Hcorr[au]'] + series['sm12_SPE[au]'] - series['sm12_TS[au]'] / 298 * T - series['sm12_ZPE[au]'] * (1. - ZPE_corr)) * HARTREE2KJ + std_correction
+    sm21_G = (series['sm21_Hcorr[au]'] + series['sm21_SPE[au]'] - series['sm21_TS[au]'] / 298 * T - series['sm21_ZPE[au]'] * (1. - ZPE_corr)) * HARTREE2KJ + std_correction
+    sm22_G = (series['sm22_Hcorr[au]'] + series['sm22_SPE[au]'] - series['sm22_TS[au]'] / 298 * T - series['sm22_ZPE[au]'] * (1. - ZPE_corr)) * HARTREE2KJ + std_correction
+    
+    G_act_11 = (ts11_G - min(mol1_G + rad1_G, sm11_G)) / 4.179
+    G_act_12 = (ts12_G - min(mol2_G + rad1_G, sm12_G)) / 4.179
+    G_act_21 = (ts21_G - min(mol1_G + rad2_G, sm21_G)) / 4.179
+    G_act_22 = (ts22_G - min(mol2_G + rad2_G, sm22_G)) / 4.179
+
+    return [G_act_11, G_act_12, G_act_21, G_act_22]

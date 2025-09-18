@@ -37,9 +37,9 @@ from cheminfo import judge_type, unpack_list_column
 from utils.model import train_xgb_model_regressor
 
 def main(random_state=42):
-    mol_descriptors_path = "/Users/jingdan/Desktop/scrugs/project/0418_capping/DFT_cappingC.parquet"
+    mol_descriptors_path = "../dataset/DFT_cappingC.parquet"
     unrelated_descriptors = ["react_atom_serial", ]
-    exp_worksheet = pd.read_csv('../data/monomer_react_ratio_smarts.csv')
+    exp_worksheet = pd.read_csv('../dataset/monomer_react_ratio_smarts.csv')
     capping_group = "[*]C"
     capping_name = capping_group.replace("*", "").replace("[", "").replace("]", "")
     excepted_mol_num = 4
@@ -239,9 +239,9 @@ def main(random_state=42):
     test_f1 = f1_score(test_label, test_label_predict, average='weighted')
 
 
-    test_mol_descriptors_path = "/Users/jingdan/Desktop/scrugs/project/0418_capping/DFT_CKAs_cappingC.parquet"
+    test_mol_descriptors_path = "../dataset/DFT_CKAs_cappingC.parquet"
     unrelated_descriptors = ["react_atom_serial", ]
-    test_exp_worksheet = pd.read_csv('../data/CKAs.csv')
+    test_exp_worksheet = pd.read_csv('../dataset/CKAs.csv')
 
     capping_group = "[*]C"
     excepted_mol_num = 4
